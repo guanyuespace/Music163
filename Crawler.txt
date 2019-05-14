@@ -1,0 +1,1556 @@
+status:HTTP/1.1 200 OK  url:http://music.163.com/ 
+status:HTTP/1.1 200 OK  url:http://music.163.com/discover 
+歌单id:534497099  	歌单：我在等电影片尾彩蛋时听什么 
+歌单id:534497099  歌单：我在等电影片尾彩蛋时听什么  描述: 电影彩蛋指电影中不仔细寻觅，会被忽略的有趣细节；还有就是影片剧情结束后，在演职员表滚屏时或之后出现的电影片段，通常是一些幽默场景或是跟续集有关的情节线索。所以，彩蛋可分为剧中和片尾两种。
+—————
+本歌单主要收录在等片尾彩蛋时听到的片尾曲。
+
+1. 超市夜未眠
+2. 饥饿游戏：星火燎原 
+3. once
+4. 死待
+5. 致命魔术 
+6. 纳尼亚传奇2
+7. 狂野目标
+8. 了不起的盖茨比 
+9. 指环王-护戒使者
+10. 少年时代 
+11. 荒野生存
+12. 指环王-王者归来
+13. 达拉斯买家俱乐部
+14. 明日边缘
+15. one day
+16. 驯龙高手
+17. 疯狂原始人
+18. 王牌特工
+19. 海上钢琴师
+20. 水果硬糖
+21. 撞车
+22. 搏击俱乐部
+23. 和莎莫的500天
+24. 珍爱人生 
+25. 朱诺 
+26. 情枭的黎明
+27. 关键第四号
+28. 末路狂花
+29. 三个火qiang手 
+30. 暮光之城 
+31. 斗士
+32. 秘密特工
+33. 海洋之歌
+34. 时光恋旅人
+35. 星尘 
+36. 蝴蝶效应
+37. 谍影重重3 
+38. 纽约黑帮 
+39. 迷失东京
+40. 疯狂动物城
+41 .歌曲改变人生
+42. 速度与激情7 
+43. 唱街
+44. 垫底辣妹
+45.比海更深
+46. 变形金刚
+47. 怦然心动
+48. 偷心
+49. 这个杀手不太冷
+50. 盗梦空间
+51.超能陆战队
+52. 你的名字
+53. 银河护卫队2
+54. 至爱梵高
+55. 请以你的名字呼唤我
+现在，看电影似乎很少有人会为了听一支电影的片尾曲，为了看一看影片幕后的工作人员――灯光师、化妆师、音响师、剪辑、烟火、舞美……的名字而留下。他们的汗水我们看不到，他们的名字我们不熟悉。
+
+希望电影院能尊重音乐人和幕后工作人员，等影片放完最后一秒再亮灯。也希望看电影的我们即使电影院的灯亮了，即使没有彩蛋，也不要走，请再静静地坐上几分钟，看看片尾字幕上的名字，听听电影片尾曲……  图片：http://p1.music.126.net/rBSHVVHz-tmdm6Xs-Iw9OQ==/109951162830651540.jpg  
+	(所属用户 Id: 40857731  用户名：  银河系花  个性签名: 一朵盛开在浩瀚星海里的花。  pic: http://p1.music.126.net/z40dslyXHqhpnRx2H9sCxg==/109951162825153700.jpg  pic: http://p1.music.126.net/1sIvvUmzsKj_ouPvxSu6IA==/109951163065207691.jpg)
+	歌曲id: 1415024     	歌曲：She  	歌手id: 34201  	歌手：Grand Avenue  
+	歌曲id: 27965138     	歌曲：Atlas  	歌手id: 89365  	歌手：Coldplay  
+	歌曲id: 4340790     	歌曲：Once  	歌手id: 34134  	歌手：Glen Hansard  	歌手id: 68968  	歌手：Markéta Irglová  
+	歌曲id: 41654774     	歌曲：Shoop  	歌手id: 75282  	歌手：Salt-N-Pepa  
+	歌曲id: 19278638     	歌曲：Analyse  	歌手id: 44284  	歌手：Thom Yorke  
+	歌曲id: 1426246     	歌曲：The Call  	歌手id: 72722  	歌手：Regina Spektor  
+	歌曲id: 18367084     	歌曲：Mayhem  	歌手id: 60846  	歌手：Imelda May  
+	歌曲id: 27649992     	歌曲：Together  	歌手id: 102035  	歌手：The xx  
+	歌曲id: 1428295     	歌曲：May It Be  	歌手id: 55520  	歌手：Enya  
+	歌曲id: 28784402     	歌曲：Deep Blue  	歌手id: 85525  	歌手：Arcade Fire  
+	歌曲id: 1304038     	歌曲：Guaranteed  	歌手id: 32686  	歌手：Eddie Vedder  
+	歌曲id: 1427943     	歌曲：Into the West  	歌手id: 34520  	歌手：Howard Shore  
+	歌曲id: 27950068     	歌曲：Life Is Strange  	歌手id: 688009  	歌手：T. Rex  
+	歌曲id: 26429479     	歌曲：Love Me Again  	歌手id: 195302  	歌手：John Newman  
+	歌曲id: 27579168     	歌曲：We Had Today  	歌手id: 72764  	歌手：Rachel Portman  
+	歌曲id: 18614901     	歌曲：Sticks & Stones  	歌手id: 36798  	歌手：Jónsi  	歌手id: 35389  	歌手：John Powell  
+	歌曲id: 26367760     	歌曲：Shine Your Way  	歌手id: 40859  	歌手：Owl City  	歌手id: 106626  	歌手：Yuna  
+	歌曲id: 29764237     	歌曲：Get Ready For It  	歌手id: 102002  	歌手：Take That  
+	歌曲id: 5027101     	歌曲：Lost Boys Calling  	歌手id: 41944  	歌手：Roger Waters  
+	歌曲id: 16845579     	歌曲：Elephant Woman  	歌手id: 88152  	歌手：Blonde Redhead  
+	歌曲id: 4279655     	歌曲：Maybe Tomorrow  	歌手id: 99995  	歌手：Stereophonics  
+	歌曲id: 27070579     	歌曲：Where Is My Mind  	歌手id: 98542  	歌手：Pixies  
+	歌曲id: 5041857     	歌曲：She's Got You High  	歌手id: 38955  	歌手：Mumm-Ra  
+	歌曲id: 16586707     	歌曲：It Took A Long Time (Album Version)  	歌手id: 64311  	歌手：LaBelle  
+	歌曲id: 5044386     	歌曲：Anyone Else But You  	歌手id: 39684  	歌手：Michael Cera  	歌手id: 212132  	歌手：Ellen Page  
+	歌曲id: 1500107     	歌曲：You Are So Beautiful  	歌手id: 35404  	歌手：Joe Cocker  
+	歌曲id: 22599047     	歌曲：Letters From The Sky  	歌手id: 89749  	歌手：Civil Twilight  
+	歌曲id: 5058508     	歌曲：Part Of Me, Part Of You  	歌手id: 58208  	歌手：Glenn Frey  
+	歌曲id: 19567191     	歌曲：When We Were Young  	歌手id: 102002  	歌手：Take That  
+	歌曲id: 5042917     	歌曲：Leave Out All The Rest  	歌手id: 95439  	歌手：Linkin Park  
+	歌曲id: 5039276     	歌曲：How You Like Me Now?  	歌手id: 83126  	歌手：The Heavy  
+	歌曲id: 33933233     	歌曲：Take Care of Business  	歌手id: 69324  	歌手：Nina Simone  
+	歌曲id: 29849050     	歌曲：Song of the sea (lullaby)  	歌手id: 69328  	歌手：Nolwenn Leroy  
+	歌曲id: 27810037     	歌曲：How Long Will I Love You  	歌手id: 56598  	歌手：Ellie Goulding  
+	歌曲id: 19567446     	歌曲：Rule The World - Radio Edit  	歌手id: 102002  	歌手：Take That  
+	歌曲id: 4225537     	歌曲：Stop Crying Your Heart Out  	歌手id: 98110  	歌手：Oasis  
+	歌曲id: 423118329     	歌曲：Extreme Ways (Jason Bourne)  	歌手id: 38857  	歌手：Moby  
+	歌曲id: 5052753     	歌曲：The Hands That Built America  	歌手id: 104493  	歌手：U2  
+	歌曲id: 5051350     	歌曲：Just Like Honey/More Than This  	歌手id: 215670  	歌手：Jesus & Mary Chain / Bryan Ferry  
+	歌曲id: 41554868     	歌曲：Try Everything (From "Zootopia")  	歌手id: 74623  	歌手：Shakira  
+	歌曲id: 28737747     	歌曲：Lost Stars  	歌手id: 196215  	歌手：Adam Levine  
+	歌曲id: 30953009     	歌曲：See You Again (feat. Charlie Puth)  	歌手id: 46006  	歌手：Wiz Khalifa  	歌手id: 90331  	歌手：Charlie Puth  
+	歌曲id: 407185498     	歌曲：Go Now  	歌手id: 196215  	歌手：Adam Levine  
+	歌曲id: 38358277     	歌曲：Brand New Day  	歌手id: 15473  	歌手：瀬川英史  
+	歌曲id: 413740180     	歌曲：深呼吸  	歌手id: 15218  	歌手：ハナレグミ  
+	歌曲id: 5045762     	歌曲：What I've Done  	歌手id: 95439  	歌手：Linkin Park  
+	歌曲id: 5039981     	歌曲：Let It Be Me  	歌手id: 71136  	歌手：Phil Everly  
+	歌曲id: 5051046     	歌曲：The Blower's Daughter  	歌手id: 31188  	歌手：Damien Rice  
+	歌曲id: 1934649     	歌曲：Shape Of My Heart  	歌手id: 42938  	歌手：Sting  
+	歌曲id: 1426503     	歌曲：Time  	歌手id: 34517  	歌手：Hans Zimmer  
+	歌曲id: 29535483     	歌曲：Immortals (End Credit Version) ["From "Big Hero 6”]  	歌手id: 56782  	歌手：Fall Out Boy  
+	歌曲id: 426881506     	歌曲：なんでもないや (movie ver.)  	歌手id: 21132  	歌手：RADWIMPS  
+	歌曲id: 473602863     	歌曲：Guardians Inferno  	歌手id: 31508  	歌手：David Hasselhoff  	歌手id: 12388032  	歌手：The Sneepers  
+	歌曲id: 507783538     	歌曲：Starry Starry Night  	歌手id: 66263  	歌手：Lianne La Havas  
+	歌曲id: 516358165     	歌曲：Visions of Gideon  	歌手id: 42955  	歌手：Sufjan Stevens  
+歌单id:2015911166  	歌单：前桌的你，是我曾去学校听课唯一的理由 
+歌单id:2015911166  歌单：前桌的你，是我曾去学校听课唯一的理由  描述: 好久不见了，前桌的你
+其实写了很多想对你说的话，现在总结成了这一句
+甜甜的暗恋，她（他）曾是你好好学习的动力，想着有一天可以考到一所学校，还能默默守护着你，还能爱着你
+懵懂的爱情，无奈的离别，你出现我的青春，我从不后悔爱过你，可能那个时候还不懂到底什么是爱，但那个时候就是我最真挚的感情
+中间的歌曲还是想选一点甜蜜的学生时代一起听过的歌，最后的歌还是选择了青春离别，爱人，朋友，母校
+就说这么多吧，我想说的都在这些歌里，如果可以，我们谈一场不说再见的恋爱吧
+
+封面Pixiv ID: 49683850  图片：http://p1.music.126.net/hsp1jDRXWivVWzK1HiMzcw==/109951163085335314.jpg  
+	(所属用户 Id: 368175037  用户名：  DJ顾念晨  个性签名: 支持私信，VX：Comeonzhiyuxi 可私聊  新浪：NJ顾念晨  VX公众号：DJ顾念晨 粉丝群：299182947  pic: http://p1.music.126.net/10GGN1eVWWRiLnlVom7jFw==/109951163088041564.jpg  pic: http://p1.music.126.net/TSjuZoaAwRrFmKaJk4kA_A==/109951163101679905.jpg)
+	歌曲id: 484069912     	歌曲：前桌后座  	歌手id: 844198  	歌手：黄睿铭  
+	歌曲id: 28784280     	歌曲：那些年我们一起追过的女孩  	歌手id: 208391  	歌手：7JZ  	歌手id: 188141  	歌手：满舒克  	歌手id: 0  	歌手：孔艺明  	歌手id: 789450  	歌手：何山  
+	歌曲id: 28738159     	歌曲：别忘了  	歌手id: 10558  	歌手：周笔畅  
+	歌曲id: 518771350     	歌曲：你的名字，我的青春  	歌手id: 12308471  	歌手：顾曼秋  
+	歌曲id: 440796020     	歌曲：那时少年  	歌手id: 1039021  	歌手：曾楠  
+	歌曲id: 96890     	歌曲：那年我们十七岁  	歌手id: 3112  	歌手：何润东  
+	歌曲id: 519935084     	歌曲：爱你的我十八岁  	歌手id: 1058190  	歌手：左颜  
+	歌曲id: 482386133     	歌曲：那个男孩  	歌手id: 5538  	歌手：汪苏泷  
+	歌曲id: 416700587     	歌曲：十九岁  	歌手id: 1025202  	歌手：黄子韬  
+	歌曲id: 518895664     	歌曲：未说完的秘密  	歌手id: 5103  	歌手：孙子涵  
+	歌曲id: 107830     	歌曲：请让我继续喜欢你  	歌手id: 3654  	歌手：柯震东  
+	歌曲id: 483671599     	歌曲：追光者  	歌手id: 7409  	歌手：岑宁儿  
+	歌曲id: 229336     	歌曲：一个像夏天一个像秋天  	歌手id: 7652  	歌手：范玮琪  
+	歌曲id: 97357     	歌曲：那些年  	歌手id: 3273  	歌手：胡夏  
+	歌曲id: 186016     	歌曲：晴天  	歌手id: 6452  	歌手：周杰伦  
+	歌曲id: 108468     	歌曲：小酒窝  	歌手id: 3684  	歌手：林俊杰  	歌手id: 7227  	歌手：蔡卓妍  
+	歌曲id: 85571     	歌曲：我们俩  	歌手id: 2843  	歌手：郭顶  
+	歌曲id: 446875807     	歌曲：十年  	歌手id: 3715  	歌手：梁朝伟  	歌手id: 8327  	歌手：李宇春  
+	歌曲id: 27588992     	歌曲：致青春  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 247498     	歌曲：那年的情书  	歌手id: 8147  	歌手：江美琪  
+	歌曲id: 32639505     	歌曲：年少有你  	歌手id: 3765  	歌手：李易峰  
+	歌曲id: 399354289     	歌曲：不说再见  	歌手id: 711683  	歌手：好妹妹乐队  
+	歌曲id: 28661452     	歌曲：最好的我们  	歌手id: 808050  	歌手：杨炅翰  
+	歌曲id: 34228130     	歌曲：剩下的盛夏  	歌手id: 827728  	歌手：TFBOYS  	歌手id: 1033013  	歌手：嘻游记  
+	歌曲id: 315061     	歌曲：与你最后的夏天  	歌手id: 10089  	歌手：司夏  
+	歌曲id: 247557     	歌曲：最后一个夏天  	歌手id: 8259  	歌手：金莎  
+	歌曲id: 26248001     	歌曲：致我们终将逝去的青春  	歌手id: 6891  	歌手：赵英俊  
+	歌曲id: 29588122     	歌曲：亲爱的同学  	歌手id: 1024320  	歌手：茉茉天空  
+	歌曲id: 472442212     	歌曲：夏天的味道  	歌手id: 9941  	歌手：许飞  
+	歌曲id: 27984964     	歌曲：青春再见  	歌手id: 861777  	歌手：华晨宇  	歌手id: 909029  	歌手：白举纲  	歌手id: 816009  	歌手：左立  	歌手id: 992001  	歌手：张阳阳  
+	歌曲id: 28987651     	歌曲：花开那年  	歌手id: 5349  	歌手：魏晨  
+	歌曲id: 26090155     	歌曲：送别  	歌手id: 4721  	歌手：朴树  
+歌单id:909747538  	歌单：『治愈女声』 温暖沉静，治愈心灵 
+歌单id:909747538  歌单：『治愈女声』 温暖沉静，治愈心灵  描述: 寻找最温暖的时光，治愈那冰寒的心灵。  图片：http://p1.music.126.net/AMUM8Xn23zO6WC9sRVlT-g==/18525671418437057.jpg  
+	(所属用户 Id: 41751076  用户名：  流年忧光影  个性签名: 好好听歌～～  pic: http://p1.music.126.net/6jyi1gjCjh2PGPBBCMFBuA==/18557557255594819.jpg  pic: http://p1.music.126.net/6jyi1gjCjh2PGPBBCMFBuA==/18557557255594819.jpg)
+	歌曲id: 210089     	歌曲：依恋  	歌手id: 7221  	歌手：蔡淳佳  
+	歌曲id: 247516     	歌曲：相思垢  	歌手id: 8259  	歌手：金莎  
+	歌曲id: 255907     	歌曲：胆小鬼  	歌手id: 8329  	歌手：梁咏琪  
+	歌曲id: 376971     	歌曲：樱花草  	歌手id: 12728  	歌手：Sweety  
+	歌曲id: 330706     	歌曲：星语心愿  	歌手id: 10584  	歌手：张柏芝  
+	歌曲id: 298838     	歌曲：传奇  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 287021     	歌曲：绿光  	歌手id: 9272  	歌手：孙燕姿  
+	歌曲id: 254639     	歌曲：秘密  	歌手id: 8328  	歌手：蓝又时  
+	歌曲id: 306672     	歌曲：寻水的鱼  	歌手id: 9941  	歌手：许飞  
+	歌曲id: 299075     	歌曲：我愿意  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 287398     	歌曲：我不难过  	歌手id: 9272  	歌手：孙燕姿  
+	歌曲id: 30431376     	歌曲：易燃易爆炸  	歌手id: 1007170  	歌手：陈粒  
+	歌曲id: 354601     	歌曲：你的微笑  	歌手id: 11562  	歌手：F.I.R.  
+	歌曲id: 4873594     	歌曲：迷宫  	歌手id: 9604  	歌手：王若琳  
+	歌曲id: 25698047     	歌曲：亲密爱人  	歌手id: 9604  	歌手：王若琳  
+	歌曲id: 254037     	歌曲：爱久见人心  	歌手id: 8325  	歌手：梁静茹  
+	歌曲id: 299445     	歌曲：流年  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 280175     	歌曲：征服  	歌手id: 9061  	歌手：那英  
+	歌曲id: 229336     	歌曲：一个像夏天一个像秋天  	歌手id: 7652  	歌手：范玮琪  
+	歌曲id: 247498     	歌曲：那年的情书  	歌手id: 8147  	歌手：江美琪  
+	歌曲id: 307679     	歌曲：突然想起你  	歌手id: 9945  	歌手：萧亚轩  
+	歌曲id: 286980     	歌曲：雨天  	歌手id: 9272  	歌手：孙燕姿  
+	歌曲id: 368800     	歌曲：越长大越孤单  	歌手id: 12437  	歌手：牛奶咖啡  
+	歌曲id: 282131     	歌曲：囚鸟  	歌手id: 9106  	歌手：彭羚  
+	歌曲id: 101824     	歌曲：三寸天堂  	歌手id: 10296  	歌手：严艺丹  
+	歌曲id: 276904     	歌曲：外面的世界  	歌手id: 8926  	歌手：莫文蔚  
+	歌曲id: 28561288     	歌曲：寻人启事  	歌手id: 9940  	歌手：徐佳莹  
+	歌曲id: 32619064     	歌曲：年轮  	歌手id: 1024308  	歌手：张碧晨  
+	歌曲id: 28314060     	歌曲：听海  	歌手id: 10559  	歌手：张惠妹  
+	歌曲id: 258235     	歌曲：雨蝶  	歌手id: 8353  	歌手：李翊君  
+	歌曲id: 255973     	歌曲：短发  	歌手id: 8329  	歌手：梁咏琪  
+	歌曲id: 327933     	歌曲：约定  	歌手id: 10569  	歌手：周蕙  
+	歌曲id: 239026     	歌曲：想起  	歌手id: 7894  	歌手：韩雪  
+	歌曲id: 209758     	歌曲：倒带  	歌手id: 7219  	歌手：蔡依林  
+	歌曲id: 276269     	歌曲：女人花  	歌手id: 8918  	歌手：梅艳芳  
+	歌曲id: 230299     	歌曲：我要我们在一起  	歌手id: 7662  	歌手：范晓萱  
+	歌曲id: 25713022     	歌曲：我的歌声里  	歌手id: 9178  	歌手：曲婉婷  
+	歌曲id: 22740077     	歌曲：左边  	歌手id: 10199  	歌手：杨丞琳  
+	歌曲id: 299601     	歌曲：笑忘书  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 277111     	歌曲：如果没有你  	歌手id: 8926  	歌手：莫文蔚  
+	歌曲id: 326705     	歌曲：关于我爱你  	歌手id: 10557  	歌手：张悬  
+	歌曲id: 308353     	歌曲：钟无艳  	歌手id: 9952  	歌手：谢安琪  
+	歌曲id: 247821     	歌曲：阳光下的星星  	歌手id: 8151  	歌手：金海心  
+	歌曲id: 223994     	歌曲：你要的爱  	歌手id: 7535  	歌手：戴佩妮  
+	歌曲id: 247864     	歌曲：那么骄傲  	歌手id: 8151  	歌手：金海心  
+	歌曲id: 29713754     	歌曲：匆匆那年  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 307057     	歌曲：类似爱情  	歌手id: 9945  	歌手：萧亚轩  
+	歌曲id: 27836179     	歌曲：终于等到你  	歌手id: 10561  	歌手：张靓颖  
+	歌曲id: 287719     	歌曲：开始懂了  	歌手id: 9272  	歌手：孙燕姿  
+	歌曲id: 306664     	歌曲：身骑白马  	歌手id: 9940  	歌手：徐佳莹  
+	歌曲id: 326784     	歌曲：我最亲爱的  	歌手id: 10559  	歌手：张惠妹  
+	歌曲id: 239188     	歌曲：没那么简单  	歌手id: 7896  	歌手：黄小琥  
+	歌曲id: 307780     	歌曲：七月七日晴  	歌手id: 9950  	歌手：许慧欣  
+	歌曲id: 299757     	歌曲：红豆  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 209115     	歌曲：鱼  	歌手id: 7217  	歌手：陈绮贞  
+	歌曲id: 247491     	歌曲：爱的魔法  	歌手id: 8259  	歌手：金莎  
+	歌曲id: 366752     	歌曲：爱你  	歌手id: 9606  	歌手：王心凌  
+	歌曲id: 210042     	歌曲：说爱你  	歌手id: 7219  	歌手：蔡依林  
+	歌曲id: 5272940     	歌曲：飘摇  	歌手id: 10563  	歌手：周迅  
+	歌曲id: 287749     	歌曲：天黑黑  	歌手id: 9272  	歌手：孙燕姿  
+	歌曲id: 326997     	歌曲：趁早  	歌手id: 10559  	歌手：张惠妹  
+	歌曲id: 229302     	歌曲：是非题  	歌手id: 7652  	歌手：范玮琪  
+	歌曲id: 327157     	歌曲：欧若拉  	歌手id: 10562  	歌手：张韶涵  
+	歌曲id: 229394     	歌曲：最初的梦想  	歌手id: 7652  	歌手：范玮琪  
+	歌曲id: 399353833     	歌曲：好想你  	歌手id: 947234  	歌手：朱主爱  
+	歌曲id: 26402069     	歌曲：上心  	歌手id: 10782  	歌手：郑欣宜  
+	歌曲id: 256468     	歌曲：至少还有你  	歌手id: 8336  	歌手：林忆莲  
+	歌曲id: 28793140     	歌曲：半壶纱  	歌手id: 918054  	歌手：刘珂矣  
+	歌曲id: 209326     	歌曲：旅行的意义  	歌手id: 7217  	歌手：陈绮贞  
+	歌曲id: 28668855     	歌曲：恋人心  	歌手id: 9823  	歌手：魏新雨  
+	歌曲id: 287063     	歌曲：我怀念的  	歌手id: 9272  	歌手：孙燕姿  
+	歌曲id: 28285912     	歌曲：爱呀  	歌手id: 893259  	歌手：金玟岐  
+	歌曲id: 189986     	歌曲：记事本  	歌手id: 7235  	歌手：陈慧琳  
+	歌曲id: 28949444     	歌曲：喜欢你  	歌手id: 7763  	歌手：G.E.M.邓紫棋  
+	歌曲id: 297748     	歌曲：香格里拉  	歌手id: 9609  	歌手：魏如萱  
+	歌曲id: 421423806     	歌曲：小半  	歌手id: 1007170  	歌手：陈粒  
+	歌曲id: 28285910     	歌曲：岁月神偷  	歌手id: 893259  	歌手：金玟岐  
+	歌曲id: 432506345     	歌曲：童话镇  	歌手id: 1137098  	歌手：陈一发儿  
+	歌曲id: 27867140     	歌曲：房间  	歌手id: 840134  	歌手：刘瑞琦  
+	歌曲id: 276035     	歌曲：爱一点  	歌手id: 8916  	歌手：莫艳琳  
+	歌曲id: 287035     	歌曲：遇见  	歌手id: 9272  	歌手：孙燕姿  
+	歌曲id: 255294     	歌曲：我很快乐  	歌手id: 8334  	歌手：刘惜君  
+	歌曲id: 208889     	歌曲：别找我麻烦  	歌手id: 7214  	歌手：蔡健雅  
+	歌曲id: 27747330     	歌曲：被驯服的象  	歌手id: 7214  	歌手：蔡健雅  
+	歌曲id: 208902     	歌曲：红色高跟鞋  	歌手id: 7214  	歌手：蔡健雅  
+	歌曲id: 307514     	歌曲：如果云知道  	歌手id: 9943  	歌手：许茹芸  
+	歌曲id: 27591608     	歌曲：暧昧  	歌手id: 10199  	歌手：杨丞琳  
+	歌曲id: 247512     	歌曲：星月神话  	歌手id: 8259  	歌手：金莎  
+	歌曲id: 289153     	歌曲：爱如空气  	歌手id: 9282  	歌手：孙俪  
+	歌曲id: 280120     	歌曲：梦一场  	歌手id: 9061  	歌手：那英  
+	歌曲id: 327235     	歌曲：遗失的美好  	歌手id: 10562  	歌手：张韶涵  
+	歌曲id: 210172     	歌曲：等一个晴天  	歌手id: 7221  	歌手：蔡淳佳  
+	歌曲id: 25657348     	歌曲：幸福了 然后呢  	歌手id: 7063  	歌手：A-Lin  
+电台id:1367550873  	电台：杂谈：那些让我们回忆童年的日本动画（一） 
+歌单id:497015710  	歌单：【Hip-Hop】采样的魅力：入门系列 
+歌单id:497015710  歌单：【Hip-Hop】采样的魅力：入门系列  描述: ①：采样通常是指从那些比较具有时代特色或有一定影响力的老歌曲中抽取出部分较为突出或具有可循环性的音轨或节拍，将这个部分作为新歌曲参考的样本（运用到其中），在此之上进行改编和创作。
+
+②：采样绝不是单纯对一个曲子简单的照抄照搬或抄袭，它讲究技术和灵活性，而且通常要经法律程序（这就是为什么会有歌手专辑已完工但是因为歌曲采样方面跟采样源那边没谈妥而导致专辑发行遭到延期之类的事情发生；甚至有的因为不合法采样纠纷赔上不少资金）。
+
+③：Hip-Hop音乐自诞生以来跟采样有着紧密的联系，到80年代末开始繁盛，21世纪前后随着Kanye West等一批优秀制作人的涌现更是推动了采样的进一步发展和大众化。现在采样已然Hip-Hop音乐中的随处可见的现象，好处是让Hip-Hop音乐更具丰富的元素和可听性以及年代感。虽然如今Trap&Drill当道，但还是有很多优秀的HipHop艺人会坚持去采样各种曲子，好让自己的单曲甚至专辑更有元素更显饱满，更何况如今各种设施也更加先进、采样源也开始更面向国际化（多亏了互联网，加剧了全世界各类音乐的扩散和交流甚至合作），总之采样这门艺术（学问）在整个Hip-Hop音乐的历史上产生了巨大的影响并将持续下去……
+
+④务必顺序播放，最后一首放Black Eyed Peas的集万众Hip-Hop老金曲采样于一首歌的《Back 2 Yesterday》作为结尾。
+
+⑤：另外本单只收录了那些大家比较熟悉或能迅速把采样源听出来的歌曲。多数是对曲子的采样。  图片：http://p1.music.126.net/YuDsHDHCssXKEnQ0WgQP-A==/1404076365878191.jpg  
+	(所属用户 Id: 105846608  用户名：  泰迪它三岁  个性签名: 小人物  pic: http://p1.music.126.net/R_PL5XsVKD0qydYBT0CX6g==/19149094509470996.jpg  pic: http://p1.music.126.net/UhAtjEygbWqun15Expqemg==/3418381668064444.jpg)
+	歌曲id: 26112472     	歌曲：スカイレストラン  	歌手id: 19751  	歌手：Hi-Fi Set  
+	歌曲id: 29775427     	歌曲：January 28th  	歌手id: 36910  	歌手：J. Cole  
+	歌曲id: 5051240     	歌曲：Twisted Nerve  	歌手id: 29401  	歌手：Bernard Herrmann  
+	歌曲id: 422790145     	歌曲：Chill Bill  	歌手id: 12080044  	歌手：Rob $tone  	歌手id: 0  	歌手：J. Davi$  	歌手id: 0  	歌手：Spooks  
+	歌曲id: 23506472     	歌曲：Drag Rap  	歌手id: 424311  	歌手：The Showboys  
+	歌曲id: 27043188     	歌曲：Ball (feat. Lil Wayne)  	歌手id: 44267  	歌手：T.I.  
+	歌曲id: 25693026     	歌曲：Tiden Flyver  	歌手id: 185169  	歌手：Boom Clap Bachelors  
+	歌曲id: 18943529     	歌曲：Bitch, Don’t Kill My Vibe  	歌手id: 37995  	歌手：Kendrick Lamar  
+	歌曲id: 26546292     	歌曲：What is Love  	歌手id: 34639  	歌手：Haddaway  
+	歌曲id: 1297705     	歌曲：No Love  	歌手id: 38118  	歌手：Lil Wayne  	歌手id: 32665  	歌手：Eminem  
+	歌曲id: 25499142     	歌曲：Dust Out A Sound Bwoy  	歌手id: 436293  	歌手：Super Beagle  
+	歌曲id: 18969344     	歌曲：Mercy  	歌手id: 37520  	歌手：Kanye West  	歌手id: 185832  	歌手：Big Sean  	歌手id: 41675  	歌手：Pusha T  	歌手id: 46481  	歌手：2 Chainz  
+	歌曲id: 27756759     	歌曲：That Lady  	歌手id: 78391  	歌手：The Isley Brothers  
+	歌曲id: 29418533     	歌曲：i  	歌手id: 37995  	歌手：Kendrick Lamar  
+	歌曲id: 19259339     	歌曲：Why Can't We Live Together  	歌手id: 44921  	歌手：Timmy Thomas  
+	歌曲id: 33599620     	歌曲：Hotline Bling  	歌手id: 53283  	歌手：Drake  
+	歌曲id: 26250720     	歌曲：Juicy Fruit  	歌手id: 67846  	歌手：Mtume  
+	歌曲id: 21799566     	歌曲：Juicy - Album Version (Explicit)  	歌手id: 44276  	歌手：The Notorious B.I.G.  
+	歌曲id: 5157068     	歌曲：The Edge  	歌手id: 31802  	歌手：David McCallum  
+	歌曲id: 17405594     	歌曲：The Next Episode  	歌手id: 53243  	歌手：Dr. Dre  	歌手id: 42939  	歌手：Snoop Dogg  
+	歌曲id: 22697895     	歌曲：ハーフムーン?セレナーデ  	歌手id: 16821  	歌手：河合奈保子  
+	歌曲id: 999023     	歌曲：Street Life  	歌手id: 27641  	歌手：AZ  
+	歌曲id: 2417668     	歌曲：Nuthin' But a "G" Thang  	歌手id: 53243  	歌手：Dr. Dre  
+	歌曲id: 26675807     	歌曲：Never Gonna Stop  	歌手id: 65639  	歌手：Linda Clifford  
+	歌曲id: 19373826     	歌曲：All Eyez on Me  	歌手id: 129270  	歌手：Tupac  	歌手id: 281982  	歌手：Big Syke  
+	歌曲id: 1090053     	歌曲：Shamboozie  	歌手id: 29354  	歌手：Bob James  
+	歌曲id: 21522503     	歌曲：Guess Who's Back  	歌手id: 42168  	歌手：Rakim  
+	歌曲id: 309786     	歌曲：神雕与射雕  	歌手id: 9968  	歌手：徐小凤  
+	歌曲id: 1630905     	歌曲：Never Give Up  	歌手id: 37666  	歌手：KRS-One  
+	歌曲id: 401720156     	歌曲：As Long As I've Got You  	歌手id: 232490  	歌手：The Charmels  
+	歌曲id: 3818257     	歌曲：C.R.E.A.M.  	歌手id: 84060  	歌手：Wu-Tang Clan  
+	歌曲id: 21927334     	歌曲：Between The Sheets  	歌手id: 78391  	歌手：The Isley Brothers  
+	歌曲id: 21799569     	歌曲：Big Poppa - Album Version (Explicit)  	歌手id: 44276  	歌手：The Notorious B.I.G.  
+	歌曲id: 1438293     	歌曲：Silver Tears  	歌手id: 34547  	歌手：Henry Mancini  
+	歌曲id: 30148770     	歌曲：Big Dusty  	歌手id: 37447  	歌手：Joey Bada$$  
+	歌曲id: 20506035     	歌曲：Dream On  	歌手id: 85504  	歌手：Aerosmith  
+	歌曲id: 1299919     	歌曲：Sing For The Moment  	歌手id: 32665  	歌手：Eminem  
+	歌曲id: 5081299     	歌曲：Mado Kara Mieru  	歌手id: 30780  	歌手：Christopher Tin  
+	歌曲id: 19277002     	歌曲：Careless World - Album Version (Edited)  	歌手id: 45033  	歌手：Tyga  
+	歌曲id: 2194186     	歌曲：(If Loving You Is Wrong) I Don't Want to Be Right  	歌手id: 48467  	歌手：Bobby Bland  
+	歌曲id: 28960875     	歌曲：Mamacita    	歌手id: 737012  	歌手：Travis Scott  	歌手id: 797253  	歌手：Rich Homie Quan  	歌手id: 287014  	歌手：Young Thug  
+	歌曲id: 5048815     	歌曲：Yegelle Tezeta  	歌手id: 39524  	歌手：Mulatu Astatke  
+	歌曲id: 1786854     	歌曲：As We Enter  	歌手id: 40424  	歌手：Nas  
+	歌曲id: 2196255     	歌曲：Na Na Hey Hey Kiss Him Goodbye  	歌手id: 48479  	歌手：Bananarama  
+	歌曲id: 19749074     	歌曲：Chillin - Main  	歌手id: 46049  	歌手：Wale  	歌手id: 64147  	歌手：Lady Gaga  
+	歌曲id: 21168376     	歌曲：Sexual Healing  	歌手id: 38866  	歌手：Marvin Gaye  
+	歌曲id: 404543645     	歌曲：Back To Sleep REMIX  	歌手id: 29960  	歌手：Chris Brown  	歌手id: 45564  	歌手：Usher  	歌手id: 1108049  	歌手：ZAYN  
+	歌曲id: 26390067     	歌曲：Cherry  	歌手id: 89463  	歌手：Chromatics  
+	歌曲id: 28019903     	歌曲：Man Of The Year  	歌手id: 43862  	歌手：ScHoolboy Q  
+	歌曲id: 1646707     	歌曲：Walk On The Wild Side  	歌手id: 38117  	歌手：Lou Reed  
+	歌曲id: 26654463     	歌曲：Can I kick it?  	歌手id: 27648  	歌手：A Tribe Called Quest  
+	歌曲id: 1305915     	歌曲：Uccellacci e Uccellini (Titoli Di Testa)  	歌手id: 32668  	歌手：Ennio Morricone  
+	歌曲id: 17616854     	歌曲：Symphony 2000  	歌手id: 55606  	歌手：EPMD  	歌手id: 66155  	歌手：Lady Luck  	歌手id: 67049  	歌手：Method Man  	歌手id: 42051  	歌手：Redman  
+	歌曲id: 443292061     	歌曲：Meet the Frownies  	歌手id: 102867  	歌手：Twin Sister  
+	歌曲id: 1643530     	歌曲：The Recipe  	歌手id: 53243  	歌手：Dr. Dre  	歌手id: 37995  	歌手：Kendrick Lamar  
+	歌曲id: 2655267     	歌曲：Why Can't There Be Love  	歌手id: 58170  	歌手：Gilles Peterson  
+	歌曲id: 31384982     	歌曲：DEATHCAMP  	歌手id: 44708  	歌手：Tyler, The Creator  
+	歌曲id: 1869000     	歌曲：Reaching Out (live)  	歌手id: 41906  	歌手：Queen  
+	歌曲id: 1297941     	歌曲：Beautiful  	歌手id: 32665  	歌手：Eminem  
+	歌曲id: 17991428     	歌曲：I'll Take Care Of U  	歌手id: 34038  	歌手：Gil Scott-Heron  	歌手id: 37261  	歌手：Jamie xx  
+	歌曲id: 17386592     	歌曲：Take Care - Album Version (Explicit)  	歌手id: 53283  	歌手：Drake  	歌手id: 72724  	歌手：Rihanna  
+	歌曲id: 27275041     	歌曲：Da Supafriendz  	歌手id: 38994  	歌手：MF Doom  
+	歌曲id: 26577661     	歌曲：World Domination  	歌手id: 37447  	歌手：Joey Bada$$  
+	歌曲id: 4346391     	歌曲：Dragostea Din Tei (Original Romanian Version)  	歌手id: 102077  	歌手：O-Zone  
+	歌曲id: 21800150     	歌曲：Live Your Life [feat. Rihanna] (Explicit Album Version)  	歌手id: 44267  	歌手：T.I.  
+	歌曲id: 18566478     	歌曲：Super Freak  	歌手id: 42050  	歌手：Rick James  
+	歌曲id: 22377370     	歌曲：U Can't Touch This  	歌手id: 66374  	歌手：MC Hammer  
+	歌曲id: 16813007     	歌曲：My Flame  	歌手id: 48598  	歌手：Bobby Caldwell  
+	歌曲id: 21799593     	歌曲：Sky's The Limit  	歌手id: 44276  	歌手：The Notorious B.I.G.  	歌手id: 85319  	歌手：112  
+	歌曲id: 17385606     	歌曲：I'm Coming Out  	歌手id: 53255  	歌手：Diana Ross  
+	歌曲id: 21799583     	歌曲：Mo Money Mo Problems  	歌手id: 44276  	歌手：The Notorious B.I.G.  	歌手id: 67048  	歌手：Mase  	歌手id: 31226  	歌手：Puff Daddy  
+	歌曲id: 26745695     	歌曲：It's Too Late  	歌手id: 40872  	歌手：Otis Redding  
+	歌曲id: 18969100     	歌曲：Gone (Album Version (Explicit))  	歌手id: 37520  	歌手：Kanye West  	歌手id: 30295  	歌手：Cam'ron  	歌手id: 52193  	歌手：Consequence  
+	歌曲id: 19553535     	歌曲：Every Breath You Take  	歌手id: 102017  	歌手：The Police  
+	歌曲id: 27086088     	歌曲：I'll Be Missing You  	歌手id: 31226  	歌手：Puff Daddy  	歌手id: 56820  	歌手：Faith Evans  
+	歌曲id: 2195317     	歌曲：1st of tha Month  	歌手id: 48473  	歌手：Bone Thugs-N-Harmony  
+	歌曲id: 27570603     	歌曲：Celebration  	歌手id: 44270  	歌手：The Game  	歌手id: 29960  	歌手：Chris Brown  	歌手id: 45033  	歌手：Tyga  	歌手id: 46006  	歌手：Wiz Khalifa  	歌手id: 38118  	歌手：Lil Wayne  
+	歌曲id: 1935181     	歌曲：Shape of My Heart [From the Professional (Leon) And Three of Hearts]  	歌手id: 42938  	歌手：Sting  
+	歌曲id: 27662557     	歌曲：The Message  	歌手id: 40424  	歌手：Nas  
+	歌曲id: 27977284     	歌曲：Too Much  	歌手id: 197585  	歌手：Sampha  
+	歌曲id: 27725575     	歌曲：Too Much  	歌手id: 53283  	歌手：Drake  
+	歌曲id: 21164593     	歌曲：St Elmo's Fire  	歌手id: 38878  	歌手：Michael Franks  
+	歌曲id: 29718115     	歌曲：We Get High  	歌手id: 1015122  	歌手：Logic  
+	歌曲id: 32823862     	歌曲：Say You Love Me,One More Time  	歌手id: 7574  	歌手：D.J. Rogers  
+	歌曲id: 29414651     	歌曲：I Don't Fuck With You (feat. E-40)  	歌手id: 185832  	歌手：Big Sean  
+	歌曲id: 437480919     	歌曲：Every N****r Is a Star  	歌手id: 50405  	歌手：Boris Gardiner  
+	歌曲id: 31010333     	歌曲：Wesley's Theory  	歌手id: 37995  	歌手：Kendrick Lamar  	歌手id: 33924  	歌手：George Clinton  	歌手id: 103817  	歌手：Thundercat  
+	歌曲id: 16982165     	歌曲：Do You...  	歌手id: 39895  	歌手：Miguel  
+	歌曲id: 28472674     	歌曲：Lit (feat. J Cole & K-Quick) [Bonus Track]  	歌手id: 854732  	歌手：Bas  
+	歌曲id: 5055326     	歌曲：The Boss  	歌手id: 35352  	歌手：James Brown  
+	歌曲id: 21268843     	歌曲：Get Down  	歌手id: 40424  	歌手：Nas  
+	歌曲id: 2191899     	歌曲：I Dedicate, Pt. 2  	歌手id: 48452  	歌手：Brandy  
+	歌曲id: 411349775     	歌曲：Fire & Desire  	歌手id: 53283  	歌手：Drake  
+	歌曲id: 3232477     	歌曲：Love, Need And Want You (Album Version)  	歌手id: 70858  	歌手：Patti LaBelle  
+	歌曲id: 21273749     	歌曲：Dilemma - Radio Edit  	歌手id: 40431  	歌手：Nelly  
+	歌曲id: 18613517     	歌曲：Let's Do It Again  	歌手id: 37276  	歌手：J Boog  
+	歌曲id: 31789268     	歌曲：Do It Again  	歌手id: 855463  	歌手：Pia Mia  	歌手id: 29960  	歌手：Chris Brown  	歌手id: 45033  	歌手：Tyga  
+	歌曲id: 180278     	歌曲：贝多芬：献给爱丽丝  	歌手id: 6116  	歌手：尤大淳  
+	歌曲id: 27662563     	歌曲：I Can  	歌手id: 40424  	歌手：Nas  
+	歌曲id: 5092315     	歌曲：The Way It Is (Edited Version)  	歌手id: 213966  	歌手：The Range  	歌手id: 29642  	歌手：Bruce Hornsby  
+	歌曲id: 19375093     	歌曲：Changes  	歌手id: 129270  	歌手：Tupac  
+	歌曲id: 16825916     	歌曲：Hermetico  	歌手id: 88212  	歌手：Balkan Beat Box  
+	歌曲id: 28411002     	歌曲：Talk Dirty  	歌手id: 35511  	歌手：Jason DeRulo  	歌手id: 46481  	歌手：2 Chainz  
+	歌曲id: 2207042     	歌曲：What You Won't Do for Love  	歌手id: 48598  	歌手：Bobby Caldwell  
+	歌曲id: 28662031     	歌曲：Psycho  	歌手id: 241588  	歌手：Russ  
+	歌曲id: 19823147     	歌曲：Regulate - Album Version (Explicit)  	歌手id: 84235  	歌手：Warren G  	歌手id: 40425  	歌手：Nate Dogg  
+	歌曲id: 39436023     	歌曲：Picture Me Rollin'  	歌手id: 29960  	歌手：Chris Brown  
+	歌曲id: 18063778     	歌曲：Show Me  	歌手id: 58071  	歌手：Glenn Jones  
+	歌曲id: 22222614     	歌曲：How Ya Livin' featuring Nas  	歌手id: 27641  	歌手：AZ  
+	歌曲id: 19086705     	歌曲：Baby Got Back - Album Version (Explicit)  	歌手id: 43274  	歌手：Sir Mix-A-Lot  
+	歌曲id: 28870174     	歌曲：Anaconda  	歌手id: 70183  	歌手：Nicki Minaj  
+	歌曲id: 27196296     	歌曲：He's the Greatest Dancer  	歌手id: 75107  	歌手：Sister Sledge  
+	歌曲id: 20691596     	歌曲：Gettin' Jiggy Wit It  	歌手id: 45836  	歌手：Will Smith  
+	歌曲id: 26675792     	歌曲：A Dream  	歌手id: 53614  	歌手：DeBarge  
+	歌曲id: 19373815     	歌曲：I Ain't Mad at Cha  	歌手id: 129270  	歌手：Tupac  	歌手id: 32106  	歌手：Danny Boy  
+	歌曲id: 29922738     	歌曲：We Can't Be Friends  	歌手id: 840080  	歌手：Dream Koala  
+	歌曲id: 28159610     	歌曲：Thim Slick (Feat. Jeremih) [Prod. By StreetFam Turtle & LC]  	歌手id: 33378  	歌手：Fabolous  
+	歌曲id: 5052409     	歌曲：Diamonds Are Forever (From Diamonds Are Forever)  	歌手id: 75776  	歌手：Shirley Bassey  
+	歌曲id: 18969101     	歌曲：**Bonus Track**  Diamonds From Sierra Leone (Album Version (Explicit))  	歌手id: 37520  	歌手：Kanye West  
+	歌曲id: 18356378     	歌曲：Bumpy's Lament  	歌手id: 35063  	歌手：Isaac Hayes  
+	歌曲id: 17405589     	歌曲：Xxplosive  	歌手id: 53243  	歌手：Dr. Dre  	歌手id: 35010  	歌手：Hittman  	歌手id: 40425  	歌手：Nate Dogg  	歌手id: 63164  	歌手：Kurupt  	歌手id: 0  	歌手：Six-Two  
+	歌曲id: 17991490     	歌曲：On Coming From a Broken Home (Pt. 1)  	歌手id: 34038  	歌手：Gil Scott-Heron  
+	歌曲id: 18969160     	歌曲：Flashing Lights  	歌手id: 37520  	歌手：Kanye West  
+	歌曲id: 1944894     	歌曲：Thug  	歌手id: 42990  	歌手：Slim Thug  
+	歌曲id: 29554393     	歌曲：Under Pressure  	歌手id: 1015122  	歌手：Logic  
+	歌曲id: 32013012     	歌曲：Monster Under My Bed  	歌手id: 336466  	歌手：Bebe Rexha  
+	歌曲id: 27902187     	歌曲：The Monster  	歌手id: 32665  	歌手：Eminem  	歌手id: 72724  	歌手：Rihanna  
+	歌曲id: 19375151     	歌曲：Me and My Girlfriend  	歌手id: 129270  	歌手：Tupac  
+	歌曲id: 18614100     	歌曲：03' Bonnie & Clyde - Radio Edit  	歌手id: 35334  	歌手：Jay-Z  	歌手id: 48436  	歌手：Beyoncé  
+	歌曲id: 1224790     	歌曲：What These Bitches Want  	歌手id: 31228  	歌手：DMX  
+	歌曲id: 411349760     	歌曲：U With Me?  	歌手id: 53283  	歌手：Drake  
+	歌曲id: 3164710     	歌曲：Do What You Gotta Do  	歌手id: 69324  	歌手：Nina Simone  
+	歌曲id: 408440465     	歌曲：Famous  	歌手id: 37520  	歌手：Kanye West  	歌手id: 72724  	歌手：Rihanna  
+	歌曲id: 33166335     	歌曲：Let's Get It On  	歌手id: 38866  	歌手：Marvin Gaye  
+	歌曲id: 18537066     	歌曲：Let's Go - Album Version (Explicit)  	歌手id: 36104  	歌手：Juelz Santana  	歌手id: 30295  	歌手：Cam'ron  
+	歌曲id: 1116237     	歌曲：Mr. Lonely  	歌手id: 29603  	歌手：Bobby Vinton  
+	歌曲id: 16375181     	歌曲：Lonely - UK Radio Edit  	歌手id: 27595  	歌手：Akon  
+	歌曲id: 21038748     	歌曲：Poker Face  	歌手id: 64147  	歌手：Lady Gaga  
+	歌曲id: 18938443     	歌曲：Make Her Say  	歌手id: 37535  	歌手：Kid Cudi  	歌手id: 29987  	歌手：Common  	歌手id: 37520  	歌手：Kanye West  
+	歌曲id: 30512433     	歌曲：Bound  	歌手id: 1049898  	歌手：Ponderosa Twins Plus One  
+	歌曲id: 26524156     	歌曲：Bound 2  	歌手id: 37520  	歌手：Kanye West  
+	歌曲id: 5137740     	歌曲：I Got The ...  	歌手id: 65965  	歌手：Labi Siffre  
+	歌曲id: 17572251     	歌曲：My Name Is  	歌手id: 32665  	歌手：Eminem  
+	歌曲id: 18969325     	歌曲：Stronger - Album Version (Explicit)  	歌手id: 37520  	歌手：Kanye West  
+	歌曲id: 4120658     	歌曲：In-A-Gadda-Da-Vida (2006 Remastered Full-Length Version)  	歌手id: 94469  	歌手：Iron Butterfly  
+	歌曲id: 21268606     	歌曲：Hip Hop Is Dead  	歌手id: 40424  	歌手：Nas  	歌手id: 45838  	歌手：will.i.am  
+	歌曲id: 17294445     	歌曲：Ooh La La La  	歌手id: 31299  	歌手：Dennis Brown  
+	歌曲id: 27548663     	歌曲：FU GEE LA  	歌手id: 129272  	歌手：Fugees  
+	歌曲id: 16493666     	歌曲：Forever Young  	歌手id: 85564  	歌手：Alphaville  
+	歌曲id: 18613910     	歌曲：Young Forever  	歌手id: 35334  	歌手：Jay-Z  	歌手id: 39645  	歌手：Mr. Hudson  
+	歌曲id: 1873803     	歌曲：I Got A Woman  	歌手id: 41930  	歌手：Ray Charles  
+	歌曲id: 18969283     	歌曲：Gold Digger - Album Version (Explicit)  	歌手id: 37520  	歌手：Kanye West  	歌手id: 35396  	歌手：Jamie Foxx  
+	歌曲id: 17346999     	歌曲：Thank You  	歌手id: 53235  	歌手：Dido  
+	歌曲id: 17572103     	歌曲：Stan - Album Version (Explicit)  	歌手id: 32665  	歌手：Eminem  	歌手id: 53235  	歌手：Dido  
+	歌曲id: 17479240     	歌曲：Notorious  	歌手id: 90523  	歌手：Duran Duran  
+	歌曲id: 2003598     	歌曲：Notorious B.I.G (Featuring Lil' Kim And Puff Daddy)  	歌手id: 44276  	歌手：The Notorious B.I.G.  
+	歌曲id: 20993003     	歌曲：My Song (2006 Digital Remaster)  	歌手id: 65965  	歌手：Labi Siffre  
+	歌曲id: 18969155     	歌曲：I Wonder  	歌手id: 37520  	歌手：Kanye West  
+	歌曲id: 26275715     	歌曲：World Famous  	歌手id: 39375  	歌手：Maino  
+	歌曲id: 411349761     	歌曲：Feel No Ways  	歌手id: 53283  	歌手：Drake  
+	歌曲id: 19006307     	歌曲：If I Ruled The World  	歌手id: 63033  	歌手：Kurtis Blow  
+	歌曲id: 21268930     	歌曲：If I Ruled The World (imagine that)  	歌手id: 40424  	歌手：Nas  
+	歌曲id: 3825643     	歌曲：I'm a Ho  	歌手id: 84136  	歌手：Whodini  
+	歌曲id: 41629717     	歌曲：Boyz-N-The Hood  	歌手id: 55806  	歌手：Eazy-E  
+	歌曲id: 22452584     	歌曲：Mais dans la lumière  	歌手id: 132259  	歌手：Mike Brant  
+	歌曲id: 1298232     	歌曲：Crack a Bottle  	歌手id: 46399  	歌手：50 Cent  	歌手id: 32665  	歌手：Eminem  	歌手id: 53243  	歌手：Dr. Dre  
+	歌曲id: 33539483     	歌曲：One Blood [1989]  	歌手id: 35873  	歌手：Junior Reid  
+	歌曲id: 2002818     	歌曲：It's Okay (One Blood)  	歌手id: 44270  	歌手：The Game  
+	歌曲id: 17847355     	歌曲：(Not Just) Knee Deep - Original  	歌手id: 92456  	歌手：Funkadelic  
+	歌曲id: 26714972     	歌曲：Me Myself And I (Radio Version)  	歌手id: 31261  	歌手：De La Soul  
+	歌曲id: 5081172     	歌曲：Georgy Porgy  	歌手id: 44397  	歌手：Toto  
+	歌曲id: 3046605     	歌曲：Poor Georgie  	歌手id: 66519  	歌手：MC Lyte  
+	歌曲id: 28371985     	歌曲：That's All Right With Me  	歌手id: 55850  	歌手：Esther Phillips  
+	歌曲id: 29775434     	歌曲：St. Tropez  	歌手id: 36910  	歌手：J. Cole  
+	歌曲id: 27150318     	歌曲：Move On Up  	歌手id: 30017  	歌手：Curtis Mayfield  
+	歌曲id: 18969084     	歌曲：Touch The Sky (Album Version (Explicit))  	歌手id: 37520  	歌手：Kanye West  	歌手id: 38132  	歌手：Lupe Fiasco  
+	歌曲id: 3825678     	歌曲：Freaks Come out at Night  	歌手id: 84136  	歌手：Whodini  
+	歌曲id: 17985260     	歌曲：Westside Story - Album Version (Explicit)  	歌手id: 44270  	歌手：The Game  	歌手id: 46399  	歌手：50 Cent  
+	歌曲id: 33733997     	歌曲：Paulette  	歌手id: 1131039  	歌手：Balla et ses Balladins  
+	歌曲id: 19971564     	歌曲：Can't Get Enough (Clean Version)  	歌手id: 36910  	歌手：J. Cole  	歌手id: 44354  	歌手：Trey Songz  
+	歌曲id: 2319404     	歌曲：Through The Fire  	歌手id: 50968  	歌手：Chaka Khan  
+	歌曲id: 18969286     	歌曲：Through The Wire - Main Version  	歌手id: 37520  	歌手：Kanye West  
+	歌曲id: 28145059     	歌曲：Movin' Out (Anthony's Song)  	歌手id: 29331  	歌手：Billy Joel  
+	歌曲id: 19851816     	歌曲：Everything I Love The Most  	歌手id: 46257  	歌手：Yelawolf  
+	歌曲id: 19084189     	歌曲：Will You Love Me Tomorrow?  	歌手id: 43236  	歌手：Smokey Robinson  
+	歌曲id: 18969209     	歌曲：Devil In A New Dress (Album Version (Explicit))  	歌手id: 37520  	歌手：Kanye West  	歌手id: 41989  	歌手：Rick Ross  
+	歌曲id: 3961532     	歌曲：Do It ('Til You're Satisfied)  	歌手id: 88246  	歌手：B.T. Express  
+	歌曲id: 22249030     	歌曲：Gangsta Luv (feat. The Dream)  	歌手id: 42939  	歌手：Snoop Dogg  
+	歌曲id: 1321680     	歌曲：Blue (Da Ba Dee)  	歌手id: 32836  	歌手：Eiffel 65  
+	歌曲id: 17793686     	歌曲：Sugar (feat. Wynter)  	歌手id: 56783  	歌手：Flo Rida  
+	歌曲id: 21612951     	歌曲：Pastime Paradise  	歌手id: 42948  	歌手：Stevie Wonder  
+	歌曲id: 17112374     	歌曲：Gangsta's Paradise (LP Version)  	歌手id: 50955  	歌手：Coolio  	歌手id: 106218  	歌手：L.V.  
+	歌曲id: 19895993     	歌曲：Be Alright  	歌手id: 85089  	歌手：Zapp  
+	歌曲id: 19373772     	歌曲：Keep Ya Head Up  	歌手id: 129270  	歌手：Tupac  
+	歌曲id: 29753563     	歌曲：Redemption (Theme from Rocky II)  	歌手id: 50177  	歌手：Bill Conti  
+	歌曲id: 21799757     	歌曲：Whatever You Like (Explicit Album Version)  	歌手id: 44267  	歌手：T.I.  
+	歌曲id: 1524519     	歌曲：We The Cats (Shall Hep Ya)  	歌手id: 35566  	歌手：Joe Jackson  
+	歌曲id: 404182219     	歌曲：Buckshot  	歌手id: 185545  	歌手：Macklemore & Ryan Lewis  	歌手id: 37666  	歌手：KRS-One  	歌手id: 54577  	歌手：DJ Premier  
+	歌曲id: 27937279     	歌曲：I See Fire  	歌手id: 33184  	歌手：Ed Sheeran  
+	歌曲id: 28662037     	歌曲：We Should All Burn Together  	歌手id: 241588  	歌手：Russ  
+	歌曲id: 1413344     	歌曲：The Shadow Of Your Smile  	歌手id: 34170  	歌手：George Garzone  
+	歌曲id: 26577660     	歌曲：Hardknock  	歌手id: 37447  	歌手：Joey Bada$$  	歌手id: 1025036  	歌手：CJ FLY  
+	歌曲id: 33340027     	歌曲：Back 2 Yesterday  	歌手id: 88146  	歌手：Black Eyed Peas  
+电台id:1367599242  	电台：哈哈榜之2017十大语录 
+歌单id:922791900  	歌单：论正确背诗的方式【文言已补充 
+歌单id:922791900  歌单：论正确背诗的方式【文言已补充  描述: 诗，国韵也
+
+收录小初高中必备诗词文言
+课外现代诗等
+愿于君有益
+
+ps.这个歌单其实是一时兴起想要为以后三年的高中做个铺垫啦，能帮到大家真的很开心
+
+封面画手@伊吹鸡腿子
+封面画的游戏《剑侠情缘网络版叁》里面七秀成女
+（顺便绝代道姑求波亲友）  图片：http://p1.music.126.net/HvlIdazMr-IMxV_F-kD7Ag==/109951163026788047.jpg  
+	(所属用户 Id: 133882365  用户名：  江澄x  个性签名: 明知不可为而为之  pic: http://p1.music.126.net/pWaXar2mxD4MAUzH7OmmyQ==/109951163013325647.jpg  pic: http://p1.music.126.net/i6hu20SyxZwYYI04qdBhGg==/109951163013324155.jpg)
+	歌曲id: 36117945     	歌曲：蜀道难(Demo)  	歌手id: 0  	歌手：张典  
+	歌曲id: 486211142     	歌曲：念奴娇·赤壁怀古  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 34045599     	歌曲：蒹葭  	歌手id: 1135002  	歌手：孙奇  
+	歌曲id: 470156940     	歌曲：观沧海贰  	歌手id: 12128642  	歌手：聿戎  
+	歌曲id: 473008624     	歌曲：饮酒·结庐在人境　(晋)陶渊明  	歌手id: 0  	歌手：宋鑫淼  
+	歌曲id: 30070791     	歌曲：饮酒-陶潜  	歌手id: 6069  	歌手：杨一  
+	歌曲id: 472998381     	歌曲：送杜少府之任蜀州·城阙辅三秦　(唐)王勃  	歌手id: 12330154  	歌手：张硕  
+	歌曲id: 472996280     	歌曲：次北固山下·客路青山下　(唐)王湾  	歌手id: 0  	歌手：张翘楚  
+	歌曲id: 446557456     	歌曲：使至塞上（Live版）  	歌手id: 12215130  	歌手：小耳同学  
+	歌曲id: 472897613     	歌曲：春望·国破山河在　(唐)杜甫  	歌手id: 0  	歌手：司马青云  
+	歌曲id: 36471273     	歌曲：河洛工作室 - 杜甫《望岳》  	歌手id: 1159165  	歌手：Dreamer律颖  
+	歌曲id: 491642451     	歌曲：白雪歌送武判官归京（Cover Amuro）  	歌手id: 12337222  	歌手：夏濯泉  
+	歌曲id: 449604320     	歌曲：早春呈水部张十八员外(唐诗）  	歌手id: 0  	歌手：孔一兵  
+	歌曲id: 460442783     	歌曲：钱塘湖春行  	歌手id: 0  	歌手：戴麟骄  
+	歌曲id: 471850194     	歌曲：钱塘湖春行  	歌手id: 12360022  	歌手：舒文  
+	歌曲id: 450316305     	歌曲：春夜喜雨&望岳  	歌手id: 1184092  	歌手：阿言  
+	歌曲id: 473026023     	歌曲：登飞来峰·飞来山上千寻塔　(宋)王安石  	歌手id: 0  	歌手：司马青云  
+	歌曲id: 498153825     	歌曲：江城子  	歌手id: 0  	歌手：民谣兄弟团  
+	歌曲id: 446581083     	歌曲：水调歌头  	歌手id: 12217021  	歌手：余弢  
+	歌曲id: 474563881     	歌曲：游山西村  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 473012821     	歌曲：游山西村·莫笑农家腊酒浑　(宋)陆游  	歌手id: 0  	歌手：司马青云  
+	歌曲id: 5273262     	歌曲：山坡羊 潼关怀古  	歌手id: 233642  	歌手：周正  
+	歌曲id: 435872466     	歌曲：天净沙·秋思  	歌手id: 10142  	歌手：玄觞  
+	歌曲id: 472858591     	歌曲：己亥杂诗·九州生气恃风雷　(清)龚自珍  	歌手id: 0  	歌手：宋鑫淼  
+	歌曲id: 496340631     	歌曲：木兰辞  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 472884983     	歌曲：登幽州台歌·前不见古人　(唐)陈子昂  	歌手id: 0  	歌手：张翘楚  
+	歌曲id: 278969     	歌曲：黄鹤楼(现代版)  	歌手id: 8972  	歌手：晏菲  
+	歌曲id: 473023986     	歌曲：卖炭翁·卖炭翁，伐薪烧炭南山中　(唐)白居易  	歌手id: 12327611  	歌手：朱彤  
+	歌曲id: 471454636     	歌曲：满江红·写怀  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 453059602     	歌曲：九歌·湘夫人（Cover 六三四）  	歌手id: 12037269  	歌手：蓝月瀚  
+	歌曲id: 34033907     	歌曲：国殇  	歌手id: 906118  	歌手：洛天依  	歌手id: 983028  	歌手：言和  
+	歌曲id: 486825549     	歌曲：塞下曲·月黑雁飞高  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 481558692     	歌曲：夜雨寄北（Demo）  	歌手id: 12085517  	歌手：一蛙  
+	歌曲id: 28095067     	歌曲：浣溪沙(晏殊)  	歌手id: 857027  	歌手：双龙兄弟  
+	歌曲id: 505851013     	歌曲：渔家傲·秋思  	歌手id: 2440  	歌手：陈伟伦  
+	歌曲id: 497745723     	歌曲：相见欢·无言独上西楼  	歌手id: 12556082  	歌手：幻境工场童声合唱团  	歌手id: 230484  	歌手：马琳  
+	歌曲id: 28219560     	歌曲：无题.?唐.李商隐-《相见时难别亦难》  	歌手id: 886237  	歌手：爻-梁颖  	歌手id: 6007  	歌手：小杜  
+	歌曲id: 406737270     	歌曲：见或不见  	歌手id: 3276  	歌手：何晟铭  
+	歌曲id: 522282964     	歌曲：逍遥游  	歌手id: 4873  	歌手：奇然  	歌手id: 0  	歌手：沈谧仁  
+	歌曲id: 229367     	歌曲：独上西楼  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 229369     	歌曲：但愿人长久  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 229376     	歌曲：清夜悠悠  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 229378     	歌曲：有谁知我此时情  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 229382     	歌曲：万叶千声  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 229384     	歌曲：人约黄昏后  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 229388     	歌曲：欲说还休  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 459160302     	歌曲：苦昼短Cover：燕池（Cover 燕池）  	歌手id: 12287028  	歌手：陆与鹿  
+	歌曲id: 33111222     	歌曲：上邪·秋千  	歌手id: 0  	歌手：喵酱油  
+	歌曲id: 457588008     	歌曲：阿房宫赋（序曲）  	歌手id: 12276661  	歌手：郭洪钧  	歌手id: 13638  	歌手：中国国家交响乐团  
+	歌曲id: 457594411     	歌曲：阿房宫赋（第一乐章）  	歌手id: 12276661  	歌手：郭洪钧  	歌手id: 13638  	歌手：中国国家交响乐团  
+	歌曲id: 457595894     	歌曲：阿房宫赋（第二乐章）  	歌手id: 12276661  	歌手：郭洪钧  	歌手id: 13638  	歌手：中国国家交响乐团  
+	歌曲id: 457596135     	歌曲：阿房宫赋（第三乐章）  	歌手id: 12276661  	歌手：郭洪钧  	歌手id: 13638  	歌手：中国国家交响乐团  
+	歌曲id: 457594783     	歌曲：阿房宫赋（第四乐章）  	歌手id: 12276661  	歌手：郭洪钧  	歌手id: 13638  	歌手：中国国家交响乐团  
+	歌曲id: 28720255     	歌曲：宣州谢眺楼  	歌手id: 954530  	歌手：有声读物  
+	歌曲id: 497745722     	歌曲：临江仙·夜归临皋  	歌手id: 12556082  	歌手：幻境工场童声合唱团  	歌手id: 3695  	歌手：李健  
+	歌曲id: 506094634     	歌曲：饮酒  	歌手id: 11358  	歌手：大乔小乔  
+	歌曲id: 33497855     	歌曲：五禽戏  	歌手id: 6290  	歌手：音频怪物  	歌手id: 188558  	歌手：Aki阿杰  
+	歌曲id: 428391800     	歌曲：子衿  	歌手id: 188558  	歌手：Aki阿杰  
+	歌曲id: 26619454     	歌曲：大风歌  	歌手id: 3524  	歌手：极泷  
+	歌曲id: 5250915     	歌曲：将进酒  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 5230770     	歌曲：伶人歌  	歌手id: 122455  	歌手：群星  
+	歌曲id: 424496194     	歌曲：楚歌?-?(纯歌版)  	歌手id: 0  	歌手：CcccEs  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 5250919     	歌曲：悯农  	歌手id: 226281  	歌手：陶阳  
+	歌曲id: 439139384     	歌曲：声声慢  	歌手id: 12174110  	歌手：崔开潮  
+	歌曲id: 442837971     	歌曲：长恨歌（Cover 王之炀）  	歌手id: 1039314  	歌手：叶里  
+	歌曲id: 350755     	歌曲：催妆曲  	歌手id: 11358  	歌手：大乔小乔  
+	歌曲id: 325145     	歌曲：蝶恋花  	歌手id: 10380  	歌手：依然  
+	歌曲id: 419375067     	歌曲：将进酒  	歌手id: 12063157  	歌手：厨子和戏子  
+	歌曲id: 33510199     	歌曲：清平调 (独唱版)  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 302891     	歌曲：故人叹  	歌手id: 9682  	歌手：吴琼  
+	歌曲id: 109045     	歌曲：金缕衣  	歌手id: 10371  	歌手：姚贝娜  
+	歌曲id: 439646488     	歌曲：归园田居  	歌手id: 12406965  	歌手：茶师  
+	歌曲id: 28493377     	歌曲：相见欢  	歌手id: 5997  	歌手：小曲儿  
+	歌曲id: 27876937     	歌曲：浣溪沙  	歌手id: 228462  	歌手：冯翰铭  	歌手id: 2116  	歌手：陈奕迅  
+	歌曲id: 212852     	歌曲：声声慢  	歌手id: 7233  	歌手：陈明  
+	歌曲id: 5253338     	歌曲：水调歌头(苏轼 词)  	歌手id: 3518  	歌手：计镇华  
+	歌曲id: 5267427     	歌曲：潼关怀古.山坡羊(元散曲,人声演唱)  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5267377     	歌曲：楚歌(埙与乐队)  	歌手id: 0  	歌手：埙与乐队  
+	歌曲id: 5253345     	歌曲：雨霖铃(柳永 词)  	歌手id: 203558  	歌手：王奉梅  
+	歌曲id: 5253331     	歌曲：上邪(汉乐府 诗)  	歌手id: 6708  	歌手：郑赟  
+	歌曲id: 5253333     	歌曲：声声慢(李清照 词)  	歌手id: 10791  	歌手：张静娴  
+	歌曲id: 5253335     	歌曲：鹧鸪天(辛弃疾 词)  	歌手id: 6708  	歌手：郑赟  
+	歌曲id: 5253336     	歌曲：牡丹亭.蝶恋花(汤显祖 作)  	歌手id: 226644  	歌手：张咏亮  
+	歌曲id: 5253339     	歌曲：饮湖上初晴后雨(苏轼 词)  	歌手id: 10491  	歌手：余彬  
+	歌曲id: 5267391     	歌曲：玉树后庭花(歌曲演唱)  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5267389     	歌曲：菩萨蛮(歌曲演唱)壹越调  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5267416     	歌曲：秋宵吟(词调歌曲,人声演唱)  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5267407     	歌曲：越九歌.帝舜楚调(词调歌曲)  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5267378     	歌曲：胡笳十八拍(琴曲演唱与琴箫伴奏) - instrumental  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5267430     	歌曲：闺怨.翠裙腰(元散曲,谱据《九宫大成》,人声演唱)  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5267410     	歌曲：扬州慢(词调歌曲,谱见《白石道人歌曲》,人声演唱)  	歌手id: 122455  	歌手：群星  
+	歌曲id: 480572059     	歌曲：滕王阁序  	歌手id: 12168177  	歌手：柯捷锐  
+	歌曲id: 409649432     	歌曲：滕王阁序  	歌手id: 12032116  	歌手：熊赵特  
+	歌曲id: 33419144     	歌曲：白雪歌  	歌手id: 983028  	歌手：言和  
+	歌曲id: 29802216     	歌曲：蜀道难  	歌手id: 1040137  	歌手：庞岩  
+	歌曲id: 34033692     	歌曲：将进酒  	歌手id: 906118  	歌手：洛天依  
+	歌曲id: 480167037     	歌曲：将进酒  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 490433984     	歌曲：将进酒  	歌手id: 12495751  	歌手：铁锤哥_龙宇  
+	歌曲id: 92106     	歌曲：短歌行  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 5253329     	歌曲：短歌行(曹操 诗)  	歌手id: 6708  	歌手：郑赟  	歌手id: 226634  	歌手：程卫兵  
+	歌曲id: 27808780     	歌曲：但愿人长久  	歌手id: 7785  	歌手：龚琳娜  
+	歌曲id: 5239874     	歌曲：水调歌头  	歌手id: 6240  	歌手：于魁智  
+	歌曲id: 393332     	歌曲：明月  	歌手id: 10367  	歌手：杨幂  
+	歌曲id: 263210     	歌曲：别亦难  	歌手id: 8387  	歌手：李依娃  
+	歌曲id: 29086527     	歌曲：却上心头  	歌手id: 7785  	歌手：龚琳娜  
+	歌曲id: 5239867     	歌曲：关雎  	歌手id: 223352  	歌手：小陶阳  
+	歌曲id: 478693748     	歌曲：琵琶行  	歌手id: 4873  	歌手：奇然  	歌手id: 1178207  	歌手：沈谧仁  
+	歌曲id: 34341418     	歌曲：蒹葭  	歌手id: 0  	歌手：永动机乐队  
+	歌曲id: 105043     	歌曲：锦瑟(惘然)  	歌手id: 3473  	歌手：江明学  
+	歌曲id: 496298378     	歌曲：苏幕遮·碧云天  	歌手id: 12556082  	歌手：幻境工场童声合唱团  	歌手id: 3695  	歌手：李健  
+	歌曲id: 229373     	歌曲：芳草无情  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 263187     	歌曲：好梦留人  	歌手id: 8387  	歌手：李依娃  
+	歌曲id: 325753     	歌曲：咏梅  	歌手id: 10425  	歌手：亦薇  
+	歌曲id: 263194     	歌曲：香如故  	歌手id: 8387  	歌手：李依娃  
+	歌曲id: 172578     	歌曲：声声慢  	歌手id: 5812  	歌手：徐宏伟  
+	歌曲id: 263208     	歌曲：许多愁  	歌手id: 8387  	歌手：李依娃  
+	歌曲id: 263204     	歌曲：人比黄花瘦  	歌手id: 8387  	歌手：李依娃  
+	歌曲id: 400690131     	歌曲：烽火扬州路  	歌手id: 5529  	歌手：吴彤  
+	歌曲id: 36471285     	歌曲：辛弃疾《水龙吟(楚天千里清秋)》  	歌手id: 1159165  	歌手：Dreamer律颖  
+	歌曲id: 39436588     	歌曲：苏幕遮  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 271791     	歌曲：沁园春·长沙  	歌手id: 8573  	歌手：刘一祯  
+	歌曲id: 229386     	歌曲：相看泪眼  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 28748038     	歌曲：雨巷  	歌手id: 957020  	歌手：冯佳界  
+	歌曲id: 212224     	歌曲：赠别  	歌手id: 7220  	歌手：蔡琴  
+	歌曲id: 209809     	歌曲：再别康桥  	歌手id: 7220  	歌手：蔡琴  
+	歌曲id: 5273229     	歌曲：木兰诗  	歌手id: 233652  	歌手：牟云  
+	歌曲id: 29802214     	歌曲：行路难  	歌手id: 1040137  	歌手：庞岩  
+	歌曲id: 27591747     	歌曲：七步诗  	歌手id: 3688  	歌手：刘欢  
+	歌曲id: 487576044     	歌曲：庄子《逍遥游》(上)  	歌手id: 12198561  	歌手：雨言  
+	歌曲id: 502729249     	歌曲：庄子《逍遥游》(下)  	歌手id: 12198561  	歌手：雨言  
+	歌曲id: 481139689     	歌曲：离骚  	歌手id: 12198609  	歌手：周果亦  
+	歌曲id: 481495239     	歌曲：离骚  	歌手id: 5568  	歌手：Winky诗  
+	歌曲id: 443967474     	歌曲：荀子《劝学》  	歌手id: 12198561  	歌手：雨言  
+	歌曲id: 450316705     	歌曲：登高  	歌手id: 1184092  	歌手：阿言  
+	歌曲id: 462841033     	歌曲：韩愈《师说》  	歌手id: 12198561  	歌手：雨言  
+	歌曲id: 392026     	歌曲：岳阳楼记?  	歌手id: 13461  	歌手：英水帝江  
+	歌曲id: 412493337     	歌曲：爱莲说  	歌手id: 1194030  	歌手：啝乐队  
+	歌曲id: 5282076     	歌曲：烽火扬州路  	歌手id: 12116  	歌手：轮回  
+	歌曲id: 33933271     	歌曲：水调歌头  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 29802215     	歌曲：陋室铭  	歌手id: 1040137  	歌手：庞岩  
+	歌曲id: 27797714     	歌曲：念奴娇·赤壁怀古 (宋·苏轼)  	歌手id: 9278  	歌手：宋祖英  
+	歌曲id: 388219     	歌曲：出师表  	歌手id: 13301  	歌手：小护士乐团  
+	歌曲id: 481411053     	歌曲：离骚  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 27797713     	歌曲：江城子 (宋·苏轼)  	歌手id: 9278  	歌手：宋祖英  
+	歌曲id: 478692948     	歌曲：离骚  	歌手id: 4873  	歌手：奇然  	歌手id: 1178207  	歌手：沈谧仁  	歌手id: 190349  	歌手：NL不分  	歌手id: 12133084  	歌手：徐远书  
+	歌曲id: 476323357     	歌曲：橘颂  	歌手id: 1132405  	歌手：方圆  
+	歌曲id: 37764344     	歌曲：踏莎行  	歌手id: 990051  	歌手：泥鳅Niko  
+	歌曲id: 432464509     	歌曲：九歌·东皇太一  	歌手id: 5568  	歌手：Winky诗  
+	歌曲id: 428391773     	歌曲：永遇乐·京口北固亭怀古  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 438431106     	歌曲：声声醉花阴  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 443967375     	歌曲：短歌行  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 450275858     	歌曲：白雪歌送武判官归京  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 469240151     	歌曲：锦瑟  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 474218266     	歌曲：念奴娇·赤壁怀古  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 475731249     	歌曲：陋室铭  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 432430408     	歌曲：忆江南  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430409     	歌曲：将进酒  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430411     	歌曲：游子吟  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430412     	歌曲：咏鹅  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430413     	歌曲：回乡偶书  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430414     	歌曲：天净沙·秋思  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430416     	歌曲：悯农  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430417     	歌曲：赠汪伦  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430418     	歌曲：过故人庄  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430419     	歌曲：陋室铭  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430420     	歌曲：登鹳雀楼  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430421     	歌曲：锦瑟  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430422     	歌曲：村居  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430423     	歌曲：画  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430424     	歌曲：饮酒  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430425     	歌曲：诉衷情·当年万里觅封侯?  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430426     	歌曲：初春小雨?  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430427     	歌曲：清明  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430428     	歌曲：蜀相  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464520     	歌曲：绝句  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464521     	歌曲：赋得古原草送别  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464522     	歌曲：渔歌子  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464523     	歌曲：相思  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464524     	歌曲：江南春  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464525     	歌曲：春晓  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464526     	歌曲：端午即事  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464528     	歌曲：晓出净慈寺送林子方  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464529     	歌曲：芙蓉楼送辛渐  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464530     	歌曲：黄鹤楼送孟浩然之广陵  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464531     	歌曲：竹枝词  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464532     	歌曲：静夜思  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464533     	歌曲：题西林壁  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464534     	歌曲：鹊桥仙·纤云弄巧  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464535     	歌曲：饮湖上初晴后雨  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464536     	歌曲：长安杂兴效竹枝体  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464537     	歌曲：山行  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 437250305     	歌曲：小池  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464538     	歌曲：长歌行  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464539     	歌曲：无题·相见时难别亦难  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464540     	歌曲：望月怀远  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432464541     	歌曲：泊秦淮  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 437250301     	歌曲：登幽州台歌  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 437250302     	歌曲：短歌行  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 437250303     	歌曲：九月九日忆山东兄弟  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 437250304     	歌曲：送杜少府之任蜀州  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 437250307     	歌曲：泊船瓜洲  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 452586586     	歌曲：乌衣巷  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 443967368     	歌曲：经典古诗大串烧  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 444003255     	歌曲：鹿柴  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 444075038     	歌曲：山居秋暝  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 443967370     	歌曲：西江月·夜行黄沙道中  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 452585917     	歌曲：江雪  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 452587238     	歌曲：凉州词·葡萄美酒夜光杯  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 452586882     	歌曲：江城子·乙卯二十日夜记梦  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 452585952     	歌曲：雨霖铃  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 452586720     	歌曲：早发白帝城  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 452586755     	歌曲：爱莲说  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 455718785     	歌曲：沁园春·雪  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 455720509     	歌曲：春节谣  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 457586912     	歌曲：元日  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 432430410     	歌曲：行路难  	歌手id: 12119653  	歌手：胡婷婷  
+	歌曲id: 106262     	歌曲：国风  	歌手id: 3537  	歌手：鞠起  
+	歌曲id: 435289371     	歌曲：野有蔓草  	歌手id: 12137031  	歌手：刘智晗  
+	歌曲id: 29785997     	歌曲：硕鼠 (诗经·魏风)  	歌手id: 1039289  	歌手：飛鳥行吟  
+	歌曲id: 29567546     	歌曲：雄雉  	歌手id: 0  	歌手：天刀  
+	歌曲id: 27904270     	歌曲：黍离  	歌手id: 10563  	歌手：周迅  
+	歌曲id: 432511785     	歌曲：蒹葭  	歌手id: 11653  	歌手：F.Be.I  
+	歌曲id: 29953252     	歌曲：野有蔓草。诗经里的情歌  	歌手id: 1046028  	歌手：严晴  
+	歌曲id: 28409907     	歌曲：寻鹿  	歌手id: 900347  	歌手：小旭音乐  
+	歌曲id: 221993     	歌曲：在水一方  	歌手id: 7371  	歌手：曹芙嘉  
+	歌曲id: 29787823     	歌曲：诗经 - 郑风 - 东门之墠  	歌手id: 1039467  	歌手：殷其雷  
+	歌曲id: 40249318     	歌曲：汉广  	歌手id: 1198019  	歌手：王轩  
+	歌曲id: 5257097     	歌曲：天作 选自(诗经 周颂)  	歌手id: 9712  	歌手：吴碧霞  	歌手id: 189017  	歌手：周强  
+	歌曲id: 183262     	歌曲：关雎  	歌手id: 6210  	歌手：叶宏钢  
+	歌曲id: 27515174     	歌曲：蒹葭  	歌手id: 4940  	歌手：苏有朋  
+	歌曲id: 35440046     	歌曲：周南 汉广  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 105173     	歌曲：关雎  	歌手id: 3488  	歌手：姜嘉锵  
+	歌曲id: 5257099     	歌曲：采薇 选自(诗经 小雅)  	歌手id: 227759  	歌手：李蓉新  
+	歌曲id: 41634008     	歌曲：月出  	歌手id: 0  	歌手：曾静  
+	歌曲id: 35440012     	歌曲：王风 黍离  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440013     	歌曲：桧风 隰有苌楚  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440014     	歌曲：曹风 蜉蝣  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440015     	歌曲：唐风 葛生  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440016     	歌曲：齐风 猗嗟  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440017     	歌曲：豳风 东山  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440018     	歌曲：陈风 月初  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440019     	歌曲：卫风 河广  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440020     	歌曲：周颂 丰年  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440021     	歌曲：邶风 凯风  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440022     	歌曲：大雅 灵台  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440023     	歌曲：秦风 蒹葭  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440024     	歌曲：小雅 鹿鸣  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440025     	歌曲：郑风 子衿  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440026     	歌曲：召南 摽有梅  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440027     	歌曲：魏风 伐檀  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440028     	歌曲：周南 关雎  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440029     	歌曲：魏风 载驰  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440030     	歌曲：邶风 静女  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440031     	歌曲：邶风 绿衣  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440032     	歌曲：邶风 燕燕  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440033     	歌曲：陈风 宛丘  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440034     	歌曲：唐风 绸缪  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440035     	歌曲：王风 采葛  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440036     	歌曲：卫风 木瓜  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440037     	歌曲：卫风 淇奧  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440038     	歌曲：小雅 蓼莪  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440039     	歌曲：郑风 將仲子  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440040     	歌曲：郑风 野有蔓草  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440041     	歌曲：周南 卷耳  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440042     	歌曲：周南 桃夭  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440043     	歌曲：邶风 柏舟  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440044     	歌曲：小雅 采薇  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440045     	歌曲：豳风 鸱枭  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440047     	歌曲：卫风 氓  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440048     	歌曲：卫风 硕人  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440049     	歌曲：魏风 园有桃  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440050     	歌曲：陈风 泽陂  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 35440051     	歌曲：魏风 陟岵  	歌手id: 10319  	歌手：于文华  
+	歌曲id: 419375002     	歌曲：蒹葭  	歌手id: 4032  	歌手：李建傧  
+	歌曲id: 27797707     	歌曲：关雎 (诗经)  	歌手id: 9278  	歌手：宋祖英  
+	歌曲id: 5257101     	歌曲：良耜 选自(诗经 周颂)  	歌手id: 122455  	歌手：群星  
+	歌曲id: 5257100     	歌曲：葛生 选自(诗经 唐风)  	歌手id: 227768  	歌手：韩婷  	歌手id: 227772  	歌手：罗帅  
+	歌曲id: 35618057     	歌曲：木兰辞  	歌手id: 981090  	歌手：琉辉  
+	歌曲id: 26600868     	歌曲：寒江雪  	歌手id: 7306  	歌手：储兰兰  
+	歌曲id: 368812     	歌曲：蝶恋花  	歌手id: 12437  	歌手：牛奶咖啡  
+	歌曲id: 5248665     	歌曲：水莲花  	歌手id: 8387  	歌手：李依娃  
+	歌曲id: 39224815     	歌曲：黍离  	歌手id: 12263  	歌手：秘密後院  
+	歌曲id: 263337     	歌曲：钗头凤  	歌手id: 8389  	歌手：李碧华  
+	歌曲id: 38019459     	歌曲：好了歌注  	歌手id: 3558  	歌手：蒋明  
+	歌曲id: 409646594     	歌曲：凤求凰·二  	歌手id: 12031073  	歌手：师乐  
+	歌曲id: 409647563     	歌曲：白头吟  	歌手id: 12031073  	歌手：师乐  
+	歌曲id: 230096     	歌曲：黄鹤楼 崔颢(唐)  	歌手id: 7663  	歌手：风中采莲  
+	歌曲id: 321589     	歌曲：隔三秋  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 321608     	歌曲：吹裙带  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 321591     	歌曲：留人醉  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 321623     	歌曲：却上心头  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 321581     	歌曲：相思意  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 321585     	歌曲：人约黄昏  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 30413358     	歌曲：襄阳歌  	歌手id: 11776  	歌手：黑鸭子  	歌手id: 11113  	歌手：八只眼  
+	歌曲id: 92118     	歌曲：道  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 321599     	歌曲：江南  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 27090935     	歌曲：相思  	歌手id: 7843  	歌手：谷建芬  
+	歌曲id: 225366     	歌曲：相思  	歌手id: 7556  	歌手：戴梓伊  
+	歌曲id: 229390     	歌曲：思君  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 163760     	歌曲：饯别  	歌手id: 5451  	歌手：翁培伦  
+	歌曲id: 27090926     	歌曲：悯农  	歌手id: 7843  	歌手：谷建芬  
+	歌曲id: 122161     	歌曲：送别  	歌手id: 3752  	歌手：李维  
+	歌曲id: 272415     	歌曲：无题  	歌手id: 8603  	歌手：刘杨  
+	歌曲id: 5276411     	歌曲：雨霖铃  	歌手id: 9951  	歌手：辛晓琪  
+	歌曲id: 5261442     	歌曲：绿蓑衣  	歌手id: 10247  	歌手：敬善媛  
+	歌曲id: 29722869     	歌曲：长恨歌  	歌手id: 0  	歌手：裂天  
+	歌曲id: 28739188     	歌曲：洛神赋  	歌手id: 0  	歌手：苏衣  
+	歌曲id: 272408     	歌曲：忆王孙  	歌手id: 8603  	歌手：刘杨  
+	歌曲id: 314786     	歌曲：山河泪  	歌手id: 10071  	歌手：萧孋珠  
+	歌曲id: 225364     	歌曲：游子吟  	歌手id: 7556  	歌手：戴梓伊  
+	歌曲id: 272428     	歌曲：长相思  	歌手id: 8603  	歌手：刘杨  
+	歌曲id: 5240486     	歌曲：几多愁  	歌手id: 9494  	歌手：童丽  
+	歌曲id: 272411     	歌曲：越人歌  	歌手id: 8603  	歌手：刘杨  
+	歌曲id: 92107     	歌曲：江城子  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 5276172     	歌曲：扬州慢  	歌手id: 9414  	歌手：单秀荣  
+	歌曲id: 92110     	歌曲：静夜思  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 27591745     	歌曲：短歌行  	歌手id: 6156  	歌手：杨洪基  
+	歌曲id: 214116     	歌曲：采莲曲  	歌手id: 7237  	歌手：蔡幸娟  
+	歌曲id: 92109     	歌曲：破阵子  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 76304     	歌曲：将进酒  	歌手id: 2425  	歌手：陈涌海  
+	歌曲id: 27090925     	歌曲：静夜思  	歌手id: 7843  	歌手：谷建芬  
+	歌曲id: 30373584     	歌曲：长恨歌  	歌手id: 1047440  	歌手：秦昊  
+	歌曲id: 310685     	歌曲：别亦难  	歌手id: 9968  	歌手：徐小凤  
+	歌曲id: 184070     	歌曲：忆江南  	歌手id: 8641  	歌手：李涵  
+	歌曲id: 27090948     	歌曲：游子吟  	歌手id: 7843  	歌手：谷建芬  
+	歌曲id: 229380     	歌曲：胭脂泪  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 159416     	歌曲：红豆曲  	歌手id: 5387  	歌手：王洁实  
+	歌曲id: 330660     	歌曲：钗头凤  	歌手id: 10585  	歌手：张也  
+	歌曲id: 92112     	歌曲：钗头凤  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 159434     	歌曲：好了歌  	歌手id: 5372  	歌手：王立平  
+	歌曲id: 136901     	歌曲：虞美人  	歌手id: 4538  	歌手：马常胜  
+	歌曲id: 159412     	歌曲：叹香菱  	歌手id: 7461  	歌手：陈力  
+	歌曲id: 229371     	歌曲：几多愁  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 159390     	歌曲：聪明累  	歌手id: 5387  	歌手：王洁实  
+	歌曲id: 159384     	歌曲：晴雯歌  	歌手id: 7461  	歌手：陈力  
+	歌曲id: 31917312     	歌曲：清平调  	歌手id: 9621  	歌手：王菲  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 92114     	歌曲：月下独酌  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 272422     	歌曲：子夜吴歌  	歌手id: 8603  	歌手：刘杨  
+	歌曲id: 29429053     	歌曲：再别康桥  	歌手id: 3537  	歌手：鞠起  
+	歌曲id: 214109     	歌曲：夕殿萤飞  	歌手id: 7237  	歌手：蔡幸娟  
+	歌曲id: 227916     	歌曲：人面桃花  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 363466     	歌曲：在水一方  	歌手id: 12116  	歌手：轮回  
+	歌曲id: 362393     	歌曲：游园惊梦  	歌手id: 12054  	歌手：卡奇社  
+	歌曲id: 225385     	歌曲：登观雀楼  	歌手id: 7556  	歌手：戴梓伊  
+	歌曲id: 363400     	歌曲：大江东去  	歌手id: 12116  	歌手：轮回  
+	歌曲id: 161073     	歌曲：烟花三月  	歌手id: 5390  	歌手：吴涤清  
+	歌曲id: 132385     	歌曲：游园惊梦  	歌手id: 4130  	歌手：李玉刚  
+	歌曲id: 225894     	歌曲：独上西楼  	歌手id: 7570  	歌手：邓丽君  
+	歌曲id: 5250314     	歌曲：月满西楼  	歌手id: 7086  	歌手：安雯  
+	歌曲id: 159428     	歌曲：题帕三绝  	歌手id: 7461  	歌手：陈力  
+	歌曲id: 92120     	歌曲：沁园春.雪  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 5242358     	歌曲：将进酒  	歌手id: 122455  	歌手：群星  
+	歌曲id: 27538249     	歌曲：官封弼马温  	歌手id: 4934  	歌手：苏阳  
+	歌曲id: 27483127     	歌曲：床前明月光  	歌手id: 8918  	歌手：梅艳芳  
+	歌曲id: 236412     	歌曲：青青河边草  	歌手id: 7777  	歌手：高胜美  
+	歌曲id: 36894666     	歌曲：天净沙秋思  	歌手id: 1084207  	歌手：白亮  
+	歌曲id: 159398     	歌曲：秋窗风雨夕  	歌手id: 7461  	歌手：陈力  
+	歌曲id: 27928335     	歌曲：上邪(长相知)  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 246537     	歌曲：相和歌-子衿  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 278960     	歌曲：黄鹤楼(古代版)  	歌手id: 8972  	歌手：晏菲  
+	歌曲id: 29775856     	歌曲：长恨歌(吴语版)  	歌手id: 981134  	歌手：流浪的蛙蛙  
+	歌曲id: 214125     	歌曲：春寒赐浴华清池  	歌手id: 7237  	歌手：蔡幸娟  
+	歌曲id: 27591735     	歌曲：滚滚长江东逝水  	歌手id: 6156  	歌手：杨洪基  
+	歌曲id: 82882     	歌曲：月下待杜鹃不来  	歌手id: 2747  	歌手：费玉清  
+	歌曲id: 225362     	歌曲：赋得古原草送别  	歌手id: 7556  	歌手：戴梓伊  
+	歌曲id: 5253332     	歌曲：从军行(王昌龄 诗)  	歌手id: 5507  	歌手：吴双  
+	歌曲id: 27797712     	歌曲：一剪梅 (北宋·李清照)  	歌手id: 9278  	歌手：宋祖英  
+	歌曲id: 105180     	歌曲：黄鹤楼送孟浩然之广陵  	歌手id: 3488  	歌手：姜嘉锵  
+	歌曲id: 29897982     	歌曲：天净沙 秋思/甘肃 河西  	歌手id: 12113  	歌手：六个国王  
+	歌曲id: 5257098     	歌曲：十亩之间 选自(诗经 魏风)  	歌手id: 9712  	歌手：吴碧霞  
+	歌曲id: 230108     	歌曲：物是人非 李清照(宋)《武陵春》  	歌手id: 7663  	歌手：风中采莲  
+	歌曲id: 109048     	歌曲：惊鸿舞  	歌手id: 10371  	歌手：姚贝娜  
+	歌曲id: 112683     	歌曲：满江红  	歌手id: 3698  	歌手：罗文  
+	歌曲id: 109036     	歌曲：菩萨蛮  	歌手id: 10371  	歌手：姚贝娜  
+	歌曲id: 178821     	歌曲：三国演义  	歌手id: 6097  	歌手：叶振棠  
+	歌曲id: 27928338     	歌曲：子衿(相和歌)  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 29984349     	歌曲：我住长江头  	歌手id: 981005  	歌手：云の泣  
+	歌曲id: 29535956     	歌曲：声律启蒙  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 29823475     	歌曲：月出  	歌手id: 4873  	歌手：奇然  
+	歌曲id: 235386     	歌曲：月满西楼  	歌手id: 7771  	歌手：龚玥  
+	歌曲id: 32217107     	歌曲：北国  	歌手id: 975482  	歌手：燕池  
+	歌曲id: 28029968     	歌曲：司宵子  	歌手id: 9026  	歌手：冥月  
+	歌曲id: 29414728     	歌曲：江山雪  	歌手id: 10141  	歌手：小爱的妈  
+	歌曲id: 208365     	歌曲：有狐绥绥  	歌手id: 7189  	歌手：白若溪  
+	歌曲id: 29393545     	歌曲：长恨歌第一章  	歌手id: 6290  	歌手：音频怪物  
+	歌曲id: 239562     	歌曲：采薇  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 28427657     	歌曲：君卿辞  	歌手id: 6290  	歌手：音频怪物  	歌手id: 10141  	歌手：小爱的妈  
+	歌曲id: 289135     	歌曲：佳人曲  	歌手id: 9280  	歌手：苏曼  
+	歌曲id: 29786391     	歌曲：莛瀛  	歌手id: 188558  	歌手：Aki阿杰  
+	歌曲id: 30953371     	歌曲：最是李商隐  	歌手id: 7541  	歌手：董贞  
+	歌曲id: 31587566     	歌曲：大风歌  	歌手id: 3524  	歌手：极泷  
+	歌曲id: 29378593     	歌曲：子衿  	歌手id: 12269  	歌手：墨明棋妙  
+	歌曲id: 31789216     	歌曲：采薇  	歌手id: 1071044  	歌手：张渠  
+	歌曲id: 26090155     	歌曲：送别  	歌手id: 4721  	歌手：朴树  
+	歌曲id: 27808553     	歌曲：浣溪沙  	歌手id: 2116  	歌手：陈奕迅  	歌手id: 228462  	歌手：冯翰铭  
+	歌曲id: 81383     	歌曲：息兮  	歌手id: 2699  	歌手：东篱  
+	歌曲id: 159394     	歌曲：葬花吟  	歌手id: 7461  	歌手：陈力  
+	歌曲id: 246556     	歌曲：相思  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 29444047     	歌曲：上元  	歌手id: 7541  	歌手：董贞  
+	歌曲id: 27902876     	歌曲：出师表  	歌手id: 7138  	歌手：安九  
+	歌曲id: 267910     	歌曲：越人歌  	歌手id: 8454  	歌手：李函曦  
+	歌曲id: 239554     	歌曲：屈子  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 31563520     	歌曲：商女恨  	歌手id: 0  	歌手：唐六幺  
+	歌曲id: 27808545     	歌曲：菩萨蛮  	歌手id: 10371  	歌手：姚贝娜  
+	歌曲id: 366286     	歌曲：木兰辞  	歌手id: 7730  	歌手：绯村柯北  
+	歌曲id: 224279     	歌曲：天净沙.秋思  	歌手id: 7541  	歌手：董真  
+	歌曲id: 409649811     	歌曲：竹枝词  	歌手id: 12025552  	歌手：双笙  
+	歌曲id: 30070650     	歌曲：伊人  	歌手id: 1044143  	歌手：嫌弃  
+	歌曲id: 29378429     	歌曲：铜雀赋  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 266063     	歌曲：虞美人  	歌手id: 8428  	歌手：林媚  
+	歌曲id: 224280     	歌曲：重阳  	歌手id: 7541  	歌手：董真  
+	歌曲id: 5239866     	歌曲：声声慢  	歌手id: 8352  	歌手：刘桂娟  
+	歌曲id: 28853557     	歌曲：清欢怅  	歌手id: 5568  	歌手：Winky诗  
+	歌曲id: 224274     	歌曲：幽狐  	歌手id: 7541  	歌手：董真  
+	歌曲id: 28188386     	歌曲：谓我  	歌手id: 5997  	歌手：小曲儿  
+	歌曲id: 239560     	歌曲：白头吟  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 159401     	歌曲：枉凝眉  	歌手id: 7461  	歌手：陈力  
+	歌曲id: 30070831     	歌曲：应谢人间  	歌手id: 11937  	歌手：i2star  
+	歌曲id: 28685281     	歌曲：赋别  	歌手id: 9566  	歌手：Tacke竹桑  
+	歌曲id: 32451838     	歌曲：楚云深  	歌手id: 11937  	歌手：i2star  
+	歌曲id: 5234055     	歌曲：水调歌头  	歌手id: 122455  	歌手：群星  
+	歌曲id: 30964595     	歌曲：玉楼春  	歌手id: 1006030  	歌手：洪尘  
+	歌曲id: 246550     	歌曲：蝶恋花  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 28496172     	歌曲：山鬼  	歌手id: 5568  	歌手：Winky诗  
+	歌曲id: 30070830     	歌曲：击鼓  	歌手id: 11937  	歌手：i2star  
+	歌曲id: 29414459     	歌曲：清平调  	歌手id: 711683  	歌手：好妹妹乐队  
+	歌曲id: 28660487     	歌曲：蜀道难  	歌手id: 9455  	歌手：少司命  
+	歌曲id: 29812320     	歌曲：水龙吟  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 29392759     	歌曲：长恨歌  	歌手id: 5678  	歌手：五色石南叶  
+	歌曲id: 156257     	歌曲：江城子  	歌手id: 3669  	歌手：王三溥  
+	歌曲id: 34125082     	歌曲：雨霖铃  	歌手id: 4903  	歌手：尧十三  
+	歌曲id: 29544945     	歌曲：醉花阴  	歌手id: 0  	歌手：吴锐鑫  
+	歌曲id: 209800     	歌曲：如梦令  	歌手id: 7220  	歌手：蔡琴  
+	歌曲id: 300038     	歌曲：声声慢  	歌手id: 9630  	歌手：王祖贤  
+	歌曲id: 34380566     	歌曲：蝶恋花  	歌手id: 0  	歌手：只有影子&小义  
+	歌曲id: 296722     	歌曲：点绛唇  	歌手id: 9540  	歌手：唐荭菲  
+	歌曲id: 35448021     	歌曲：竹枝词  	歌手id: 906118  	歌手：洛天依  
+	歌曲id: 363429     	歌曲：满江红  	歌手id: 12116  	歌手：轮回  
+	歌曲id: 29764408     	歌曲：春日宴  	歌手id: 751129  	歌手：网易游戏  
+	歌曲id: 92108     	歌曲：桃花庵  	歌手id: 3031  	歌手：关栋天  
+	歌曲id: 246560     	歌曲：鹊桥仙  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 381807     	歌曲：大风歌  	歌手id: 12972  	歌手：唐朝  
+	歌曲id: 25638063     	歌曲：垓下歌  	歌手id: 3462  	歌手：吉杰  
+	歌曲id: 109051     	歌曲：菩萨蛮(男声珍藏版)  	歌手id: 3688  	歌手：刘欢  
+	歌曲id: 27090919     	歌曲：登鹳雀楼  	歌手id: 7843  	歌手：谷建芬  
+	歌曲id: 29786001     	歌曲：月下独酌--李白  	歌手id: 1039289  	歌手：飛鳥行吟  
+	歌曲id: 299714     	歌曲：但愿人长久  	歌手id: 9621  	歌手：王菲  
+	歌曲id: 29371151     	歌曲：君生我未生  	歌手id: 7776  	歌手：关燕仪  
+	歌曲id: 396894     	歌曲：忆秦娥.娄山关  	歌手id: 13645  	歌手：中国武警男声合唱团  
+	歌曲id: 246547     	歌曲：关雎  	歌手id: 8039  	歌手：哈辉  
+	歌曲id: 33737487     	歌曲：锦瑟  	歌手id: 1049151  	歌手：凌之轩  
+	歌曲id: 27090922     	歌曲：江南  	歌手id: 7843  	歌手：谷建芬  
+	歌曲id: 27090916     	歌曲：出塞  	歌手id: 7843  	歌手：谷建芬  
+	歌曲id: 467590940     	歌曲：观刈麦  	歌手id: 843042  	歌手：王大培  
+	歌曲id: 451710166     	歌曲：将进酒（Cover：佑可猫）  	歌手id: 12039128  	歌手：肥皂菌丨珉珉的猫咪丨  
+	歌曲id: 29772574     	歌曲：从前慢  	歌手id: 975482  	歌手：燕池  
+	歌曲id: 476513774     	歌曲：琵琶行  	歌手id: 4873  	歌手：奇然  	歌手id: 1178207  	歌手：沈谧仁  
+	歌曲id: 478854449     	歌曲：离骚  	歌手id: 4873  	歌手：奇然  	歌手id: 1178207  	歌手：沈谧仁  	歌手id: 190349  	歌手：NL不分  	歌手id: 0  	歌手：徐远书  
+电台id:1367634674  	电台：【同人】李总陪你睡觉觉（cr weibo@撩妹少年阿特） 
+专辑id:37255010  	专辑：My My My! 	作者Id:45129  	作者: Troye Sivan 
+版权Id:7003  专辑名：My My My!  公司：环球唱片  封面url：http://p3.music.126.net/OoRRvztU93aqe8ovQkBs1A==/109951163105451047.jpg  
+简介：戳爷Troye Sivan全新回归单曲《My My My!》正式公开！   
+		 作者id: 45129  作者： Troye Sivan  头像：http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg(http://p3.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg) 
+		  歌曲id:529825010   歌曲：My My My!  
+
+
+	作者Id:45129 	作者: Troye Sivan 
+歌手：Troye Sivan - 特洛耶·希文;Troye Sivan Mellet  
+	简介：Troye Sivan ，1995年6月5日出生于南非约翰内斯堡，南非裔澳大利亚歌手。 2007年开启了他的歌唱事业，在YouTube个人频道上上传第一个翻唱视频Declan Galbraith的Tell Me Why，之后并不断上传音乐作品。 作为网络社交达人，截止2015年10月其YouTube频道订阅已经突破370万，推特粉丝突破300万。 2014年8月15日，他的个人首张主流厂牌EP Trxye上架并且首周空降美国第5位及加拿大BillboardHot 200以及新西兰专辑销量第二位，在全球范围内更是登顶了55国下载榜冠军。首单Happy Little Pill被澳洲认证黄金销量。2014年10月，入选《时代周刊》“2014年网络最具有影响力青少年25位”。 2015年9月4日，个人第二张厂牌主流录音室EP WILD 发行。预售便迅速登顶美国，澳大利亚和香港等41个国家及地区iTunes即时下载榜单，首周空降ARIA澳洲专辑榜首同年，入选Billboard杂志2015年全球最富有影响力的21岁以下的音乐人第6名 。 2015年12月4日 个人首张厂牌主流录音室专辑Blue Neighbourhood正式全球发行。 
+Troye Sivan - 特洛耶·希文;Troye Sivan Mellet的歌曲推荐:
+	链接：https://music.163.com/song?id=480426313   	歌曲：There For You 
+	链接：https://music.163.com/song?id=529825010   	歌曲：My My My! 
+	链接：https://music.163.com/song?id=36668810   	歌曲：YOUTH 
+	链接：https://music.163.com/song?id=37955044   	歌曲：for him. 
+	链接：https://music.163.com/song?id=37955047   	歌曲：BLUE 
+	链接：https://music.163.com/song?id=34383213   	歌曲：FOOLS 
+	链接：https://music.163.com/song?id=418550450   	歌曲：WILD 
+	链接：https://music.163.com/song?id=35437414   	歌曲：TALK ME DOWN 
+	链接：https://music.163.com/song?id=37988002   	歌曲：LOST BOY 
+	链接：https://music.163.com/song?id=493276825   	歌曲：There for You 
+	链接：https://music.163.com/song?id=37857000   	歌曲：HEAVEN 
+	链接：https://music.163.com/song?id=37955045   	歌曲：SUBURBIA 
+	链接：https://music.163.com/song?id=441107979   	歌曲：EASE (Lontalius Remix) 
+	链接：https://music.163.com/song?id=414670127   	歌曲：Youth ( AndyWho Remix ) 
+	链接：https://music.163.com/song?id=37988124   	歌曲：SWIMMING POOLS 
+	链接：https://music.163.com/song?id=28850248   	歌曲：Happy Little Pill 
+	链接：https://music.163.com/song?id=32019009   	歌曲：Papercut 
+	链接：https://music.163.com/song?id=28947006   	歌曲：Touch 
+	链接：https://music.163.com/song?id=36496637   	歌曲：Someone Like You 
+	链接：https://music.163.com/song?id=37988001   	歌曲：COOL 
+	链接：https://music.163.com/song?id=28947007   	歌曲：Fun 
+	链接：https://music.163.com/song?id=35448203   	歌曲：BITE 
+	链接：https://music.163.com/song?id=419254976   	歌曲：for him - Live 
+	链接：https://music.163.com/song?id=28947008   	歌曲：Gasoline 
+	链接：https://music.163.com/song?id=34200871   	歌曲：The One That Got Away 
+	链接：https://music.163.com/song?id=37988003   	歌曲：TOO GOOD 
+	链接：https://music.163.com/song?id=28947009   	歌曲：The Fault In Our Stars (MMXIV) 
+	链接：https://music.163.com/song?id=420134159   	歌曲：Hands to Myself & Sorry 
+	链接：https://music.163.com/song?id=451113161   	歌曲：Somebody To Love Me (Cover Mark Ronson) 
+	链接：https://music.163.com/song?id=35448204   	歌曲：THE QUIET 
+	链接：https://music.163.com/song?id=35447184   	歌曲：DKLA 
+	链接：https://music.163.com/song?id=37955165   	歌曲：HAPPY LITTLE PILL (Live Version) 
+	链接：https://music.163.com/song?id=35779322   	歌曲：We're My OTP 
+	链接：https://music.163.com/song?id=34338049   	歌曲：The Fault in Our Stars 
+	链接：https://music.163.com/song?id=36509754   	歌曲：Make You Love Me 
+	链接：https://music.163.com/song?id=34338052   	歌曲：Sea Of Love (Cover) 
+	链接：https://music.163.com/song?id=38679582   	歌曲：For Them 
+	链接：https://music.163.com/song?id=419254977   	歌曲：Here - Live 
+	链接：https://music.163.com/song?id=419250975   	歌曲：Fools - Live 
+	链接：https://music.163.com/song?id=419250978   	歌曲：Wild - Live 
+	链接：https://music.163.com/song?id=419250977   	歌曲：Talk Me Down - Live 
+	链接：https://music.163.com/song?id=34338053   	歌曲：Crazy Love 
+	链接：https://music.163.com/song?id=29279245   	歌曲：Love Is A Losing Game 
+	链接：https://music.163.com/song?id=419250976   	歌曲：Heaven - Live 
+	链接：https://music.163.com/song?id=36509753   	歌曲：She's 22 
+	链接：https://music.163.com/song?id=419254975   	歌曲：Ease - Live 
+	链接：https://music.163.com/song?id=2055841   	歌曲：The Prayer 
+	链接：https://music.163.com/song?id=29274641   	歌曲：Pumped Up Kicks 
+	链接：https://music.163.com/song?id=2055850   	歌曲：There's A Hero 
+	链接：https://music.163.com/song?id=419254978   	歌曲：Too Good - Live 
+专辑id:37174149  	专辑：#??? 	作者Id:1039524  	作者: 脸红的思春期 
+版权Id:422010  专辑名：#???  公司：Shofar Music  封面url：http://p3.music.126.net/tI1pa2JmU5gh8VkEZKVJ1w==/109951163103523307.jpg  
+简介：Dingo X 脸红的思春期(BOL4)’合作单曲《#初恋》。
+?
+韩国最大移动媒体‘Dingo’与单纯美好的青春期的代名词‘脸红的思春期’合作发行全新单曲《#初恋》。
+?
+Dingo X BOL4 合作单曲《#初恋》由有着2700万用户、月浏览量3.9亿次的Dingo进行策划与宣传，由‘脸红的思春期’的企划公司Shofar Music进行制作与进行。
+?
+初恋的记忆对每个人都是心动的回忆，因‘恋’字前多了一个‘初’字，这个单词仿佛有了更加特殊的意义。
+‘#初恋’讲述了单纯又生疏的那段美好时光、那份真情，不禁使人回想起，儿时怕被自己喜欢的人知道而故意刁难人家时的那股稚气，让人不禁笑出来。
+安智英特有的活泼嗓音和可爱的歌词给人留下深刻印象。
+?
+令人怦然心动的初恋的记忆，我们所有人的故事。
+Dingo X BOL4 特别合作单曲《#初恋》   
+		 作者id: 1039524  作者： 脸红的思春期  头像：http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg(http://p3.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg) 
+		  歌曲id:528272395   歌曲：#???  
+
+
+	作者Id:1039524 	作者: 脸红的思春期 
+歌手：脸红的思春期 - ??? ???;BOL4  
+	简介：脸红的思春期（??? ???/Bolbbalgan4）为韩国的女子双人独立乐队，由???（安智英，主唱）和???（禹志润，贝斯, 吉他, 副主唱,rap）组成，于 2016年4月22日通过《Half Album RED ICKLE》正式出道。后因《Full Album RED PLANET》中一曲《给你宇宙》逆袭韩国的各个音乐排行榜而被大众所熟知。 
+脸红的思春期 - ??? ???;BOL4的歌曲推荐:
+	链接：https://music.163.com/song?id=427595456   	歌曲：??? ?? 
+	链接：https://music.163.com/song?id=509311681   	歌曲：? ??? 
+	链接：https://music.163.com/song?id=528272395   	歌曲：#??? 
+	链接：https://music.163.com/song?id=427595458   	歌曲：You(=I) 
+	链接：https://music.163.com/song?id=509311682   	歌曲：Blue 
+	链接：https://music.163.com/song?id=427595461   	歌曲：X Song 
+	链接：https://music.163.com/song?id=509313700   	歌曲：?? ????? 
+	链接：https://music.163.com/song?id=448143354   	歌曲：??? ?? 
+	链接：https://music.163.com/song?id=427614368   	歌曲：?? ??? ?? 
+	链接：https://music.163.com/song?id=509313687   	歌曲：????? 
+	链接：https://music.163.com/song?id=509311687   	歌曲：?? 
+	链接：https://music.163.com/song?id=427614370   	歌曲：??? ??? ? 
+	链接：https://music.163.com/song?id=478736173   	歌曲：???? ?? ? 
+	链接：https://music.163.com/song?id=410802499   	歌曲：??? 
+	链接：https://music.163.com/song?id=410801524   	歌曲：??? 
+	链接：https://music.163.com/song?id=484058390   	歌曲：?? ? ? ??? 
+	链接：https://music.163.com/song?id=427595460   	歌曲：???? 
+	链接：https://music.163.com/song?id=427595459   	歌曲：?? 
+	链接：https://music.163.com/song?id=449452076   	歌曲：?? 
+	链接：https://music.163.com/song?id=427595462   	歌曲：?? 
+	链接：https://music.163.com/song?id=410801526   	歌曲：??? (???? ?? ??) 
+	链接：https://music.163.com/song?id=30780173   	歌曲：???? ?? 
+	链接：https://music.163.com/song?id=29744540   	歌曲：???? 
+	链接：https://music.163.com/song?id=399410695   	歌曲：Romantic Wish 
+	链接：https://music.163.com/song?id=29796306   	歌曲：???? ? (Inst.) 
+	链接：https://music.163.com/song?id=453268604   	歌曲：Blind Date 
+	链接：https://music.163.com/song?id=479938395   	歌曲：?? (mohae) 
+	链接：https://music.163.com/song?id=453185705   	歌曲：D (Half Moon) 
+	链接：https://music.163.com/song?id=441120785   	歌曲：告白颂 (live) 
+专辑id:37085119  	专辑：伟大的渺小 	作者Id:3684  	作者: 林俊杰 
+版权Id:7002  专辑名：伟大的渺小  公司：华纳唱片  封面url：http://p4.music.126.net/xdgsjM7uQxR7o1xSKGXlCg==/109951163099447939.jpg  
+简介：回家的路 很长 很难
+离开自己 再被自己找到
+
+来自灵魂的message，流窜着每一个音符
+传递着
+2017林俊杰 JJ Lin 以「真实」为驱动的赤裸撼动?
+
+伟大的渺小
+Message In A Bottle
+
+离开了天真
+在受伤里长大
+
+离开了自己
+再被自己找到
+
+当我们倾听内心
+即可重聚
+
+不惧
+
+
+「这是一张不管作或唱，都是在掏空自己的作品…」
+JJ Lin
+
+
+《伟大的渺小》专辑中的每一首歌，彷佛都是来自灵魂的深刻讯息，每一个音符都撼动着心灵，让人无可自拔地沈溺其中，无尽地探索着这浩瀚的音乐宇宙。
+
+两年的时间，我们仍在荧光幕上，看着他活跃地穿梭着，也再度获得金曲奖男歌手的肯定。
+然而，关上门，之于创作，他会往哪里去？
+所有人，众所期待。
+
+一直以来，他是个目标导向，不顾一切往前冲的男孩。
+这些日子，他低下头，拥抱着周遭生活发生的起起伏伏，认识的，不认识的，他听着、看着、感受着每一个人在生命里奋战过的创伤与勇气。让他从心出发，勇敢地将潜藏内心已久的情感，呈现作品，献给每一个身边重视的人们，谱成这张独特的音乐意念，以「真实」为驱动的全新专辑。
+
+抒情、民谣、电子、庞克摇滚等多种曲风混搭
+林俊杰 JJ Lin 金奖制作团队再次挑战巅峰
+
+上一张专辑《和自己对话》惊艳听众，让林俊杰一举夺下金曲奖最佳男歌手之后，林俊杰JJ却不急着出下一张专辑，他花了许多时间生活、思考、旅行、沈淀、与亲人朋友相处、感受爱、感受世界，一首一首写下他内心情感的片段，当作品累积到一定数量后，以「真实」做为一个选歌标准，制作出这一张既磅礴又细腻的音乐大作《伟大的渺小》。
+
+除了创作实力惊人、歌唱技巧高超外，林俊杰JJ在制作上的实力也是备受华语乐坛肯定，这次他再度担任专辑的制作人，邀请他熟悉的金奖团队，在每一首歌曲制作上都加上了不同的巧思。专辑中除了他一项擅长的抒情、民谣曲风外，更尝试了许多不同的曲风，如《穿越》、《四点四十四》这两首歌，将真实录下的乐器声和电子音色做出相当巧妙的融合，让听者有一种既真实又迷幻的感受；《圣所》这首歌则尝试了红遍全球的 EDM 曲风；用大编制的管弦乐来营造《小瓶子》这首歌的庞大气势等。
+
+在这些反差强烈的曲风与音色中，林俊杰JJ试图清楚并详细地描绘最真实的内心世界，有时平静、有时动容、有时清醒、有时疯狂。听完这一整张专辑，就像陪林俊杰走过一趟内心深处的奇幻旅程一般，感受情绪每一丝被音乐所牵动的变化，每一秒都让你无法预料。在他的音乐中，我们听见自己与世界脉动的合一，我们听见自己，而这样巨大而炫烂，渺小而又细腻的情感，充满着这一张令人无法不一次又一次完整聆听的音乐大作：《伟大的渺小》。
+
+制作这一张充满人生哲理的《伟大的渺小》，林俊杰JJ回归最单纯、最真实的自己，与一路合作的音乐伙伴再度并肩作战，邀请小寒、方文山、易家扬、姚若龙和林怡凤担任作词。并请到多做葛莱美奖得主Chris Lord-Alge参与部分歌曲的混音。而此次母带后制更是曾帮许多重量级的艺人和好莱坞电影配乐做母带后制，也是多座的葛莱美奖得主Gavin Lurssen来进行操刀。
+
+《伟大的渺小》企图是一种献给整个世界的深刻作品，制作上精心的音乐配置，在整张专辑完成后，有一种与整个世界，整个宇宙相连的灵魂感应，这也是 JJ 在音乐上一直想要传达的意念。
+
+小小的举动，会带来远大的效应。是 JJ 在心中多年的一个概念，但也因着还不能完美地呈现而一直搁置。这些日子，来自他身旁人生的体悟与深刻情感后，在他的内心渐渐地产生了变化，深刻地以珍贵的情感与瞬间，融入到创作的生命力，屏息着，以「真实」为驱动，记录着他内心赤裸的撼动 《伟大的渺小》。
+
+
+王牌摄影师 x 金奖设计师 共同打造全新风格
+与艺术跨界结合 创新符码概念贯穿专辑视觉
+
+一向热爱参加艺术展览与对艺术品有深刻研究，也有着大量当代艺术品收藏的 JJ ，在创作出专辑的深刻音乐概念后，也以《伟大的渺小》为核心，首次尝试与当代知名艺术家跨界合作，创造出沉静而充满新意的视觉风格。
+
+专辑摄影邀请业界知名的「摄影诗人」胡世山，他在充分感受专辑的音乐与意念后，规划了城市与郊外两种截然不同风格的场景设定，在每个藏有巧思的拍摄现场中，捕捉自由于环境中感受自我，充满灵魂的 JJ 。将音乐的深刻概念融入于每一个眼神、动作之中的 JJ，也让多年前曾与他合作过的胡世山大为赞叹，两人以高度的拍摄默契快速完成每一个心目中想象的画面，当 JJ 看到摄影成品，感动地说根本每一张都可以当封面了，他太喜欢了。
+
+专辑邀请到三金（金曲 金马 金钟）视觉创意总监：方序中与JJ共同创意开展，集结摄影胡世山与植栽艺术家李霁，设计出看似两个尖顶房屋相连状的专辑符码，象征内与外的自我连结，与自我和外在环境的互相对应，在这个符码中，又藏着 JJ 两字的隐喻。这个符码贯穿伟大的渺小专辑 Outer 版与 Inner 版，成为专辑的深刻意念。
+
+在 Outer 版中，JJ 身处于广大的大自然中，看似渺小，却与整个环境和身旁的发出温暖光芒的符码装置，一起呈现一个浩大而具有冲击性的视觉感受，象征在大自然中人工装置与环境的深刻互动；而在 Inner 版中， JJ 则身处城市的断桥与顶楼中，与植栽艺术家李霁精心创造，以金属和植物互相延生的艺术装置相互动，反过来象征着在充满人工建筑物的都市中，存在的一抹独特的大自然意象。
+
+内在与外在的两个深刻概念，在专辑符码、装置与摄影上深刻呈现后，在包装设计上，也让两版本以黑白两色基底相呼应，特别将歌词本设定为从全版画面到切割画面，与切割画面放大到全版视觉的两种内外相对应的概念呈现。从摄影、符码、艺术装置到设计，整体视觉都呼应着《伟大的渺小》中，重新思考自我、环境与世界彼此连动关系的内在意涵，成为一份音乐与视觉紧密结合的精彩作品。
+
+
+陈映蓉亲自执导前导微电影《回家的路》
+细腻角色刻划 呼应《伟大的渺小》专辑概念
+
+为了深刻地在影像上呈现《伟大的渺小》专辑概念，打破传统思维，一首一首的歌曲曝光模式，JJ 与华纳共同策划以微电影《回家的路》，一开始即以四首歌曲贯穿，作为引领整张专辑概念的前导曝光。
+
+利用影像与故事，带领听众进入聆听音乐前的深刻思考中。《回家的路》为电影邀请曾为 JJ 拍摄《可惜没如果》、《不为谁而作的歌》与《Too Bad》等经典 MV 的电影导演陈映蓉，两人以音乐和影像互相彼此诠释的紧密连结，让每一次的作品都有最高度的听觉与视觉享受。
+
+陈映蓉导演为了呼应《伟大的渺小》深刻而宏观的传达，规划了一个充满线索却又单纯充满感动的微电影，以强硬的中年男子达顿、看似脆弱却坚强的都会女子卡拉、玩世不恭但有赤子之心的年轻男子比利，和对世界充满想象与包容的亚伦，四个人在都市中彼此交错着展开一连串的故事，争执、伤害、信任、失去，四个人之间的线越纠缠越紧，拉扯着每个人心中的最脆弱的伤口。我们总在迷失之后，寻找着，逐渐地那份与生俱来却遗忘了许久的情感，被这样的情感牵引着，进入自己的内心，与大自然相呼应，才找到了那份被忽视已久的纯真。
+
+《伟大的渺小》 MV 与微电影相呼应，但加入 JJ 这个神秘的新角色。浑身是伤的 JJ，躺在床上看似痛苦、挣扎、迷惘、落泪，在其他四个角色的画面一次次切换中，他也缓缓在镜子上画下一个又一个紧密相连的圆圈，彷佛象征着他与四个角色间的彼此牵引。
+最后，他完成了一个象征着生命之花的圆型图腾，这个古老图腾象征着无限的能量、完美的比例与宇宙最原初的形状与振动，是创造的蓝图，是构成生命与宇宙的符号，是一种无所不包的几何符号，一切万有的缘起，也代表了生命的周期一切都在宇宙完美的爱的秩序里。
+
+生命之花图腾的完成，串连起前导微电影《回家的路》与《伟大的渺小》 MV，倾听内心，即可重聚，不惧！
+
+
+首创中英双主打概念 引发国际乐坛热烈讨论
+JJ 全词曲创作英文主打传递爱与感动的音乐讯息
+
+首波同名主打《伟大的渺小》，可以说是一首巨大而磅礴的震撼歌曲，也是一首紧贴着灵魂的细腻情感，两者并存构成了《伟大的渺小》的概念，也让这首歌成为象征整张专辑、不言可喻的动人存在。
+
+这首歌由 JJ 的曲，首度合作作词人小寒，在没有给予任何想法下，小寒一听到这首旋律，自然而然产生强烈的共鸣与感动，来自对生命与灵魂的感受，赋予了这首歌珍贵呼应的歌词。
+
+在制作方面，集结顶尖制作团队。与从第一张专辑就开始合作的编曲大师吴庆隆老师再度合作，结合JFJ制作团队，邀请到国际首席爱乐乐团为歌曲融入极具生命节奏的弦乐，连手创造这首歌的编曲制作。
+
+此次专辑在音乐上也有一个极具话题性的创举，专辑首波同名主打《伟大的渺小》与专辑中唯一英文歌曲《Until The Day》同步于全球数字上架，象征多次获得金曲奖肯定的亚洲天王林俊杰，在这张专辑中将更进一步用音乐与国际接轨，不仅在亚洲，更在全世界引发话题。两首歌曲所传达出的深刻概念，成为专辑中最重要的开端，宣告着 JJ 在音乐上的理念与进化。
+
+《Until The Day》由林俊杰亲自作词作曲，每个?在?活的世界中?对的痛苦和感受。走过生命中的许多谎言、伤害与痛苦，却回忆起更多生命中曾经存在过的美好，就像在黑夜中轻抚自己的灵魂，直到一丝黎明曙光来临、直到那一天到来的温柔等待。从开始、结束、对未来的期待，爱，可以胜过?切。刻划了对生命、对情感、对世界的呼喊，成就了这一首巨大而磅礴，也细腻地紧贴着灵魂的震撼歌曲。
+
+
+《黑夜问白天》间 谱出最深刻的人生体悟
+黄中平精心打造特殊拍摄手法 带 JJ 神游潜意识
+
+琴键一弹，一路延伸到每个人在生活中，生命里，不同阶段所面对的磨难。在生命的课题里，不断寻找着，学习在沈浮之中，如何出路，深刻的人生体悟，在这首歌里。
+
+承接专辑磅礴开场的中英文双主打，《黑夜问白天》用灵魂出窍的情感，脉搏起伏的旋律带出一种更深沈且接近疯狂的情绪。这是林俊杰在这张专辑最后完成的一首歌，与作词人易家扬在一番出其不意却直捣内心的对话中再度合作，将心中想表达的种种生命历练的情绪、情感与思维，将内心的最底层转化成词句，传达出给每一个听众的灵魂讯息，完成撞击最心灵深处的重要歌曲。
+
+金曲导演黄中平为这首歌曲，特别使用梦境与现实冲突的奇特拍摄手法，让林俊杰彷佛不断游走于潜意识中。“世界少了谁，其实无所谓，但我少了我，还剩什么？”
+
+为了真实呈现歌曲的气氛，在仅七度低温的阳明山上，凄风苦雨地踩着烂泥拍摄后，又冒着危险，涉水进入湍急的溪流中，最后在摄影棚中疯狂地拍摄到凌晨四点才终于收工，近廿小时没有别人只有自己意识流的拍摄，让林俊杰笑着说，拍到都快失去意识，反而更符合歌曲的意境。
+
+《黑夜问白天》从旋律、歌词、编曲、演唱到拍 MV，用最真实的声音情绪去面对每一个当下。谈起这过程，林俊杰也说：「就像灵魂出窍一样，就是把生命中最真的，尽力的努力，去让自己表现在音乐作品里，我觉得这就是我作为歌手、作为一个音乐人，期许往后的自己都能一直做到的状态。」
+
+
+忍受跌落谷底的痛苦 才懂得展翅高飞的潇洒
+抛开过去 走过伤痛 坚定唱出《我继续》
+
+《我继续》在专辑中扮演起承转合的“转”这个重要的角色，也象征着 JJ 内心从伤痛到高飞的心境转折。上一张专辑过后，沈潜两年的 JJ，深刻感受周围的人们与自己内心的创伤，也曾遭遇痛苦的低潮，但他将这些困境化为勇气，再一次奋起翱翔，也将这份情感，
+写成这一首充满戏剧性与人生哲理的《我继续》。
+
+林俊杰充满故事性的曲，搭配大师方文山的歌词，写出彷佛战争般紧凑刺激，却又有老鹰般洒脱情绪的独特创作。在制作上，更邀请世界各地知名乐手于 旧金山、新加坡与台湾录音，打造出这一首节奏、曲风、唱腔与感受都不断变换，让人无法预测下一秒会发生什么事，只能跟着音乐咨意翱翔的歌曲。
+
+《我继续》是一首描述面对自己，从低潮奋起高飞的歌曲，诉说着人生的困境，却又鼓起勇气飞翔于其上，就像用总是飞在高处的鹰眼来看待生活一般。这首歌内隐藏着只有曾经真正面对的低潮与痛苦，却奋力站起来的人，才能感受到的一股对自己的坚定勇气。
+
+人生就像一场永无止境的战争，受了伤也许一时站不起来，但仍要坚定信心，不管敌人是他人或是自己，面对永无止境的困难，只要咬牙说一句「我继续」，就能如老鹰远离一切宿命，略过森林穿过边境，勇敢创造出属于自己的辽阔。
+
+
+细腻抒情主打《小瓶子》 唱出简单中的不简单
+献给每一双牵着走过 风吹花开日落的手
+
+林俊杰JJ真挚温暖的曲，邀请保加利亚 39 人编制的国家管弦乐团来担任弦乐的演奏，绝美的音色像微风一般吹抚过这首歌的每一个角落，将充满古典感的旋律与技法，与林俊杰娓娓道来的歌声结合，创造出一种全新的听觉飨宴。
+
+搭配与一路战友林怡凤共同谱写、简单却充满深意的词，两者互相唱和，就像春天花开的草原一样，洒落的阳光与细雨，都成为情感里这片土壤瞬息万变的美妙时刻。
+
+最简单的情感是最不简单的，最平凡的情感中有最不凡的感动，当时间抚过携手一起看风吹花开日落，每一天的珍贵故事、动人情绪，都装进小瓶子里，待日后细细回味。「?握着?瓶? 装平凡的?? 生活的??事 熟悉的过客…」
+
+这首歌曲，是此张专辑扮演着，起承转合“合”的位置，词曲相互唱和的感动，编曲中钢琴和弦乐彷佛呼吸紧贴般相偎相依地制造出一次又一次的动容。吉他和低音笛的细致点缀，仔细铺陈每一次的起伏与段落，整首歌听下来充满新意却如此自然，传递了这一首简单却丝毫不简单的温暖情歌《小瓶子》。
+
+感情里是苦或是甜，不论思念的人是否在身边，一个小瓶子，将你我他的故事装在里面，拿在手中回味，听着这一首歌，会发现，最简单的幸福就像这个小瓶子一样，也许一直在身旁却忘了察觉。「最后的割舍 锁进了盒? 写下新的故事…」发现爱，是每一个携手走过的日子。
+
+
+专辑歌曲介绍
+
+
+电子重拍风格开场：圣所 Sanctuary
+
+专辑中的第一首歌曲，是JJ 作品中相当少见的 EDM 电子曲风，与歌名的宁静感受不同，从一开头就以充满迷幻感的电子音色下马威，紧接着深具空间感的节奏与 JJ 充满魅惑的嗓音仿佛在引诱听众进入 JJ 的世界一般，副歌直接而让人振奋的编曲与演唱，让人眼睛一样。作为专辑第一首歌，这首歌无疑宣告了 JJ 在音乐上的成长，与对多元化曲风的积极尝试，让我们听到从未听过的 JJ 林俊杰，开启对整张专辑的想象与眼界，只能跟着 JJ 的声音深深走路这个未知的音乐世界。
+
+
+完美与不完美的虚实交错：穿越 Stay
+
+不仅是个充满才华的创作者，也是深具实力的歌手，更是极富巧思的王牌制作人。轻松驾驭这三个不同领域的 JJ，相互交乘作用，让他在音乐上永远都有充满新意的惊人尝试。《穿越》这首歌曲在制作与编曲上，将传统录音与电子音色，做出非常巧妙的融合，音乐上极具巧思的安排，搭配 JJ 充满情感却略带悲伤的唱腔，穿梭游走在各个音乐边界上，压抑却又奔放的拿捏，带着惊喜感的收尾，都告知着这是一个勇于尝试而十足成熟的音乐作品。JJ 轻松地驾驭着每一个听觉的感受，在完美中似乎有着不完美，而在不完美中又看见真正的完美，这样冲突却又独特的感受，让人彷佛穿越了时空限制，站在每一刻痛心的瞬间，听见 JJ 的歌声在耳边回响着。
+
+
+痛苦的吶喊回响在深夜的：四点四十四 Shadows
+
+在白天人前逞强的笑容背后，藏着的是在夜晚独自一人的崩溃与痛苦，不为人知的疯狂情绪，就在四点四十四分蔓延着…。由 JJ 挚友怀秋，也几乎是最了解 JJ 的人，听到曲以后亲自跨刀填词的兄弟之作。制作上再次是电子音色与传统录音的精彩结合，用爆裂嘶吼的感觉，诉说内心的痛楚，描绘每个在黑夜边缘徘徊的破碎的心。整首歌充满对世界的反讽与痛苦，精巧的编曲与合音安排，彷佛在四点四十四分深夜的房间内吶喊，却只能听见自己冷冷的回音，一次又一次的吶喊着。
+
+
+看着天空细数深刻回忆：剪云者 Paper Clouds
+
+林俊杰与易家扬携手之作，轻松简单又充满深刻情感的一首歌，将理应悲伤的失去，唱得又温暖又美好。用简单的民谣曲风贯穿全曲， JJ 带着一些 R&B 风味的唱腔，让这首歌不禁带人到那个充满回忆，吹着暖风的夏天。每一个收藏着思念的人，看着天空，剪下一片云来收藏，将曾经纪念且珍惜的，有一天会消失不见的那份情感，放进这首歌里轻轻唱来听。
+
+
+庞克摇滚热血满分：丹宁执着 (feat. 消除联萌) Own The Day (feat. MOE)
+
+走过首首深沈而痛心的「真实」后，JJ 用另一种方式诠释音乐中的「真实」。林俊杰邀请自己旗下的虚拟偶像乐团「消除联萌」，与主唱兼吉他手喵星星一同大声吶喊，搭配贝斯手果果兔、鼓手琦琦熊与 DJ 兼键盘手黄荳荳的演奏，彷佛回到青春热血时的直率与无惧，大声唱出内心的开心与难过，庞克摇滚的热血曲风，让人忍不住跟着大唱跟着摇头晃脑！由上一张专辑跟 JJ 共同合作「有梦不难」的 JFJ 制作团队周信廷写词，再带来一首充满勇气与梦想的歌曲！
+
+
+不知何时才能靠岸的惆怅：身为风帆 Destiny
+
+由大师姚若龙作词的这首歌曲，用一种淡泊却最痛的方式诠释失去，揪心地翻腾着每一丝的情绪，让 JJ 也用全身的情感来演唱这首细腻的作品。当在感情中身不由己，就像在水中扬着风帆的船，无法选择自己要转弯还是抢滩，走过一段又一段的风景，不知何时能靠岸的孤寂，只能顺其自然。编曲上除了钢琴与弦乐的配置外，更加上了长笛、双簧管等乐器，营造整首歌曲的丰富层次。   
+		 作者id: 3684  作者： 林俊杰  头像：http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg(http://p3.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg) 
+		  歌曲id:526464394   歌曲：圣所  
+		  歌曲id:526470318   歌曲：伟大的渺小  
+		  歌曲id:526468334   歌曲：穿越  
+		  歌曲id:526464395   歌曲：四点四十四  
+		  歌曲id:526470319   歌曲：我继续  
+		  歌曲id:526464392   歌曲：剪云者  
+		  歌曲id:526470317   歌曲：黑夜问白天  
+		  歌曲id:526468335   歌曲：丹宁执着  
+		  歌曲id:526472329   歌曲：身为风帆  
+		  歌曲id:526464396   歌曲：小瓶子  
+		  歌曲id:526470316   歌曲：Until the Day  
+
+
+	作者Id:3684 	作者: 林俊杰 
+歌手：林俊杰 - JJ Lin  
+	简介：著名男歌手，作曲人、作词人、音乐制作人，偶像与实力兼具。林俊杰出生于新加坡的一个音乐世家。在父母的引导下，4岁就开始学习古典钢琴，不善言辞的他由此发现了另一种与人沟通的语言。小时候的林俊杰把哥哥当作偶像林俊杰和哥哥林俊峰，跟随哥哥的步伐做任何事，直到接触流行音乐后，便爱上创作这一条路。2003年以专辑《乐行者》出道，2004年一曲《江南》红遍两岸三地，凭借其健康的形象，迷人的声线，出众的唱功，卓越的才华，迅速成为华语流行乐坛的领军人物之一，迄今为止共创作数百首音乐作品，唱片销量在全亚洲逾1000万张。2007年成立个人音乐制作公司JFJ，2008创立潮流品牌SMG。2011年被媒体封为“新四大天王”之一，同年8月8日正式加盟华纳音乐，开启事业新乐章。2012年发行故事影像书《记得》，成功跻身畅销书作家行列。获得多项奖项：第15届台湾金曲奖最佳新人奖，6届新加坡金曲奖大奖，6届新加坡词曲版权协会大奖，8届全球华语歌曲排行榜大奖，5届MusicRadio中国TOP排行榜大奖。 
+林俊杰 - JJ Lin的歌曲推荐:
+	链接：https://music.163.com/song?id=108478   	歌曲：醉赤壁 
+	链接：https://music.163.com/song?id=108251   	歌曲：当你 
+	链接：https://music.163.com/song?id=37196629   	歌曲：不为谁而作的歌 
+	链接：https://music.163.com/song?id=108242   	歌曲：她说 
+	链接：https://music.163.com/song?id=29814898   	歌曲：可惜没如果 
+	链接：https://music.163.com/song?id=108138   	歌曲：那些你很冒险的梦 
+	链接：https://music.163.com/song?id=108493   	歌曲：我还想她 
+	链接：https://music.163.com/song?id=25727803   	歌曲：修炼爱情 
+	链接：https://music.163.com/song?id=108914   	歌曲：江南 
+	链接：https://music.163.com/song?id=108245   	歌曲：爱笑的眼睛 
+	链接：https://music.163.com/song?id=108485   	歌曲：Always Online 
+	链接：https://music.163.com/song?id=108931   	歌曲：美人鱼 
+	链接：https://music.163.com/song?id=108418   	歌曲：背对背拥抱 
+	链接：https://music.163.com/song?id=108468   	歌曲：小酒窝 
+	链接：https://music.163.com/song?id=29850685   	歌曲：生生 
+	链接：https://music.163.com/song?id=108134   	歌曲：学不会 
+	链接：https://music.163.com/song?id=40147554   	歌曲：关键词 
+	链接：https://music.163.com/song?id=108269   	歌曲：记得 
+	链接：https://music.163.com/song?id=108795   	歌曲：曹操 
+	链接：https://music.163.com/song?id=108886   	歌曲：一千年以后 
+	链接：https://music.163.com/song?id=108248   	歌曲：只对你有感觉 
+	链接：https://music.163.com/song?id=108910   	歌曲：豆浆油条 
+	链接：https://music.163.com/song?id=108254   	歌曲：一眼万年 
+	链接：https://music.163.com/song?id=247579   	歌曲：被风吹过的夏天 
+	链接：https://music.163.com/song?id=108543   	歌曲：杀手 
+	链接：https://music.163.com/song?id=40147556   	歌曲：弹唱 
+	链接：https://music.163.com/song?id=108463   	歌曲：不潮不用花钱 
+	链接：https://music.163.com/song?id=29848657   	歌曲：手心的蔷薇 
+	链接：https://music.163.com/song?id=25794009   	歌曲：裂缝中的阳光 
+	链接：https://music.163.com/song?id=108263   	歌曲：心墙 
+	链接：https://music.163.com/song?id=108265   	歌曲：我很想爱他 
+	链接：https://music.163.com/song?id=25794008   	歌曲：黑暗骑士 
+	链接：https://music.163.com/song?id=108260   	歌曲：握不住的他 
+	链接：https://music.163.com/song?id=108806   	歌曲：原来 
+	链接：https://music.163.com/song?id=40147559   	歌曲：Too Bad 
+	链接：https://music.163.com/song?id=108958   	歌曲：翅膀 
+	链接：https://music.163.com/song?id=108950   	歌曲：就是我 
+	链接：https://music.163.com/song?id=108428   	歌曲：爱不会绝迹 
+	链接：https://music.163.com/song?id=108503   	歌曲：期待爱 
+	链接：https://music.163.com/song?id=108965   	歌曲：冻结 
+	链接：https://music.163.com/song?id=526470318   	歌曲：伟大的渺小 
+	链接：https://music.163.com/song?id=108858   	歌曲：编号89757 
+	链接：https://music.163.com/song?id=108827   	歌曲：你要的不是我 
+	链接：https://music.163.com/song?id=108983   	歌曲：会有那么一天 
+	链接：https://music.163.com/song?id=40147568   	歌曲：只要有你的地方 
+	链接：https://music.163.com/song?id=108401   	歌曲：第几个一百天 
+	链接：https://music.163.com/song?id=526470317   	歌曲：黑夜问白天 
+	链接：https://music.163.com/song?id=108136   	歌曲：故事细腻 
+	链接：https://music.163.com/song?id=108864   	歌曲：突然累了 
+	链接：https://music.163.com/song?id=108406   	歌曲：加油！ 
+专辑id:37084145  	专辑：角色 	作者Id:3765  	作者: 李易峰 
+版权Id:403012  专辑名：角色  公司：果实创想  封面url：http://p4.music.126.net/7o7LOi-qRSZ7Xm92hfksOA==/109951163095330229.jpg  
+简介：主角，配角。
+领衔，客串。
+扮演，被扮演。
+被拥趸，
+抑或，
+被质疑。
+?
+出道十年，
+他扮演过很多角色，
+未来，
+还有很多他将要扮演的角色。
+?
+每一个角色，他终要挥手告别，
+然后，带着虔诚的祈祷，
+投入下一个角色。
+但有一个角色，他无法抽身，
+那是他十年前出发的地方——音乐
+这个角色，就叫李易峰。
+?
+录音的时候，他说，麻烦把监视器关了。
+和以往录音不一样，工作人员从控制室里，看不到录音棚里的他。
+这一次，
+他不要出现在镜头里。
+所有人听到了，
+这一次，
+他没有角色扮演。
+他只是李易峰。
+这一次，
+无须品头论足，
+只要以梦为马。
+就不用两岸三地华语乐坛顶级那啥的套路给各位安排“角色”了，
+给大家介绍——
+编曲虎子，
+制作人虎子，于飞
+企划，张之夏，
+词曲作者刘柏辛Lexie，
+演唱、作词，李易峰。
+音乐监制，Aim Studio 马厂音乐。
+?
+新歌呈上，修辞欠奉。   
+		 作者id: 3765  作者： 李易峰  头像：http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg(http://p4.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg) 
+		  歌曲id:526468386   歌曲：角色  
+
+
+	作者Id:3765 	作者: 李易峰 
+歌手：李易峰 -   
+	简介：李易峰，中国内地男演员、歌手、制片人，1987年5月4日出生于四川成都，2010年毕业于四川师范大学电影电视学院。2007年参加《加油好男儿》出道，同年发行首张EP《四叶草》。2009年发行首张个人专辑《小先生》。2010年主演电视剧《幸福一定强》和《幸福最晴天》，获2011年国剧盛典最佳新演员奖。2012年在《真爱谎言》中挑战扮演自闭症患者。2013年凭借电视剧《千金归来》获得乐视盛典最受欢迎男演员奖。2014年暑期因电视剧《古剑奇谭》中“百里屠苏”一角而获得广泛关注；同年主演电视剧《活色生香》和季播剧《盗墓笔记》；并获得国剧盛典内地最具人气男演员和最具商业价值男演员奖。2015年主演电影《栀子花开》、《怦然星动》；贺岁档与导演管虎、冯小刚合作电影《老炮儿》，票房破9亿；首次担任制片人，投资制作户外探险真人秀《一起出发》。同年获得“2015年福布斯中国名人榜”第九名。2016年主演小说《诛仙》改编电视剧《青云志》和谍战剧《麻雀》，并主演电影《心理罪》。 
+李易峰 - 的歌曲推荐:
+	链接：https://music.163.com/song?id=526468386   	歌曲：角色 
+	链接：https://music.163.com/song?id=37092868   	歌曲：请跟我联络 
+	链接：https://music.163.com/song?id=32639505   	歌曲：年少有你 
+	链接：https://music.163.com/song?id=29393748   	歌曲：剑心 
+	链接：https://music.163.com/song?id=32526583   	歌曲：再见再见 
+	链接：https://music.163.com/song?id=122687   	歌曲：我曾爱过的女孩 
+	链接：https://music.163.com/song?id=28977024   	歌曲：记得我爱你 
+	链接：https://music.163.com/song?id=409647096   	歌曲：爱的代价 
+	链接：https://music.163.com/song?id=34578082   	歌曲：月半小夜曲 - live 
+	链接：https://music.163.com/song?id=122755   	歌曲：四叶草 
+	链接：https://music.163.com/song?id=34228257   	歌曲：后来 - TV Version 
+	链接：https://music.163.com/song?id=29774476   	歌曲：我要的现在就要 
+	链接：https://music.163.com/song?id=29408164   	歌曲：永远不分开 
+	链接：https://music.163.com/song?id=122738   	歌曲：摩天轮 晚安 
+	链接：https://music.163.com/song?id=34364634   	歌曲：极爱自己 
+	链接：https://music.163.com/song?id=34341557   	歌曲：光阴的故事 
+	链接：https://music.163.com/song?id=31165544   	歌曲：爱是怀疑 MIX 
+	链接：https://music.163.com/song?id=122698   	歌曲：看穿 
+	链接：https://music.163.com/song?id=418257465   	歌曲：龙野 - 盗墓笔记 
+	链接：https://music.163.com/song?id=462852371   	歌曲：李易峰你把我当什么 
+	链接：https://music.163.com/song?id=29750879   	歌曲：忘记要忘记 
+	链接：https://music.163.com/song?id=122700   	歌曲：全世界约好一起恋爱 
+	链接：https://music.163.com/song?id=29011454   	歌曲：温柔心愿 
+	链接：https://music.163.com/song?id=5244689   	歌曲：花泽类 
+	链接：https://music.163.com/song?id=470547796   	歌曲：我爱的人伤我最深 
+	链接：https://music.163.com/song?id=122730   	歌曲：早安 摩天轮 
+	链接：https://music.163.com/song?id=30413703   	歌曲：侧面(Live) 
+	链接：https://music.163.com/song?id=29750877   	歌曲：那首歌 
+	链接：https://music.163.com/song?id=122668   	歌曲：相爱那一年 
+	链接：https://music.163.com/song?id=5244715   	歌曲：谁谁谁 
+	链接：https://music.163.com/song?id=122695   	歌曲：我要的幸福 
+	链接：https://music.163.com/song?id=122684   	歌曲：新闻 
+	链接：https://music.163.com/song?id=122690   	歌曲：勾一勾 
+	链接：https://music.163.com/song?id=5255556   	歌曲：爱你等于爱自己 
+	链接：https://music.163.com/song?id=418257466   	歌曲：盗墓笔记伴奏 
+	链接：https://music.163.com/song?id=470573547   	歌曲：大放异彩 
+	链接：https://music.163.com/song?id=29759675   	歌曲：心如玄铁 
+	链接：https://music.163.com/song?id=526472543   	歌曲：愚人快乐 (Live) 
+	链接：https://music.163.com/song?id=28892653   	歌曲：江湖 
+	链接：https://music.163.com/song?id=31838452   	歌曲：娃娃不哭 
+	链接：https://music.163.com/song?id=29932298   	歌曲：剑殇 + 记得我爱你 - live 
+	链接：https://music.163.com/song?id=122707   	歌曲：想写首歌 
+	链接：https://music.163.com/song?id=122712   	歌曲：追！吊车尾 
+	链接：https://music.163.com/song?id=450224762   	歌曲：简单爱+年少有你 (Live) 
+专辑id:37049417  	专辑：MATCH UP 	作者Id:12534253  	作者: MXM (BRANDNEWBOYS) 
+版权Id:7002  专辑名：MATCH UP  公司：华纳唱片  封面url：http://p4.music.126.net/c2qiXi0TcU9s51X8tq_Bfg==/109951163104185419.jpg  
+简介：MXM旋风来袭！韩国超人气双人偶像男团MXM携全新迷你专辑MATCH UP大势回归！新专辑MATCHU UP经过一轮精心倒数，先后曝光实体专辑两张不同封面、二人组合靓照及单人帅照，林煐岷和金东贤全新造型玩转街头嘻哈和温柔治愈截然不同两种形象，预示专辑融合不同风格。现在5首新歌音源正式公开，首支主打Diamond Girl官方MV也同时出炉！林煐岷（“羊驼”）和金东贤（“小太阳”）踩着Diamond Girl复古funky的节奏，一起探索奇妙旅程寻找“钻石女孩”，再次展现年轻活力无限能量，偶像气质明显，令人眼前一亮！
+
+?
+
+作为BRANDNEW BOYS的小分队，由“羊驼”林煐岷和“小太阳”金东贤组成的MXM于2017年7月正式大势出道，两首出道新单曲“GOOD DAY”及“I JUST DO”引爆人气，其中“GOOD DAY”一推出就横扫韩国六大音源榜，并取得Genie 1位、Bugs 2位的好成绩，令人惊艳！二人出道的首次直播总共吸引了4200万点赞，超过32万观看量和55万的评论，再次印证组合的大势！9月MXM发行出道专辑UNMIX，不仅在韩国预售量狂超3万张，更是疯狂横扫亚洲多国。专辑主打I’M THE ONE成绩亮眼，在YouTube揽获2百万播放量，在泰国iTunes夺得冠军，打入泰国、台湾、香港、新加坡及马来西亚iTunes Top 5，在Spotify香港、印尼及新加坡Viral Top 50榜打入Top 10。专辑发行后MXM更是亲身席卷多个亚洲国家和地区举办巡回Fan Meeting，包括香港、台湾、韩国及泰国的见面会门票均在几分钟之内被疯狂粉丝一扫而光，所到之处掀起迷妹兴奋尖叫热情打call，足见人气爆棚！
+
+?
+
+MXM组合名称是“MIX & MATCH”及“MORE & MORE”的缩写，寓意林煐岷和金东贤两人风格混搭而相得益彰，在一起展现越来越好的全新魅力！林煐岷与金东贤同为韩国排名第一而且最成功的嘻哈音乐公司BRANDNEW MUSIC公司练习生，早前就被吸纳成为BRANDNEW BOYS组合成员。2017年4月，林煐岷和金东贤参加韩国Mnet频道大热男团选秀节目《Produce 101》第二季，二人就已凭借出众的实力、清新阳光的外表以及极佳的唱跳表演迅速累积大量人气，收获大批粉丝追随，分别成为总决赛候选人。两人最终在今年7月组成MXM出道。组合极受公司BRANDNEW MUSIC力捧，出道专辑由公司CEO Rhymer亲自坐镇监制、保驾护航。 Rhymer履历相当惊人，曾为SEVENTEEN和MONSTA X操刀制作。   
+		 作者id: 12534253  作者： MXM (BRANDNEWBOYS)  头像：http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg(http://p4.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg) 
+		  歌曲id:528226740   歌曲：DIAMOND GIRL  
+		  歌曲id:528226741   歌曲：ERRDAY  
+		  歌曲id:528226742   歌曲：PERFECTLY PERFECT  
+		  歌曲id:528226743   歌曲：RUSH ON YOU  
+		  歌曲id:528226744   歌曲：LIPS  
+
+
+	作者Id:12534253 	作者: MXM (BRANDNEWBOYS) 
+歌手：MXM (BRANDNEW BOYS) - 林煐岷 X 金东贤  
+	简介：MXM为韩国Brand New Music在2017年推出的小分队组合，也是该社作为传统HipHop公司所推出的首个男子偶像团体，成员包括PRODUCE 101 (第二季)人气练习生林煐岷和金东贤。2017年7月27日发行先行单曲《GOOD DAY》及《I JUST DO》，八月末将发表迷你专辑正式出道。组合名称MXM为“MIX&MATCH”及“MORExMORE”的缩写，寓意两人的魅力和在一起展现新的魅力。 
+MXM (BRANDNEW BOYS) - 林煐岷 X 金东贤的歌曲推荐:
+	链接：https://music.163.com/song?id=528226740   	歌曲：DIAMOND GIRL 
+	链接：https://music.163.com/song?id=504265209   	歌曲：I'M THE ONE 
+	链接：https://music.163.com/song?id=528226741   	歌曲：ERRDAY 
+	链接：https://music.163.com/song?id=493285532   	歌曲：GOOD DAY 
+	链接：https://music.163.com/song?id=528226742   	歌曲：PERFECTLY PERFECT 
+	链接：https://music.163.com/song?id=528226743   	歌曲：RUSH ON YOU 
+	链接：https://music.163.com/song?id=504264203   	歌曲：?? ?? 
+	链接：https://music.163.com/song?id=528226744   	歌曲：LIPS 
+	链接：https://music.163.com/song?id=493285533   	歌曲：I JUST DO(Prod. ??, ???) 
+	链接：https://music.163.com/song?id=504265210   	歌曲：???? ?? 
+	链接：https://music.163.com/song?id=504265211   	歌曲：??? ???? 
+	链接：https://music.163.com/song?id=524003490   	歌曲：?? ??? ? ?? 
+http://music.163.com/discover/toplist?id=19723756  云音乐飙升榜
+	歌曲id:519136840  	歌曲：只只 
+	歌曲id:529823282  	歌曲：White Lies  
+	歌曲id:530007791  	歌曲：Capital Letters 
+	歌曲id:529823399  	歌曲：剩下了自己 
+	歌曲id:530537499  	歌曲：余温 
+	歌曲id:513686001  	歌曲：喜欢你，但害怕 
+	歌曲id:507116418  	歌曲：那个人 
+	歌曲id:528597014  	歌曲：Run Away 
+	歌曲id:528478901  	歌曲：无问西东 
+	歌曲id:528271590  	歌曲：Boom Boom (Ti?sto Remix) 
+http://music.163.com/discover/toplist?id=3779629  云音乐新歌榜
+	歌曲id:526307800  	歌曲：123我爱你 
+	歌曲id:526464293  	歌曲：空空如也  
+	歌曲id:529825010  	歌曲：My My My! 
+	歌曲id:529823399  	歌曲：剩下了自己 
+	歌曲id:524152797  	歌曲：再见前任 
+	歌曲id:525239736  	歌曲：枷锁 
+	歌曲id:525241230  	歌曲：狐狸 
+	歌曲id:529747142  	歌曲：重来 
+	歌曲id:528478901  	歌曲：无问西东 
+	歌曲id:526464145  	歌曲：喜欢 
+http://music.163.com/discover/toplist?id=2884035  网易原创歌曲榜
+	歌曲id:528271287  	歌曲：犴达罕 
+	歌曲id:529319768  	歌曲：等我们老了，就定居在重庆 
+	歌曲id:528271077  	歌曲：年年 
+	歌曲id:528270313  	歌曲：FALL IN LOVE 
+	歌曲id:528272281  	歌曲：火车驶向云外，梦安魂于九霄 
+	歌曲id:526464967  	歌曲：北京以南 2 
+	歌曲id:528271503  	歌曲：思之如狂 
+	歌曲id:528271324  	歌曲：Time Like This 
+	歌曲id:528414846  	歌曲：《蝶语》 
+	歌曲id:526470861  	歌曲：爱是炙热的 
+歌单id:970088217  歌单：诡异如此，更与何人说！  描述: 摘自～万般诡异，徒与谁说（葬～河图）  图片：http://p1.music.126.net/WKtgOgEbAIMVxREfqyY-aw==/18722483999702400.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+	歌曲id: 184406     	歌曲：溯世书  	歌手id: 6290  	歌手：音频怪物  
+	歌曲id: 27907805     	歌曲：青行灯  	歌手id: 0  	歌手：千面姬  
+	歌曲id: 184495     	歌曲：我的楼兰新娘  	歌手id: 6290  	歌手：音频怪物  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 27907792     	歌曲：镇命歌·画皮  	歌手id: 9197  	歌手：齐栾  
+	歌曲id: 28341114     	歌曲：鬼趣  	歌手id: 0  	歌手：歪桐  
+	歌曲id: 184593     	歌曲：百鬼夜行  	歌手id: 6290  	歌手：音频怪物  
+	歌曲id: 29809143     	歌曲：百鬼夜行·人面蛛  	歌手id: 1041122  	歌手：Mr.岑  
+	歌曲id: 413074378     	歌曲：王的墓  	歌手id: 187295  	歌手：Assen捷  
+	歌曲id: 28341138     	歌曲：碧窗有鬼  	歌手id: 0  	歌手：素萧白狐  
+	歌曲id: 28406471     	歌曲：万般徒说  	歌手id: 981005  	歌手：云の泣  
+	歌曲id: 29844861     	歌曲：破晓未晓  	歌手id: 0  	歌手：御皇七  
+	歌曲id: 28341110     	歌曲：伏案夜话  	歌手id: 896942  	歌手：冬子  	歌手id: 0  	歌手：烈儿  
+	歌曲id: 28341119     	歌曲：贪狼  	歌手id: 1047430  	歌手：枫影儿  
+	歌曲id: 184456     	歌曲：生死簿  	歌手id: 6290  	歌手：音频怪物  	歌手id: 7898  	歌手：HITA  
+	歌曲id: 28315287     	歌曲：千岁冢  	歌手id: 0  	歌手：伤官儿  
+	歌曲id: 28819203     	歌曲：黑暗鸢尾  	歌手id: 188558  	歌手：Aki阿杰  
+	歌曲id: 31066235     	歌曲：寐行记  	歌手id: 981005  	歌手：云の泣  
+	歌曲id: 316234     	歌曲：幽蚺之往生  	歌手id: 10201  	歌手：有耳非文  
+id:409650851  type:mp3  url:http://m10.music.126.net/20180115121943/bc5473a9aad21d8ac8b5db895f7ec534/ymusic/18cd/2395/202b/e883636cabc32dc237e6db0658ec574c.mp3 
+歌词提供者：本维笑(61089813)  歌曲id:409650851
+歌词：[by:本维笑]
+[00:15.29]双：梨花香
+[00:18.60]缠着衣角掠过熙攘
+[00:21.83]复悄入红帘深帐
+[00:25.60]听枝头黄鹂逗趣儿
+[00:27.50]细风绕指淌
+[00:29.78]坐船舫
+[00:31.38]兰桨拨开雾霭迷茫
+[00:35.26]不觉已一日过半
+[00:38.72]过眼的葱郁风光
+[00:41.20]悉数泛了黄
+[00:44.44]囧：褪尽温度的风
+[00:46.59]无言牵引中
+[00:47.71]便清晰了在此的眉目
+[00:51.27]暮色的消融
+[00:52.85]隐约了晦朔葱茏
+[00:56.68]双：在这老街回眸
+[00:59.29]烟云中追溯我是谁
+[01:01.22]只消暮雨点滴
+[01:02.67]便足以粉饰这是非
+[01:04.86]囧：待这月色涌起
+[01:07.99]谁人轻叩这门扉
+[01:11.32]双：苔绿青石板街
+[01:13.20]斑驳了流水般岁月
+[01:15.15]小酌三盏两杯
+[01:16.48]理不清缠绕的情结
+[01:18.47]囧：在你淡漠眉间
+[01:21.50]瞥见离人的喜悲霜雪
+[01:38.43]囧：楼阁现
+[01:40.21]尘飞雾散荧光翩跹
+[01:44.60]显露出斑驳石阶
+[01:47.29]入眼是落英纷然
+[01:49.61]芳草入深院
+[01:52.20]凭栏杆
+[01:53.79]小桌上置琼觞两盏
+[01:57.65]阖眼听清风疏叶
+[02:01.70]似曾有欢声笑言
+[02:03.36]萦绕这高轩
+[02:06.29]双：云动寂静鸣蝉
+[02:08.18]雨坠激漪涟
+[02:09.90]皴擦点染勾勒这世间
+[02:13.47]缘起的一眼
+[02:15.30]定格了三生千年
+[02:19.14]囧：在这老街回眸
+[02:21.64]烟云中追溯我是谁
+[02:23.52]只消暮雨点滴
+[02:24.93]便足以粉饰这是非
+[02:27.80]双：待这月色涌起
+[02:30.44]谁人轻叩这门扉
+[02:33.60]囧：苔绿青石板街
+[02:35.30]斑驳了流水般岁月
+[02:37.42]小酌三盏两杯
+[02:38.67]理不清缠绕的情结
+[02:40.78]双：在你淡漠眉间
+[02:44.25]瞥见离人的喜悲霜雪
+[03:01.30]囧：三月梨花雪
+[03:02.78]几载开了又败
+[03:04.71]双：笔锋走黑白
+[03:06.37]丹青中穿插无奈
+[03:08.20]合：彼时那弯儿月
+[03:09.86]何时初现于江畔
+[03:11.61]双：而我又在待何人
+[03:14.64]囧：在这凉亭 回眸
+[03:16.41]千年后忆起你是谁
+[03:18.53]只消月色隐约
+[03:19.93]便足以粉饰这是非
+[03:21.89]双：待这回忆涌起
+[03:25.36]恍惚之间已下泪
+[03:28.16]囧：枫红十里长街
+[03:30.20]红帘后谁人蹙着眉
+[03:32.16]遥梦桑竹桃源
+[03:33.64]轮回中曾道别的地点
+[03:36.22]双：愿今生再相见
+[03:39.60]消融你眉间
+[03:41.21]合：悲戚霜雪
+[03:45.12]合：Ah~~~
+

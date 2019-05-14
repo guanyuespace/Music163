@@ -1,0 +1,365 @@
+status:HTTP/1.1 200 OK  url:http://music.163.com/ 
+status:HTTP/1.1 200 OK  url:http://music.163.com/discover 
+status:HTTP/1.1 200 OK  url:https://music.163.com/search/ 
+UserProfile:
+	用户:feng003(275438773)  性别:男  头像Url:http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg (http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg)
+个性签名：hello world !
+简介：
+详细介绍：
+POST https://music.163.com/weapi/user/playlist?csrf_token= HTTP/1.1200
+歌单id:378179227  歌单：feng003喜欢的音乐  描述: null  图片：http://p1.music.126.net/gbp3eL_5BZWa1ATFxHmZ1g==/3429376768268061.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:2059686006  歌单：nihaoa  描述: null  图片：http://p1.music.126.net/tGHU62DTszbFQ37W9qPHcg==/2002210674180197.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:2002404249  歌单：unique ?  描述: null  图片：http://p1.music.126.net/i_r0Jl-H058e8bLXmYTEZQ==/109951162840047184.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:1983595342  歌单：wow ,sounds sweat !  描述: null  图片：http://p1.music.126.net/spayuwdIQ_NEqkfxfsqTBg==/18223305719105258.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:994579836  歌单：hello , it's ...  描述: null  图片：http://p1.music.126.net/Ekn5BuzfYA4dt4E4b6kpzA==/109951163059019338.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:988452483  歌单：007  描述: null  图片：http://p1.music.126.net/EnQ0J1f_-p8S2OunnRiGhA==/3298534885062503.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:987375338  歌单：戏腔如此美好，怎可辜负！  描述: null  图片：http://p1.music.126.net/ZUTOV4xUZWbqYdJIdqAhaQ==/7719671139148874.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:982121598  歌单：乐事  描述: null  图片：http://p1.music.126.net/PKjYe_teT2CMAYw_B630tQ==/18500382650673780.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:977023803  歌单：006  描述: null  图片：http://p1.music.126.net/rk_dR2OO2WUSOQzzq5lQyQ==/3397490930771316.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:971302635  歌单：意志消沉  描述: null  图片：http://p1.music.126.net/Eg4cy0_HIF2nrX2gMCsWkQ==/17967119509636556.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:970088217  歌单：诡异如此，更与何人说！  描述: 摘自～万般诡异，徒与谁说（葬～河图）  图片：http://p1.music.126.net/WKtgOgEbAIMVxREfqyY-aw==/18722483999702400.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:967048787  歌单：004  描述: null  图片：http://p1.music.126.net/AxM2QQoPmrPHgLKSq-z8XQ==/18340953463259130.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:964922152  歌单：003  描述: null  图片：http://p1.music.126.net/tkh7YsNLfg6WEDiBDBY9eA==/109951162958682234.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:951147255  歌单：古风歌曲  描述: null  图片：http://p1.music.126.net/L0WuU7XiLaSxHDD-P7_oug==/17813187881905001.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:946146828  歌单：倩音流年  描述: null  图片：http://p1.music.126.net/oJjgFg3vnyPfCFI16HIy9g==/109951162950327956.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:937160758  歌单：古风20  描述: null  图片：http://p1.music.126.net/0EAnL5rgjtutGTppU0Lj5w==/18198016951591392.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:900714255  歌单：001  描述: null  图片：http://p1.music.126.net/pMvI3xx9S3I_rn2MyZiOhQ==/3422779698792591.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:898918031  歌单：GY  描述: null  图片：http://p1.music.126.net/BoX04rxRPHLSBakoECTI3A==/17925338067851131.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:898881575  歌单：002  描述: null  图片：http://p1.music.126.net/izdGjlRlcR3sx26OXZOiHw==/6631154628171782.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:898532240  歌单：005  描述: null  图片：http://p1.music.126.net/8vwoNNvETMDOGZYH8G5LIA==/6031920790151788.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:896221609  歌单：tv  描述: null  图片：http://p1.music.126.net/yLqhiypydqJyuChUEFLjvg==/3272146612453635.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:895887993  歌单：道姑朋友  描述: null  图片：http://p1.music.126.net/s5kswAq2pRQgzOXT149VHQ==/109951162953866947.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:890620208  歌单：worl  描述: null  图片：http://p1.music.126.net/AyyxC4stCu-Pm5qa8gaqDQ==/18762066418246617.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:885688723  歌单：wor  描述: null  图片：http://p1.music.126.net/8vwoNNvETMDOGZYH8G5LIA==/6031920790151788.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:885179900  歌单：jsjssggskjoshqjywgwsigshs  描述: null  图片：http://p1.music.126.net/U-0qobZAtfxplzArDlXQiQ==/6655343883007883.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:884798851  歌单：hello  描述: null  图片：http://p1.music.126.net/tsblPkRCH7Au_qtFHRHuYw==/109951162859334048.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:878314127  歌单：yyy  描述: null  图片：http://p1.music.126.net/c216M4Y2lAhyzF-EYl7VwA==/19062233090921976.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:778497364  歌单：二笙  描述: null  图片：http://p1.music.126.net/uNV6L4oOKP3suDHqnZGclQ==/19147994998024092.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:771733934  歌单：全剧情  描述: null  图片：http://p1.music.126.net/d5yZbhgszplRTcnNCROW-g==/3382097768286533.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:759901348  歌单：g gg  描述: null  图片：http://p1.music.126.net/vGfQcJsYNKqsJXizn05iIQ==/2882919488804386.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:753020424  歌单：duo古风  描述: null  图片：http://p1.music.126.net/PFpH8V2c601RJqI0WywX4A==/528865097719257.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:751025703  歌单：主播翻唱  描述:   图片：http://p1.music.126.net/kJPVZHgZr_39M_WBXN9tHQ==/18752170813681744.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:749094991  歌单：剧情  描述: null  图片：http://p1.music.126.net/wvGbNXB1y-swD8E9scZcog==/8002245627607745.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:734395703  歌单：古风歌曲  描述: null  图片：http://p1.music.126.net/wgZWg1IFAigdodveDV97lA==/119846767428565.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:731379511  歌单：old  描述: null  图片：http://p1.music.126.net/nCvm7f-dMBcU0kVnEQdvgQ==/17714231835508998.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:720863053  歌单：yhggh  描述: null  图片：http://p1.music.126.net/HbiJpr--QR50fNQauvkNEw==/6627856093600982.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+歌单id:711826512  歌单：new 古  描述: null  图片：http://p1.music.126.net/0m4bP0wIMUZw0Xf-Ke7yJw==/18358545649376691.jpg  
+	(所属用户 Id: 275438773  用户名：  feng003  个性签名: hello world !  pic: http://p1.music.126.net/7ubV68Nbejws3cFCpGWNxw==/1385384660588488.jpg  pic: http://p1.music.126.net/KNpzlTPIcer-tHTVz1mEpQ==/18542164092930558.jpg)
+POST https://music.163.com/weapi/v1/play/record?csrf_token= HTTP/1.1   status:HTTP/1.1 200 OK 
+所有数据：
+playCount:0  score:100 	歌曲: 遇萤(32548266)	 歌手:只有影子(10902)	al: 热门华语268(3159842)  图片:http://p3.music.126.net/-2PG50CSPWywCQ6GGpWphQ==/7947270045631279.jpg 
+playCount:0  score:85 	歌曲: 落花情(26545241)	 歌手:七朵(12651)	al: 落花情(2519222)  图片:http://p3.music.126.net/CVcs8Lt0pCawZLN2pjp-QA==/18523472394856732.jpg 
+playCount:0  score:71 	歌曲: 棠梨煎雪(28188427)	 歌手:银临(188565)	al: 腐草为萤(2742059)  图片:http://p3.music.126.net/LBnYDAUED2mD1veBvBnC8g==/5859297464524710.jpg 
+playCount:0  score:70 	歌曲: 玲珑(32957013)	 歌手:CRITTY(189347)	al: 弦上春雪(3164957)  图片:http://p4.music.126.net/iwZ6w7D5C8WXgnjcohHb0Q==/7799935488436943.jpg 
+playCount:0  score:62 	歌曲: 牵丝戏(30352891)	 歌手:银临(188565)	 歌手:Aki阿杰(188558)	al: 牵丝戏(3098268)  图片:http://p3.music.126.net/Nd86SOcyCxU5Qu7jdZn_MQ==/7725168696876736.jpg 
+playCount:0  score:59 	歌曲: 参商(纯歌版)(29719651)	 歌手:不才(961358)	al:  热门华语250(3054186)  图片:http://p4.music.126.net/izdGjlRlcR3sx26OXZOiHw==/6631154628171782.jpg 
+playCount:0  score:57 	歌曲: 一身诗意千寻瀑(28798308)	 歌手:不才(961358)	al: 热门华语212(2786409)  图片:http://p4.music.126.net/5vLpAQplaeMwEuhDO0HXww==/5852700394904058.jpg 
+playCount:0  score:57 	歌曲: 弱水三千(28445950)	 歌手:W.K.(794040)	al: W.K.作品集(2565021)  图片:http://p4.music.126.net/QPpIkYq7T3Ab0X12nrVmjQ==/109951163011486170.jpg 
+playCount:0  score:56 	歌曲: 腐草为萤(28188426)	 歌手:银临(188565)	al: 腐草为萤(2742059)  图片:http://p3.music.126.net/LBnYDAUED2mD1veBvBnC8g==/5859297464524710.jpg 
+playCount:0  score:50 	歌曲: 采茶纪(36895537)	 歌手:双笙(12025552)	al: 月圆，笙起(3313711)  图片:http://p3.music.126.net/1y_TLp7bftROMh-OeuL3mA==/18336555416528366.jpg 
+playCount:0  score:49 	歌曲: 恋人心(28668855)	 歌手:魏新雨(9823)	al: 恋人心(2877053)  图片:http://p4.music.126.net/OX6lR0jEjtxPfIgjVUtWww==/5786729697194540.jpg 
+playCount:0  score:48 	歌曲: 凡心（Cover 小旭音乐）(28732677)	 歌手:许多葵(189961)	al: 凡心——《诛仙》(2866643)  图片:http://p4.music.126.net/5jF87ygGArLxoxkiqEna-w==/6057209558047185.jpg 
+playCount:0  score:48 	歌曲: 旅途·故乡(28853524)	 歌手:齐栾(9197)	al: 旅途·故乡(2901368)  图片:http://p3.music.126.net/CaRqbIRVrP9PUyXkKXzcRg==/5943959860223507.jpg 
+playCount:0  score:45 	歌曲: 湖光水色调(33922174)	 歌手:云の泣(981005)	al: 热门华语274(3263930)  图片:http://p4.music.126.net/dbNkAQmHi2TUzgkE7Zox1A==/3318326092881882.jpg 
+playCount:0  score:43 	歌曲: 童话镇(432506345)	 歌手:陈一发儿(1137098)	al: 童话镇(34898300)  图片:http://p4.music.126.net/tfa811GLreJI_S0h9epqRA==/3394192426154346.jpg 
+playCount:0  score:43 	歌曲: 为龙（cover：河图）(34078027)	 歌手:司夏(10089)	al: 热门华语274(3263930)  图片:http://p3.music.126.net/dbNkAQmHi2TUzgkE7Zox1A==/3318326092881882.jpg 
+playCount:0  score:41 	歌曲: 偏爱(86369)	 歌手:张芸京(10572)	al: 仙剑奇侠传三 电视原声带(8466)  图片:http://p3.music.126.net/2-_sPmCBnN6VfwFmONRy2Q==/46179488378975.jpg 
+playCount:0  score:41 	歌曲: 年轮(32619064)	 歌手:张碧晨(1024308)	al: 花千骨 电视原声带(3159123)  图片:http://p3.music.126.net/5D4hfLdRezRlax4OWiPgnw==/2899412164997218.jpg 
+playCount:0  score:40 	歌曲: 小城谣（Cover 胡碧乔）(411356221)	 歌手:泥鳅Niko(990051)	 歌手:翘课迟到少恭桑(0)	al: 小城谣(34673545)  图片:http://p3.music.126.net/0EAnL5rgjtutGTppU0Lj5w==/18198016951591392.jpg 
+playCount:0  score:37 	歌曲: 千古(33223036)	 歌手:阿兰(7076)	al: 花千骨 电视原声带(3159123)  图片:http://p3.music.126.net/5D4hfLdRezRlax4OWiPgnw==/2899412164997218.jpg 
+playCount:0  score:37 	歌曲: 半壶纱(28793140)	 歌手:刘珂矣(918054)	al: 半壶纱(3286141)  图片:http://p4.music.126.net/SKujq5vqqv4KYOVFk7SiRA==/3407386538630284.jpg 
+playCount:0  score:36 	歌曲: 油纸伞(448812017)	 歌手:李常超 (Lao乾妈)(12359437)	 歌手:满汉全席(1161201)	al: 【满汉】油纸伞(35072426)  图片:http://p4.music.126.net/hgEv2dR2z96zjucnuIFTow==/109951162828700294.jpg 
+playCount:0  score:35 	歌曲: 爱殇(28315295)	 歌手:小时姑娘(12079173)	al: 热门华语210(2774041)  图片:http://p3.music.126.net/8vwoNNvETMDOGZYH8G5LIA==/6031920790151788.jpg 
+playCount:0  score:34 	歌曲: 我的一个道姑朋友（cover タイナカ 彩智）（Cover Lon）(437250607)	 歌手:以冬(12065133)	al: 我的一个道姑朋友(34935780)  图片:http://p3.music.126.net/BoX04rxRPHLSBakoECTI3A==/17925338067851131.jpg 
+playCount:0  score:34 	歌曲: 不可说(32317560)	 歌手:霍建华(3120)	 歌手:赵丽颖(1081056)	al: 花千骨 电视原声带(3159123)  图片:http://p4.music.126.net/5D4hfLdRezRlax4OWiPgnw==/2899412164997218.jpg 
+playCount:0  score:32 	歌曲: 心之火(32408464)	 歌手:F.I.R.(11562)	 歌手:彭佳慧(9102)	al: 花千骨 电视原声带(3159123)  图片:http://p4.music.126.net/5D4hfLdRezRlax4OWiPgnw==/2899412164997218.jpg 
+playCount:0  score:32 	歌曲: 混沌(274598)	 歌手:流月(8739)	al: 混沌(27208)  图片:http://p4.music.126.net/WMWzXcUKCA9ul1I6crWH2g==/18680702557672934.jpg 
+playCount:0  score:32 	歌曲: 酒酿相思(29019519)	 歌手:檀烧(5271)	al: 热门华语232(2915245)  图片:http://p4.music.126.net/IXyIZp__D2uHYVj7NBVrwg==/5985741302175547.jpg 
+playCount:0  score:29 	歌曲: 纯白(499274374)	 歌手:双笙(12025552)	 歌手:V.K克(5342)	al: 纯白(35975119)  图片:http://p4.music.126.net/uNV6L4oOKP3suDHqnZGclQ==/19147994998024092.jpg 
+playCount:0  score:29 	歌曲: 倾尽天下(35307082)	 歌手:司夏(10089)	al: 热门华语282(3295048)  图片:http://p3.music.126.net/EnQ0J1f_-p8S2OunnRiGhA==/3298534885062503.jpg 
+playCount:0  score:29 	歌曲: 霜雪千年（Cover 洛天依 / 乐正绫）(409650851)	 歌手:双笙(12025552)	 歌手:封茗囧菌(12172529)	al: 霜雪千年（翻唱）(34612379)  图片:http://p3.music.126.net/MlJ3IKOYOGJyrHtCTuLrqg==/18198016951567518.jpg 
+playCount:0  score:28 	歌曲: 诺(25929623)	 歌手:严艺丹(10296)	al: 无·果(2347048)  图片:http://p3.music.126.net/KzZegGKSgjejEbFlaCCbfw==/5967049604212362.jpg 
+playCount:0  score:28 	歌曲: 栖枝(416890449)	 歌手:双笙(12025552)	al: 栖枝(34731650)  图片:http://p3.music.126.net/spayuwdIQ_NEqkfxfsqTBg==/18223305719105258.jpg 
+playCount:0  score:28 	歌曲: 觅红(30569280)	 歌手:兔裹煎蛋卷(997001)	al: 热门华语258(3084799)  图片:http://p3.music.126.net/Kog7y33jJpr3R2foHGuXhQ==/2539871862571110.jpg 
+playCount:0  score:28 	歌曲: 闻说笔端有风月(31517413)	 歌手:Midaho(1063107)	 歌手:兔裹煎蛋卷(997001)	al: 热门华语264(3120090)  图片:http://p4.music.126.net/aMZS6jTuJg3J_eaykzUP7w==/2931298000136969.jpg 
+playCount:0  score:27 	歌曲: Leap (Original Mix)(513138527)	 歌手:LON(12071076)	al: Leap(36570341)  图片:http://p4.music.126.net/uVpgDpSYVLtaA97U-8ghQg==/109951163043761405.jpg 
+playCount:0  score:27 	歌曲: 江山雪(纯阳)(29747554)	 歌手:小爱的妈(10141)	al: 十方天华(3070458)  图片:http://p4.music.126.net/H38CQgfRajZzfU3Ha98T8w==/6621259023592775.jpg 
+playCount:0  score:25 	歌曲: 杏花弦外雨(32957012)	 歌手:CRITTY(189347)	 歌手:司夏(10089)	al: 弦上春雪(3164957)  图片:http://p3.music.126.net/iwZ6w7D5C8WXgnjcohHb0Q==/7799935488436943.jpg 
+playCount:0  score:25 	歌曲: 我的楼兰新娘(184495)	 歌手:音频怪物(6290)	 歌手:HITA(7898)	al: 老妖的奇异之旅(18656)  图片:http://p3.music.126.net/CTaIU856FZ2snV-nEnLC_g==/118747255813392.jpg 
+playCount:0  score:24 	歌曲: 秦淮八艳(28953753)	 歌手:玉璇玑(1047223)	al: 秦淮八艳(2957113)  图片:http://p3.music.126.net/30SpmQpvH8RBQtkuVa1A0A==/8903845162120722.jpg 
+playCount:0  score:21 	歌曲: 恋恋风尘(29777652)	 歌手:程璧(973004)	al: 程璧的Demo(3076573)  图片:http://p3.music.126.net/_Ao6vPRUDi6rgE1YWpSU-A==/2538772351137400.jpg 
+playCount:0  score:20 	歌曲: 倩音流年(475072040)	 歌手:慕寒(12413)	 歌手:双笙(12025552)	al: 倩音流年(35443013)  图片:http://p3.music.126.net/Cr1BLbMxQq55fFWH_s___g==/19071029183877123.jpg 
+playCount:0  score:20 	歌曲: 【剑网3】风月事(杨宁&刘梦阳)(33004386)	 歌手:司夏(10089)	al: 【剑网3】千里丹心万里路(3093243)  图片:http://p4.music.126.net/jKknwbIVm2tVanlnYaui8g==/3235862723710258.jpg 
+playCount:0  score:20 	歌曲: 丹青客（Cover HITA & 小曲儿）(427610461)	 歌手:双笙(12025552)	 歌手:Assen捷(187295)	al: 丹青客（翻唱）(34858224)  图片:http://p3.music.126.net/zoc39Z4aBv3Si2Buim58mA==/17659256254047329.jpg 
+playCount:0  score:20 	歌曲: 百鬼夜行(184593)	 歌手:音频怪物(6290)	al: 百鬼夜行(18673)  图片:http://p3.music.126.net/EiBL-xj--shzcZerVAupeQ==/65970697678843.jpg 
+playCount:0  score:19 	歌曲: 【魔道祖师】盲（纯歌版）(450442265)	 歌手:括号君(1047179)	al: 魔道祖师同人合集(35103250)  图片:http://p3.music.126.net/hTDaKLNJJhopdAeoOyY7Mg==/109951162834332506.jpg 
+playCount:0  score:19 	歌曲: 七梅雪(33544059)	 歌手:兔裹煎蛋卷(997001)	al: 热门华语270(3176073)  图片:http://p3.music.126.net/xphtETT9CVE-IjRzGx20YA==/7969260279094350.jpg 
+playCount:0  score:19 	歌曲: 戏语花（Cover 《寒江雪》郑源）(427609090)	 歌手:玄觞(10142)	al: 玄觞一些翻唱不断更新(34778590)  图片:http://p4.music.126.net/L0WuU7XiLaSxHDD-P7_oug==/17813187881905001.jpg 
+playCount:0  score:19 	歌曲: 卿云花信 (31517407)	 歌手:Midaho(1063107)	al: 卿云花信(3124270)  图片:http://p4.music.126.net/OoigGoZYMJUmjsWkeRbpgw==/109951162990233170.jpg 
+playCount:0  score:18 	歌曲: 墨泪(28798358)	 歌手:云の泣(981005)	al: 热门华语212(2786409)  图片:http://p3.music.126.net/5vLpAQplaeMwEuhDO0HXww==/5852700394904058.jpg 
+playCount:0  score:18 	歌曲: 伊人(30070650)	 歌手:嫌弃(1044143)	al: 热门华语258(3084799)  图片:http://p4.music.126.net/Kog7y33jJpr3R2foHGuXhQ==/2539871862571110.jpg 
+playCount:0  score:18 	歌曲: 故梦(31814417)	 歌手:西国之海妖(0)	al: 热门华语264(3120090)  图片:http://p3.music.126.net/aMZS6jTuJg3J_eaykzUP7w==/2931298000136969.jpg 
+playCount:0  score:18 	歌曲: 杨花雪(31062980)	 歌手:玉璇玑(1047223)	al: 五时景(3111120)  图片:http://p4.music.126.net/ZUTOV4xUZWbqYdJIdqAhaQ==/7719671139148874.jpg 
+playCount:0  score:17 	歌曲: 梦遣看花人(435872131)	 歌手:HITA(7898)	 歌手:玉璇玑(1047223)	al: 梦遣看花人(34915520)  图片:http://p3.music.126.net/h0wUOAzO_J3Ogs3o8slxSA==/17813187881959070.jpg 
+playCount:0  score:17 	歌曲: 万神纪（人声本家·正式版）(459555084)	 歌手:肥皂菌丨珉珉的猫咪丨(12039128)	al: 万神纪（官方正式版·人声本家）(35178609)  图片:http://p3.music.126.net/tsblPkRCH7Au_qtFHRHuYw==/109951162859334048.jpg 
+playCount:0  score:17 	歌曲: 典狱司（cover：音频怪物）(440239194)	 歌手:李常超 (Lao乾妈)(12359437)	 歌手:满汉全席(1161201)	al: 【纯男声】满汉全席音乐团队(34979875)  图片:http://p3.music.126.net/gjIv7X2Azo0bABOdZf_xRg==/109951162849412719.jpg 
+playCount:0  score:17 	歌曲: 桃之夭杳(34986038)	 歌手:兔裹煎蛋卷(997001)	al: 热门华语276(3280167)  图片:http://p4.music.126.net/m1dn9beWdx-XY3ihksrmEw==/3379898744233514.jpg 
+playCount:0  score:17 	歌曲: 昔言(28765209)	 歌手:HITA(7898)	al: 醉古风(2888189)  图片:http://p4.music.126.net/LlKv4cmZuMj61KnX8P5g2g==/18620229418101916.jpg 
+playCount:0  score:17 	歌曲: 故梦（Cover 橙翼）(409654891)	 歌手:双笙(12025552)	al: 故梦（翻唱）(34615338)  图片:http://p3.music.126.net/GZJY3Iz7TacxI3pr4jvQYQ==/18007801439911769.jpg 
+playCount:0  score:17 	歌曲: 青玉案（唱：云の泣 词：小鱼萝莉）(26902780)	 歌手:云の泣(981005)	al: 小鱼萝莉作词(2569079)  图片:http://p4.music.126.net/Ia7ao4TJuRf6asS5GT6jvw==/2438716790471095.jpg 
+playCount:0  score:17 	歌曲: 墨宝 青蛇(28660040)	 歌手:清弄(1047014)	al: 墨宝 青蛇(2875014)  图片:http://p3.music.126.net/NC9YtTw2YIjYFJMcATE5Bg==/5894481836769389.jpg 
+playCount:0  score:17 	歌曲: 给少年的歌(31517567)	 歌手:程璧(973004)	al: 给少年的歌(3124325)  图片:http://p3.music.126.net/FgWdvrHdgBJZQ5rB8XfmAA==/7856010581177633.jpg 
+playCount:0  score:16 	歌曲: 大风起兮(460628744)	 歌手:Aki阿杰(188558)	al: 不负时光(35194159)  图片:http://p4.music.126.net/VNji8wf2YfGBFc9FcT0Yjg==/18741175697254275.jpg 
+playCount:0  score:16 	歌曲: 卷珠帘(31460207)	 歌手:司夏(10089)	al: 热门华语262(3109627)  图片:http://p4.music.126.net/4Pu7M0q88fVVoo1ZFS_nmw==/3408486047237011.jpg 
+playCount:0  score:16 	歌曲: 青桥(34999307)	 歌手:yuyu炭(0)	al: 热门华语280(3275736)  图片:http://p3.music.126.net/pMvI3xx9S3I_rn2MyZiOhQ==/3422779698792591.jpg 
+playCount:0  score:16 	歌曲: 红尘(175576)	 歌手:小曲儿(5997)	al: 欲 黑鸢(17737)  图片:http://p4.music.126.net/t0ImdL5lbENKIhnLw7FMNQ==/47279000006737.jpg 
+playCount:0  score:16 	歌曲: 忆江南(419374873)	 歌手:叶洛洛(975714)	 歌手:西瓜JUN(1115075)	al: 忆江南(34761312)  图片:http://p3.music.126.net/pcAUAmNav47H1SilEjk5ZA==/17835178114448204.jpg 
+playCount:0  score:16 	歌曲: 一世妆(28832249)	 歌手:Aki阿杰(188558)	al: 热门华语229(2897215)  图片:http://p4.music.126.net/4fKqZ_w_FnwjLjqUP9b-pQ==/3297435373431876.jpg 
+playCount:0  score:16 	歌曲: 无归(404465743)	 歌手:叶里(1039314)	al: 无归(34513269)  图片:http://p3.music.126.net/0m4bP0wIMUZw0Xf-Ke7yJw==/18358545649376691.jpg 
+playCount:0  score:16 	歌曲: 相思引(224327)	 歌手:董贞(7541)	al: 返璞归贞(22665)  图片:http://p4.music.126.net/mtVThiXhlFNgyunlBOcRTw==/30786325590574.jpg 
+playCount:0  score:16 	歌曲: 给猫夏的你(28656168)	 歌手:程璧(973004)	al: 晴日共剪窗(2872047)  图片:http://p3.music.126.net/ZwD6LYIkRoiNFQlM_brBLg==/5990139348644333.jpg 
+playCount:0  score:15 	歌曲: 风华诀（Cover 樱九 / Msz.蓝）(456110047)	 歌手:玄觞(10142)	 歌手:二花(0)	al: 风华诀(35148958)  图片:http://p3.music.126.net/OdBbK8yFUp8AZ4k7RIRCRQ==/109951162850173441.jpg 
+playCount:0  score:15 	歌曲: 化蝶梦令(428387759)	 歌手:Aki阿杰(188558)	al: 化蝶梦令(34863414)  图片:http://p4.music.126.net/8C_uytdRTI-yNnGCT2LJ8A==/17791197649392230.jpg 
+playCount:0  score:15 	歌曲: 一世妆(428391798)	 歌手:Aki阿杰(188558)	al: 一世妆(34865411)  图片:http://p3.music.126.net/Eu8qVtpdn94kj0d2nkMjJg==/17684545021496353.jpg 
+playCount:0  score:15 	歌曲: 贪凉记(有戏腔)(27908085)	 歌手:山猫(1047274)	al: 热门华语118(2693127)  图片:http://p4.music.126.net/Z5WVnSloIQ8nqBdLpEru-Q==/3305131954153665.jpg 
+playCount:0  score:15 	歌曲: 雪诉离歌(81400)	 歌手:东篱(2699)	 歌手:Assen捷(187295)	al: 东栏篱歌(8030)  图片:http://p3.music.126.net/Ifu9zQY1k0tF_es5M_GX4w==/123145302324076.jpg 
+playCount:0  score:15 	歌曲: 信仰年轻(28936511)	 歌手:牛奶咖啡(12437)	al: 时间的光(2891233)  图片:http://p4.music.126.net/9cvuWV4om1Ai0C9kh-APVg==/6622358534525482.jpg 
+playCount:0  score:15 	歌曲: 霜雪千年(36496389)	 歌手:萧忆情Alex(1132127)	al:  热门华语281(3288038)  图片:http://p4.music.126.net/WLngCFABwRWbhGKBNOlmYw==/3384296791681732.jpg 
+playCount:0  score:15 	歌曲: Long Way(28656173)	 歌手:程璧(973004)	al: 晴日共剪窗(2872047)  图片:http://p3.music.126.net/ZwD6LYIkRoiNFQlM_brBLg==/5990139348644333.jpg 
+playCount:0  score:15 	歌曲: Loving You(28656171)	 歌手:程璧(973004)	al: 晴日共剪窗(2872047)  图片:http://p4.music.126.net/ZwD6LYIkRoiNFQlM_brBLg==/5990139348644333.jpg 
+playCount:0  score:15 	歌曲: 你们(28656170)	 歌手:程璧(973004)	al: 晴日共剪窗(2872047)  图片:http://p4.music.126.net/ZwD6LYIkRoiNFQlM_brBLg==/5990139348644333.jpg 
+playCount:0  score:15 	歌曲: 晴日共剪窗(28656174)	 歌手:程璧(973004)	al: 晴日共剪窗(2872047)  图片:http://p3.music.126.net/ZwD6LYIkRoiNFQlM_brBLg==/5990139348644333.jpg 
+playCount:0  score:15 	歌曲: 红颜旧(32924132)	 歌手:刘涛(704004)	al: 琅琊榜 电视原声带(3270859)  图片:http://p4.music.126.net/Ztk5uyPhXS5Ygulu5y4NUA==/3430476280187276.jpg 
+playCount:0  score:14 	歌曲: 闺思梦(428390386)	 歌手:徐薇(978026)	al: 闺思梦(34864149)  图片:http://p4.music.126.net/O7JpG_65ymb4ZfDVWlXL7A==/17974816091083533.jpg 
+playCount:0  score:14 	歌曲: 魑魅魍魉(467595211)	 歌手:茶理理(1003026)	al: 天下手游同人音乐(34961044)  图片:http://p3.music.126.net/YYWCAnMNM63lYVvzypngyA==/3441471408893934.jpg 
+playCount:0  score:14 	歌曲: 玉生烟(28152112)	 歌手:七朵组合(12651)	al: 玉生烟(2732443)  图片:http://p4.music.126.net/19pFEzwCI2IYNAxPhvV72Q==/18590542604177759.jpg 
+playCount:0  score:14 	歌曲: 刹那芳华曲(32807980)	 歌手:司夏(10089)	al: 热门华语268(3159842)  图片:http://p4.music.126.net/-2PG50CSPWywCQ6GGpWphQ==/7947270045631279.jpg 
+playCount:0  score:14 	歌曲: 晓秋月明(完整版)(296958)	 歌手:天时(9557)	al: 晓秋月明(完整版)(29457)  图片:http://p3.music.126.net/_87qH7Hy22yRKLcJdDQqBQ==/5747147278459955.jpg 
+playCount:0  score:14 	歌曲: 故梦(29339482)	 歌手:只有影子(10902)	al: 故梦(3007615)  图片:http://p4.music.126.net/L-KKREFSkHijmtnbCB4tVA==/7962663211096168.jpg 
+playCount:0  score:14 	歌曲: 典狱司(422790454)	 歌手:音频怪物(6290)	al: 典狱司(34790059)  图片:http://p3.music.126.net/VqWZ_QWMF1QTvNxkN70geg==/1387583687741366.jpg 
+playCount:0  score:14 	歌曲: 月出(36117196)	 歌手:双笙(12025552)	al: 月圆，笙起(3313711)  图片:http://p4.music.126.net/1y_TLp7bftROMh-OeuL3mA==/18336555416528366.jpg 
+playCount:0  score:14 	歌曲: 锦鲤抄(28138493)	 歌手:银临(188565)	 歌手:云の泣(981005)	al: 锦鲤抄(2732390)  图片:http://p3.music.126.net/Lytc68amE03j7AbmoLQPUA==/19063332602423891.jpg 
+playCount:0  score:14 	歌曲: 百鬼夜行·人面蛛(29809143)	 歌手:Mr.岑(1041122)	al: Mr.岑(3081241)  图片:http://p3.music.126.net/b7ydV8O8F7687GP9kHwlYQ==/6631154628436122.jpg 
+playCount:0  score:13 	歌曲: 又忆江南(27556170)	 歌手:姚贝娜(10371)	al: 姚贝娜歌曲合辑(2635122)  图片:http://p4.music.126.net/Gz3PA7KJ1JPTYTMHNYGxQw==/5687773650550852.jpg 
+playCount:0  score:13 	歌曲: 忘尘谷(28568016)	 歌手:刘珂矣(918054)	al: 半壶纱(3286141)  图片:http://p3.music.126.net/SKujq5vqqv4KYOVFk7SiRA==/3407386538630284.jpg 
+playCount:0  score:13 	歌曲: 相思调(34834644)	 歌手:司夏(10089)	al: 热门华语276(3280167)  图片:http://p4.music.126.net/m1dn9beWdx-XY3ihksrmEw==/3379898744233514.jpg 
+playCount:0  score:13 	歌曲: 想做你的疯女孩(480768433)	 歌手:乔欣(12042059)	al: 欢乐颂2 电视原声带(35456292)  图片:http://p3.music.126.net/Wl7T1LBRhZFg0O26nnR2iQ==/19217264230385030.jpg 
+playCount:0  score:13 	歌曲: 吻你之时别再躲(478049385)	 歌手:杨烁(12046331)	al: 欢乐颂2 电视原声带(35456292)  图片:http://p3.music.126.net/Wl7T1LBRhZFg0O26nnR2iQ==/19217264230385030.jpg 
+playCount:0  score:13 	歌曲: 芙蓉雨(29032001)	 歌手:刘珂矣(918054)	al: 半壶纱(3286141)  图片:http://p4.music.126.net/SKujq5vqqv4KYOVFk7SiRA==/3407386538630284.jpg 
+playCount:0  score:13 	歌曲: 人间朝暮(31421862)	 歌手:少司命(9455)	 歌手:CRITTY(189347)	al: 剑走偏锋(3112633)  图片:http://p3.music.126.net/GjrhJ__5m-ybUZi46ZhAfg==/2538772351464052.jpg 
+周数据：
+playCount:0  score:100 	歌曲: 栖枝(416890449)	 歌手:双笙(12025552)	al: 栖枝(34731650)  图片:http://p3.music.126.net/spayuwdIQ_NEqkfxfsqTBg==/18223305719105258.jpg 
+playCount:0  score:66 	歌曲: 风华诀（Cover 樱九 / Msz.蓝）(456110047)	 歌手:玄觞(10142)	 歌手:二花(0)	al: 风华诀(35148958)  图片:http://p3.music.126.net/OdBbK8yFUp8AZ4k7RIRCRQ==/109951162850173441.jpg 
+playCount:0  score:66 	歌曲: 霜雪千年（Cover 洛天依 / 乐正绫）(409650851)	 歌手:双笙(12025552)	 歌手:封茗囧菌(12172529)	al: 霜雪千年（翻唱）(34612379)  图片:http://p4.music.126.net/MlJ3IKOYOGJyrHtCTuLrqg==/18198016951567518.jpg 
+playCount:0  score:66 	歌曲: 遇萤（纯歌版）(37782740)	 歌手:CRITTY(189347)	al: 遇萤(3378083)  图片:http://p3.music.126.net/LmvVQr_PDPPp_WyAic5z9g==/18358545649041961.jpg 
+playCount:0  score:44 	歌曲: 魑魅魍魉(467595211)	 歌手:茶理理(1003026)	al: 天下手游同人音乐(34961044)  图片:http://p4.music.126.net/YYWCAnMNM63lYVvzypngyA==/3441471408893934.jpg 
+playCount:0  score:44 	歌曲: 闺思梦(428390386)	 歌手:徐薇(978026)	al: 闺思梦(34864149)  图片:http://p4.music.126.net/O7JpG_65ymb4ZfDVWlXL7A==/17974816091083533.jpg 
+playCount:0  score:44 	歌曲: 戏语花（Cover 《寒江雪》郑源）(427609090)	 歌手:玄觞(10142)	al: 玄觞一些翻唱不断更新(34778590)  图片:http://p3.music.126.net/L0WuU7XiLaSxHDD-P7_oug==/17813187881905001.jpg 
+playCount:0  score:33 	歌曲: 墨村串烧合唱(528859759)	 歌手:墨明棋妙(12269)	al: 墨村串烧合唱(37190418)  图片:http://p3.music.126.net/72vL0ahN9dUtMPYxqnOueg==/109951163102138293.jpg 
+playCount:0  score:33 	歌曲: 大风起兮(460628744)	 歌手:Aki阿杰(188558)	al: 不负时光(35194159)  图片:http://p4.music.126.net/VNji8wf2YfGBFc9FcT0Yjg==/18741175697254275.jpg 
+playCount:0  score:33 	歌曲: 轮回(416384874)	 歌手:呦猫UNEKO(1215003)	al: 圆圆和呦呦的音乐日记(34729363)  图片:http://p3.music.126.net/I0pSpFUrHAU1rVbK_wxDAg==/17799993742328340.jpg 
+playCount:0  score:33 	歌曲: 哑舍序章·千机引(407761756)	 歌手:Aoide Studio(1199182)	al: 哑舍序章(34595278)  图片:http://p3.music.126.net/bjSvrM0J6_FOMMSlwJMQUw==/16590530952154842.jpg 
+playCount:0  score:33 	歌曲: 一身诗意千寻瀑(28798308)	 歌手:不才(961358)	al: 热门华语212(2786409)  图片:http://p3.music.126.net/5vLpAQplaeMwEuhDO0HXww==/5852700394904058.jpg 
+playCount:0  score:22 	歌曲: 九张机(488256319)	 歌手:叶炫清(12186038)	al: 九张机(35696322)  图片:http://p4.music.126.net/LioLn6LDJXuBoYL0VK5c1g==/19091919904944388.jpg 
+playCount:0  score:22 	歌曲: 千梦 [with. Aki阿杰](407004029)	 歌手:HITA(7898)	al: 千梦（天下3同人）(34568018)  图片:http://p4.music.126.net/Jr6jm7Tz6SANP6csW8H5YA==/16657601161413869.jpg 
+playCount:0  score:22 	歌曲: 山外小楼夜听雨(405597568)	 歌手:任然(9255)	al: 从小到大(34527511)  图片:http://p3.music.126.net/L8SZ53Nf5le4JDvG6qVB6g==/1424967072083597.jpg 
+playCount:0  score:22 	歌曲: 梦回还(405253631)	 歌手:呦猫UNEKO(1215003)	al: 梦回还(34513527)  图片:http://p4.music.126.net/hAfIXJP_ZBRQKd1VE_Hqbg==/16625715324173485.jpg 
+playCount:0  score:22 	歌曲: 可念不可说(39443692)	 歌手:崔子格(7481)	al: 太子妃升职记 原声大碟(3434176)  图片:http://p3.music.126.net/uftR_cktA4ws-wWHkampzA==/2885118514874262.jpg 
+playCount:0  score:22 	歌曲: 社戏(35307203)	 歌手:司夏(10089)	al: 热门华语282(3295048)  图片:http://p4.music.126.net/EnQ0J1f_-p8S2OunnRiGhA==/3298534885062503.jpg 
+playCount:0  score:22 	歌曲: 三月雨(35307094)	 歌手:司夏(10089)	al: 热门华语282(3295048)  图片:http://p3.music.126.net/EnQ0J1f_-p8S2OunnRiGhA==/3298534885062503.jpg 
+playCount:0  score:22 	歌曲: 倾尽天下(35307082)	 歌手:司夏(10089)	al: 热门华语282(3295048)  图片:http://p4.music.126.net/EnQ0J1f_-p8S2OunnRiGhA==/3298534885062503.jpg 
+playCount:0  score:22 	歌曲: 青桥(34999307)	 歌手:yuyu炭(0)	al: 热门华语280(3275736)  图片:http://p3.music.126.net/pMvI3xx9S3I_rn2MyZiOhQ==/3422779698792591.jpg 
+playCount:0  score:22 	歌曲: 芊芊(34364586)	 歌手:司夏(10089)	al: 热门华语280(3275736)  图片:http://p4.music.126.net/pMvI3xx9S3I_rn2MyZiOhQ==/3422779698792591.jpg 
+playCount:0  score:22 	歌曲: 为龙（cover：河图）(34078027)	 歌手:司夏(10089)	al: 热门华语274(3263930)  图片:http://p3.music.126.net/dbNkAQmHi2TUzgkE7Zox1A==/3318326092881882.jpg 
+playCount:0  score:22 	歌曲: 煨酒忽忆旧关河(32957016)	 歌手:CRITTY(189347)	al: 弦上春雪(3164957)  图片:http://p4.music.126.net/iwZ6w7D5C8WXgnjcohHb0Q==/7799935488436943.jpg 
+playCount:0  score:22 	歌曲: 玲珑(32957013)	 歌手:CRITTY(189347)	al: 弦上春雪(3164957)  图片:http://p4.music.126.net/iwZ6w7D5C8WXgnjcohHb0Q==/7799935488436943.jpg 
+playCount:0  score:22 	歌曲: 杏花弦外雨(32957012)	 歌手:CRITTY(189347)	 歌手:司夏(10089)	al: 弦上春雪(3164957)  图片:http://p3.music.126.net/iwZ6w7D5C8WXgnjcohHb0Q==/7799935488436943.jpg 
+playCount:0  score:22 	歌曲: 闻说笔端有风月(31517413)	 歌手:Midaho(1063107)	 歌手:兔裹煎蛋卷(997001)	al: 热门华语264(3120090)  图片:http://p4.music.126.net/aMZS6jTuJg3J_eaykzUP7w==/2931298000136969.jpg 
+playCount:0  score:22 	歌曲: 卿云花信 (31517407)	 歌手:Midaho(1063107)	al: 卿云花信(3124270)  图片:http://p4.music.126.net/OoigGoZYMJUmjsWkeRbpgw==/109951162990233170.jpg 
+playCount:0  score:22 	歌曲: 月见(315050)	 歌手:司夏(10089)	al: 祈愿之诗(31160)  图片:http://p3.music.126.net/OcmGsa6TreA-SYCZtEkosQ==/123145302327534.jpg 
+playCount:0  score:22 	歌曲: 明月相照(315048)	 歌手:司夏(10089)	al: 祈愿之诗(31160)  图片:http://p4.music.126.net/OcmGsa6TreA-SYCZtEkosQ==/123145302327534.jpg 
+playCount:0  score:22 	歌曲: 杨花雪(31062980)	 歌手:玉璇玑(1047223)	al: 五时景(3111120)  图片:http://p3.music.126.net/ZUTOV4xUZWbqYdJIdqAhaQ==/7719671139148874.jpg 
+playCount:0  score:22 	歌曲: 华胥引(升调版)(30953327)	 歌手:司夏(10089)	al: 热门华语261(3102682)  图片:http://p4.music.126.net/ly2FJHh5-lYMdC3NZxvavQ==/7714173580661848.jpg 
+playCount:0  score:22 	歌曲: 牵丝戏(30352891)	 歌手:银临(188565)	 歌手:Aki阿杰(188558)	al: 牵丝戏(3098268)  图片:http://p4.music.126.net/Nd86SOcyCxU5Qu7jdZn_MQ==/7725168696876736.jpg 
+playCount:0  score:22 	歌曲: 【剑网3】化鹤归(纯阳)(30070836)	 歌手:司夏(10089)	al: 【剑网3】千里丹心万里路(3093243)  图片:http://p3.music.126.net/jKknwbIVm2tVanlnYaui8g==/3235862723710258.jpg 
+playCount:0  score:22 	歌曲: 生死梦. 连枝冢(29825674)	 歌手:Tacke竹桑(9566)	al: 竹梦令(3084815)  图片:http://p3.music.126.net/ypTRxTI1UvaRZ_OqIO0h4A==/3240260769629723.jpg 
+playCount:0  score:22 	歌曲: 演义春秋(29811167)	 歌手:司夏(10089)	al: 漱愿记·漱(3083012)  图片:http://p4.music.126.net/yGZnPB0hYI4DgZLiHSVR0A==/3222668583281807.jpg 
+playCount:0  score:22 	歌曲: 提灯照河山(29811163)	 歌手:司夏(10089)	al: 漱愿记·漱(3083012)  图片:http://p3.music.126.net/yGZnPB0hYI4DgZLiHSVR0A==/3222668583281807.jpg 
+playCount:0  score:22 	歌曲: 梦独吟(29786253)	 歌手:银临(188565)	al:  热门华语250(3054186)  图片:http://p4.music.126.net/izdGjlRlcR3sx26OXZOiHw==/6631154628171782.jpg 
+playCount:0  score:22 	歌曲: 临水照花(296964)	 歌手:天時(189312)	al: 古风(29458)  图片:http://p3.music.126.net/He1lxjdgI1zfe6R-NNnF7A==/5670181464500533.jpg 
+playCount:0  score:22 	歌曲: 上阳宫词(29004533)	 歌手:谭晶(9491)	al: 热门华语234(2927100)  图片:http://p4.music.126.net/tHAfnugCElS93EDp5cHLIw==/8909342719897560.jpg 
+playCount:0  score:22 	歌曲: 书情(28768373)	 歌手:云の泣(981005)	 歌手:木槿白(0)	al: 热门华语210(2774041)  图片:http://p4.music.126.net/8vwoNNvETMDOGZYH8G5LIA==/6031920790151788.jpg 
+playCount:0  score:22 	歌曲: 鹫岭檐(歌曲版)(28606011)	 歌手:不才(961358)	al: 热门华语220(2854049)  图片:http://p4.music.126.net/SaEhGs7wKDYqCPz1ap2SLw==/3286440257121621.jpg 
+playCount:0  score:22 	歌曲: 好梦如旧(28546248)	 歌手:HITA(7898)	 歌手:林斜阳(1048004)	al: 热门华语214(2786837)  图片:http://p3.music.126.net/D22IKBn-eUq-EebVSbAuJA==/5934064255276851.jpg 
+playCount:0  score:22 	歌曲: 风起稻香(28461608)	 歌手:司夏(10089)	al: 热门华语214(2786837)  图片:http://p3.music.126.net/D22IKBn-eUq-EebVSbAuJA==/5934064255276851.jpg 
+playCount:0  score:22 	歌曲: 古剑情韵（古剑奇谭）(28409848)	 歌手:小旭音乐(900347)	al: 小旭音乐精选集（一）(2785018)  图片:http://p3.music.126.net/0xEoUVnXmKSgZspj_WcnjA==/109951162820072423.jpg 
+playCount:0  score:22 	歌曲: 浮生辞(28188428)	 歌手:银临(188565)	al: 腐草为萤(2742059)  图片:http://p3.music.126.net/LBnYDAUED2mD1veBvBnC8g==/5859297464524710.jpg 
+playCount:0  score:22 	歌曲: 梦非梦(28126341)	 歌手:崔子格(7481)	al: 小美人(2732028)  图片:http://p4.music.126.net/JYBgpZrztAql00brOnuTFA==/5840605766903464.jpg 
+playCount:0  score:11 	歌曲: 剩下了自己(529823399)	 歌手:张韶涵(10562)	al: 剩下了自己(37253127)  图片:http://p4.music.126.net/sP3HC-f5ELM2nCgLwT3hJw==/109951163106305689.jpg 
+playCount:0  score:11 	歌曲: 白夜(509311810)	 歌手:尹姝贻(12656142)	al: 白夜(36412302)  图片:http://p3.music.126.net/jdVzpaknIlqAI4oBnesepw==/109951163032584409.jpg 
+playCount:0  score:11 	歌曲: 风月令（《叶羽千华》专辑收录曲01）(469486395)	 歌手:IRiS七叶(1047209)	al: 【IRiS七叶】风月令(35331281)  图片:http://p3.music.126.net/DZ0tlvPLZbkGQfH_aU5MqA==/109951162891764505.jpg 
+playCount:0  score:11 	歌曲: 鱼玄机（Cover：滨崎步）(465648619)	 歌手:小懒Eliza(12139396)	al: LAN(35184623)  图片:http://p3.music.126.net/e4RSFXHJ6FOQFVlCuvlQ5w==/109951162861245859.jpg 
+playCount:0  score:11 	歌曲: 未归客-橙光游戏《深宫未归人》主题曲(463032340)	 歌手:阿南sara(12349372)	 歌手:橙光音乐(12063096)	al: 深宫未归人·橙光OST(35231714)  图片:http://p3.music.126.net/nKIp7yy8cXdESuIexCn5_Q==/109951162869379935.jpg 
+playCount:0  score:11 	歌曲: 未见青山老(453175619)	 歌手:以冬(12065133)	al: 未见青山老(35125025)  图片:http://p3.music.126.net/Bli08kedCa1pT0p05AxO8A==/109951162955789816.jpg 
+playCount:0  score:11 	歌曲: 清明上河图(438900689)	 歌手:西瓜JUN(1115075)	al: 清明上河图(34966210)  图片:http://p4.music.126.net/6PdmT4agH9LaCGoBVh1Zlg==/109951162834078388.jpg 
+playCount:0  score:11 	歌曲: 长是人千里(431794323)	 歌手:初夏小溪(12125049)	al: 云胡调(34892039)  图片:http://p4.music.126.net/sPnKaTgoWE5KUhjHT7mJYQ==/17637266021517191.jpg 
+playCount:0  score:11 	歌曲: 海棠(427017602)	 歌手:玄觞(10142)	al: 玄觞《海棠》(34848321)  图片:http://p4.music.126.net/D_KOboKLRdgF6p7SY7GQag==/17669151858695907.jpg 
+playCount:0  score:11 	歌曲: 重回汉唐(417595650)	 歌手:冬子(896942)	 歌手:江南诚(1047078)	al: 重回汉唐(34743258)  图片:http://p4.music.126.net/J4eVUfULQUhtA8PHSfhqIQ==/17876959556251234.jpg 
+playCount:0  score:11 	歌曲: 红梅白雪知(413829629)	 歌手:汐音社(1170004)	al: 人间词话(34705296)  图片:http://p3.music.126.net/EX9dtcuR52Tf_8Omb2Jx7A==/17707634765654133.jpg 
+playCount:0  score:11 	歌曲: 梅雨声(409931061)	 歌手:莫小娘(9019)	al: 梅雨声(34611360)  图片:http://p4.music.126.net/iJuiQj9aSO4yO4mf8zGCdg==/1405175866328498.jpg 
+playCount:0  score:11 	歌曲: 无归(404465743)	 歌手:叶里(1039314)	al: 无归(34513269)  图片:http://p4.music.126.net/0m4bP0wIMUZw0Xf-Ke7yJw==/18358545649376691.jpg 
+playCount:0  score:11 	歌曲: 古旧人间(38574421)	 歌手:Tacke竹桑(9566)	al: 人间词话(3430179)  图片:http://p3.music.126.net/kLGkxZl0xRcCYBJnR7Ru8w==/16668596277211230.jpg 
+playCount:0  score:11 	歌曲: 光之舞(37764195)	 歌手:Tacke竹桑(9566)	al: 光之舞(3413496)  图片:http://p4.music.126.net/grurFcUaD7GOZg9DJ4N_mw==/17968219021125264.jpg 
+playCount:0  score:11 	歌曲: 琉花簪(35307167)	 歌手:鸦青(1050206)	al: 热门华语282(3295048)  图片:http://p3.music.126.net/EnQ0J1f_-p8S2OunnRiGhA==/3298534885062503.jpg 
+playCount:0  score:11 	歌曲: 杀伐(34899590)	 歌手:萧忆情Alex(1132127)	 歌手:伦桑(981141)	al:  热门华语281(3288038)  图片:http://p3.music.126.net/WLngCFABwRWbhGKBNOlmYw==/3384296791681732.jpg 
+playCount:0  score:11 	歌曲: 鸿鹄志(34383493)	 歌手:Aki阿杰(188558)	 歌手:橙翼(189912)	 歌手:想想(1032035)	 歌手:伦桑(981141)	al: 热门华语274(3263930)  图片:http://p4.music.126.net/dbNkAQmHi2TUzgkE7Zox1A==/3318326092881882.jpg 
+playCount:0  score:11 	歌曲: 礼仪之邦(33891487)	 歌手:HITA(7898)	 歌手:安九(7138)	 歌手:叶里(1039314)	al: 礼仪之邦(2963100)  图片:http://p3.music.126.net/UpBL4IIa1fJKJmQMHxSONA==/3267748558003833.jpg 
+playCount:0  score:11 	歌曲: 七梅雪(33544059)	 歌手:兔裹煎蛋卷(997001)	al: 热门华语270(3176073)  图片:http://p4.music.126.net/xphtETT9CVE-IjRzGx20YA==/7969260279094350.jpg 
+playCount:0  score:11 	歌曲: 千金埋骨(33479324)	 歌手:奇然(4873)	 歌手:重小烟(7484)	al: 热门华语272(3210188)  图片:http://p4.music.126.net/gvU5elgCPar8nsUeNWaiOg==/3348012906580223.jpg 
+playCount:0  score:11 	歌曲: 天地流离(32069984)	 歌手:冬子(896942)	 歌手:江南诚(1047078)	al: 九州贰·天地流离(3139907)  图片:http://p3.music.126.net/NrNLYm5FoAjDM0GkH6rESg==/2921402396461894.jpg 
+playCount:0  score:11 	歌曲: 4.狐嫁(31789180)	 歌手:玄觞(10142)	al: 玄觞专辑CD2《玄舞花下》(2960758)  图片:http://p4.music.126.net/dUoKLi8ZsFmeoxcTB6eAzA==/2895014117058914.jpg 
+playCount:0  score:11 	歌曲: 千年缘(314315)	 歌手:心然(10063)	al: 心然吧三周年同人合辑（上）(31101)  图片:http://p3.music.126.net/dQl5FK6hkjrrr5Ph6tBbkQ==/18778559092796622.jpg 
+playCount:0  score:11 	歌曲: 故人叹(302891)	 歌手:吴琼(9682)	al: 她是你的谁(30001)  图片:http://p3.music.126.net/Q0HlZVp-3sgbpJW8v0jufA==/117647744190029.jpg 
+playCount:0  score:11 	歌曲: 冠军侯(30070829)	 歌手:i2star(11937)	al: 千年调(3093242)  图片:http://p4.music.126.net/sJLs2SBo5pZAXoiRWttWxw==/3234763212081635.jpg 
+playCount:0  score:11 	歌曲: 伊人(30070650)	 歌手:嫌弃(1044143)	al: 热门华语258(3084799)  图片:http://p4.music.126.net/Kog7y33jJpr3R2foHGuXhQ==/2539871862571110.jpg 
+playCount:0  score:11 	歌曲: 俗世呀(29722034)	 歌手:Aki阿杰(188558)	al: 天命风流(3066154)  图片:http://p3.music.126.net/kjozg-E0oRgx0_RnaMdhmg==/6624557558437262.jpg 
+playCount:0  score:11 	歌曲: 江山雪(29414728)	 歌手:小爱的妈(10141)	al: 热门华语239(2990088)  图片:http://p4.music.126.net/VDzqLf2w5SV-VU1FH1AwNg==/6657542906420975.jpg 
+playCount:0  score:11 	歌曲: 信步史书(293396)	 歌手:少司命(9455)	al: 以剑之名(29113)  图片:http://p3.music.126.net/P58sP2eRW2jRVlBnIul7xA==/91259465122622.jpg 
+playCount:0  score:11 	歌曲: 杯酒释兵权(293393)	 歌手:少司命(9455)	al: 以剑之名(29113)  图片:http://p3.music.126.net/P58sP2eRW2jRVlBnIul7xA==/91259465122622.jpg 
+playCount:0  score:11 	歌曲: 魅影醉(29095517)	 歌手:少司命(9455)	al: 热门华语234(2927100)  图片:http://p3.music.126.net/tHAfnugCElS93EDp5cHLIw==/8909342719897560.jpg 
+playCount:0  score:11 	歌曲: 鼓与花(28957362)	 歌手:墨明棋妙(12269)	al: 鼓与花(2960501)  图片:http://p4.music.126.net/jlAUlLnQG7NgHmOk16BZyw==/8900546627235477.jpg 
+playCount:0  score:11 	歌曲: 守望(28832291)	 歌手:贰婶(189955)	 歌手:只有影子(10902)	al: 热门华语229(2897215)  图片:http://p3.music.126.net/4fKqZ_w_FnwjLjqUP9b-pQ==/3297435373431876.jpg 
+playCount:0  score:11 	歌曲: 诸子百家(28832265)	 歌手:小曲儿(5997)	 歌手:吾恩(966016)	 歌手:Assen捷(187295)	 歌手:小魂(1047088)	al: 热门华语229(2897215)  图片:http://p4.music.126.net/4fKqZ_w_FnwjLjqUP9b-pQ==/3297435373431876.jpg 
+playCount:0  score:11 	歌曲: 雁城雪(28661587)	 歌手:小爱的妈(10141)	al: 雁城雪(2866280)  图片:http://p3.music.126.net/YzwNSGpnzZI1XHhqDIE9KA==/6046214441691280.jpg 
+playCount:0  score:11 	歌曲: 雅乐寻踪(28381289)	 歌手:i2star(11937)	al: 雅乐寻踪(2785021)  图片:http://p3.music.126.net/DA8mN9FuPy0vZPUiC7cTdQ==/6046214441340887.jpg 
+playCount:0  score:11 	歌曲: 谓我(28188386)	 歌手:小曲儿(5997)	al: 曲倾天下(2742055)  图片:http://p4.music.126.net/h6yYotBc15v_FOtoz6shTw==/5893382324984869.jpg 
+playCount:0  score:11 	歌曲: 雪月成阙 -full size-(279664)	 歌手:梦璟SAYA(9031)	al: 雪月成阙 -full size-(27772)  图片:http://p3.music.126.net/JrEG6XanmDQ3IOnQ5zRPIA==/79164837213463.jpg 
+playCount:0  score:11 	歌曲: 画眉(27890488)	 歌手:HITA(7898)	al: 热门华语4(2685641)  图片:http://p3.music.126.net/VUbLKgl2o66oqmfsBm2ywQ==/3275445140711466.jpg 
+playCount:0  score:11 	歌曲: 落花情(26545241)	 歌手:七朵(12651)	al: 落花情(2519222)  图片:http://p3.music.126.net/CVcs8Lt0pCawZLN2pjp-QA==/18523472394856732.jpg 
+playCount:0  score:11 	歌曲: 相思垢(247516)	 歌手:金莎(8259)	al: 星月神话(24796)  图片:http://p3.music.126.net/wgZWg1IFAigdodveDV97lA==/119846767428565.jpg 
+playCount:0  score:11 	歌曲: 三生石，三生路(桜モダン中文版)(206358)	 歌手:阿兰(7076)	al: 心.战~RED CLIFF~(20958)  图片:http://p3.music.126.net/NSoasv6QdKcmV8SwTGwWnA==/57174604656687.jpg 
+playCount:0  score:11 	歌曲: 第三十八年夏至(101126)	 歌手:河图(3249)	al: 第三十八年夏至(9897)  图片:http://p3.music.126.net/Q2dCo2lH53tqJe2zjaC56Q==/3393092900107787.jpg 
+playCount:0  score:11 	歌曲: 为龙(101085)	 歌手:河图(3249)	al: 唱给你的歌(9890)  图片:http://p4.music.126.net/xHVVFtjMmq4cM9xllO52yQ==/101155069767537.jpg 
+UserProfile:
+	用户:beifeng003(1304760861)  性别:女  头像Url:http://p1.music.126.net/_f8R60U9mZ42sSNvdPn2sQ==/109951162868126486.jpg (http://p1.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg)
+个性签名：
+简介：
+详细介绍：
+POST https://music.163.com/weapi/user/playlist?csrf_token= HTTP/1.1200
+歌单id:2004143308  歌单：beifeng003喜欢的音乐  描述: null  图片：http://p1.music.126.net/EWC8bPR8WW9KvhaftdmsXQ==/3397490930543093.jpg  
+	(所属用户 Id: 1304760861  用户名：  beifeng003  个性签名:   pic: http://p1.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg  pic: http://p1.music.126.net/_f8R60U9mZ42sSNvdPn2sQ==/109951162868126486.jpg)
+歌单id:2004161090  歌单：xtqin  描述: null  图片：http://p1.music.126.net/N8O_WMJqX8xBTQpHXIXyIA==/7819726697960105.jpg  
+	(所属用户 Id: 1304760861  用户名：  beifeng003  个性签名:   pic: http://p1.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg  pic: http://p1.music.126.net/_f8R60U9mZ42sSNvdPn2sQ==/109951162868126486.jpg)
+POST https://music.163.com/weapi/v1/play/record?csrf_token= HTTP/1.1   status:HTTP/1.1 200 OK 
+所有数据：
+playCount:0  score:100 	歌曲: 库郎特舞曲(34341482)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:100 	歌曲: 加沃特舞曲3(34341483)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:100 	歌曲: 小步舞曲1(34341471)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:100 	歌曲: 思乡曲(315762)	 歌手:谢楠(10177)	al: 弦情往事(31276)  图片:http://p4.music.126.net/YyISSxs1bo8KAkh_y2wG2A==/81363860471323.jpg 
+playCount:0  score:100 	歌曲: 我爱你中国(小提琴)(34586283)	 歌手:群星(122455)	al: 热门华语280(3275736)  图片:http://p4.music.126.net/pMvI3xx9S3I_rn2MyZiOhQ==/3422779698792591.jpg 
+playCount:0  score:50 	歌曲: 我们不一样(482395261)	 歌手:大壮(12146142)	al: 我们不一样(35579387)  图片:http://p3.music.126.net/e8rrwkOED4RbeaKuaVOcJA==/18997361904874206.jpg 
+playCount:0  score:50 	歌曲: 追光者(483671599)	 歌手:岑宁儿(7409)	al: 夏至未至 影视原声带(35644242)  图片:http://p3.music.126.net/ZZAQGWl9mR7g5xCyWWH3Pw==/19149094509535913.jpg 
+playCount:0  score:50 	歌曲: 远走高飞(474567580)	 歌手:金志文(166014)	al: Hello 1(35450132)  图片:http://p4.music.126.net/elfqBKIdad0KYCCeKQpDSA==/18700493767108166.jpg 
+playCount:0  score:50 	歌曲: 第二协奏曲(34341477)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 快板1(34341481)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 合唱(34341467)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 渔舟唱晚(122682)	 歌手:吕思清(3762)	al: 梁祝小提琴协奏曲(11862)  图片:http://p3.music.126.net/vf56oSgfoP5JMaQJor8rpA==/17994607300434209.jpg 
+playCount:0  score:50 	歌曲: 加沃特舞曲2(34341474)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 两个掷弹兵(34341470)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p3.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 步列舞曲(34341475)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 久石让 - 【小提琴四重奏】天空之城(474028462)	 歌手:Zz_白日梦_zZ(12204687)	al: 2017白日梦小提琴翻奏合集（更新中）(35230639)  图片:http://p3.music.126.net/bXIpcSSW2Q4PMhHV0UmOmw==/109951162869265488.jpg 
+playCount:0  score:50 	歌曲: 保卫黄河(28993046)	 歌手:薛汀哲(5908)	al: 协奏曲(2971296)  图片:http://p3.music.126.net/6GWKzZGVmBRYf2bfCvOi1w==/6638851208513416.jpg 
+playCount:0  score:50 	歌曲: 小提琴(5264296)	 歌手:群星(122455)	al: 惠威高低音试音碟(512608)  图片:http://p4.music.126.net/ueTLW9dACWFNBZdEstXDgw==/69269232567586.jpg 
+playCount:0  score:50 	歌曲: A大调无穷动(34341463)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 第三奏鸣曲(34341480)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p4.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 乡村舞曲(34341478)	 歌手:铃木镇(1137510)	al: 铃木小提琴教材(3280346)  图片:http://p3.music.126.net/9tBAl9V5tLYbEZ1AbQkL7Q==/3252355395460825.jpg 
+playCount:0  score:50 	歌曲: 幽默曲(5276797)	 歌手:Antonín Dvořák(27686)	al: 史上最优美钢琴小品精华(513361)  图片:http://p3.music.126.net/UTrFxVAoq-Qh50dB_M74dw==/51677046522530.jpg 
+playCount:0  score:50 	歌曲: 黎家代表上北京(315757)	 歌手:谢楠(10177)	al: 弦情往事(31276)  图片:http://p3.music.126.net/YyISSxs1bo8KAkh_y2wG2A==/81363860471323.jpg 
+playCount:0  score:50 	歌曲: 小提琴协奏曲 No1.1 Khachaturian(521784054)	 歌手:群星(122455)	al: 古典奇幻之旅3(36873268)  图片:http://p3.music.126.net/phQauWZwrWXCCGDf7Dxy_Q==/109951163074012819.jpg 
+playCount:0  score:50 	歌曲: 洪湖赤卫队随想曲(34367173)	 歌手:潘寅林(686007)	al: 中国小提琴经典作品(3279360)  图片:http://p3.music.126.net/N8O_WMJqX8xBTQpHXIXyIA==/7819726697960105.jpg 
+playCount:0  score:50 	歌曲: 梁祝 (选段)(34367179)	 歌手:潘寅林(686007)	al: 中国小提琴经典作品(3279360)  图片:http://p3.music.126.net/N8O_WMJqX8xBTQpHXIXyIA==/7819726697960105.jpg 
+playCount:0  score:50 	歌曲: 战斗进行曲(34367172)	 歌手:潘寅林(686007)	al: 中国小提琴经典作品(3279360)  图片:http://p4.music.126.net/N8O_WMJqX8xBTQpHXIXyIA==/7819726697960105.jpg 
+playCount:0  score:50 	歌曲: 前奏与快板 克莱斯勒(32708290)	 歌手:群星(122455)	al: 小提琴经典名曲欣赏伴奏系列③(3170359)  图片:http://p4.music.126.net/riTFVRFW4F6Kw1ydeCDivQ==/7929677860247219.jpg 
+周数据：
+UserProfile:
+	用户:ruifeng003(263565943)  性别:女  头像Url:http://p1.music.126.net/VTW4vsN08vwL3uSQqPyHqg==/2002210674180199.jpg (http://p1.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg)
+个性签名：
+简介：
+详细介绍：
+POST https://music.163.com/weapi/user/playlist?csrf_token= HTTP/1.1200
+歌单id:359460498  歌单：ruifeng003喜欢的音乐  描述: null  图片：http://p1.music.126.net/EWC8bPR8WW9KvhaftdmsXQ==/3397490930543093.jpg  
+	(所属用户 Id: 263565943  用户名：  ruifeng003  个性签名:   pic: http://p1.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg  pic: http://p1.music.126.net/VTW4vsN08vwL3uSQqPyHqg==/2002210674180199.jpg)
+歌单id:325399818  歌单：♬ 我有一个小秘密，藏在我的吉他里  描述: 一弦是酸楚的泪
+二弦是方糖
+三弦点燃篝火
+四弦是黑色的光
+五弦那么的忧伤
+六弦有山一般的信仰
+
+午后吉他在虫鸣中更清脆
+阳光洒在路上就不怕心碎
+珍惜一切
+就算没有拥有
+
+我抱着吉他，独自歌唱，一首接一首，不知疲倦，唱的情真意切，声嘶力竭，好希望你能在场，想把我唱给你听，趁现在年少如花。
+
+我有一个小秘密
+藏在我的吉他里
+跟着我的情意
+唱我的旋律
+让我轻轻地告诉你  图片：http://p1.music.126.net/UlWrKkll09GtZozB_gY9lw==/1413971957422626.jpg  
+	(所属用户 Id: 60196405  用户名：  Xu_米粒  个性签名: 路过的风景都是一种经历，听过的歌声旋律都是流年里最美好的回音！  pic: http://p1.music.126.net/1HdiJn-GKOsUrTKLUTL0Uw==/18618030395282349.jpg  pic: http://p1.music.126.net/dbVBw4aoJjKhzmogh8R_gQ==/18561955302227908.jpg)
+歌单id:88164791  歌单：小众视野民谣精选  描述: 我虽身陷囹圄，但仍心怀远方。
+原封面受太多吐槽而替换，现封面选自村友（还是想说一下，音乐和歌单本身才是关键，现在却受封面与单名影响。这应该不是好的现象。）  图片：http://p1.music.126.net/BjDNQlC9XCWz1ZVreefJKw==/3415083116541855.jpg  
+	(所属用户 Id: 35415082  用户名：  夏季信风  个性签名: 厌恶争执不善言说  pic: http://p1.music.126.net/sP_Vl9ZpxdCDmfIH7sHZTw==/3432675304085756.jpg  pic: http://p1.music.126.net/gnnFPzoPagLuiSKGcJfJ9g==/19185378393076831.jpg)
+POST https://music.163.com/weapi/v1/play/record?csrf_token= HTTP/1.1   status:HTTP/1.1 200 OK 
+所有数据：
+playCount:0  score:100 	歌曲: 静静的(26145040)	 歌手:吴思瑶(9786)	al: 北京日和(2397014)  图片:http://p4.music.126.net/WLiOukus51PdTNzRfBDz3g==/2518981139257699.jpg 
+playCount:0  score:100 	歌曲: 六年【DEMO】 2013(28786397)	 歌手:一三(962079)	al: DEMO·YISAN(2894055)  图片:http://p4.music.126.net/qITIhUy9H3xxuqiaWEI4Xw==/5990139348542475.jpg 
+playCount:0  score:100 	歌曲: 故乡(28288510)	 歌手:朱国军(0)	al: 草堆民谣(2767741)  图片:http://p4.music.126.net/rGPtX2zTvNwZBb4ZsjyVpA==/5967049604004906.jpg 
+playCount:0  score:100 	歌曲: 乡音(28288504)	 歌手:尕金乐队(1049741)	al: 草堆民谣(2767741)  图片:http://p4.music.126.net/rGPtX2zTvNwZBb4ZsjyVpA==/5967049604004906.jpg 
+playCount:0  score:100 	歌曲: 生活(175246)	 歌手:小皮(5963)	al: 我们都是岁月的孩子(17664)  图片:http://p3.music.126.net/GA8HRUNYkw_LdIbR_ViYLQ==/29686813955446.jpg 
+playCount:0  score:100 	歌曲: 种树(28587888)	 歌手:马飞(842005)	al: 当初就不应该学吉他(2848194)  图片:http://p3.music.126.net/UIoS0htaDMZDeQVaZYhbrQ==/6020925674131727.jpg 
+playCount:0  score:100 	歌曲: 立乐(28288506)	 歌手:群星(122455)	al: 草堆民谣(2767741)  图片:http://p4.music.126.net/rGPtX2zTvNwZBb4ZsjyVpA==/5967049604004906.jpg 
+playCount:0  score:100 	歌曲: 难得(28935306)	 歌手:安来宁(802016)	al: 我的名字叫做安(2948185)  图片:http://p4.music.126.net/k3bJBDf9mmuJjpW0GrveCA==/8901646138516033.jpg 
+playCount:0  score:100 	歌曲: 青春(156154)	 歌手:王梵瑞(5352)	al: 青春(15729)  图片:http://p4.music.126.net/L0iLBhhnmaWkoPIxlyI25Q==/108851651161957.jpg 
+playCount:0  score:100 	歌曲: 世界(192335)	 歌手:张过年(6488)	al: 滴落的时光 EP(19416)  图片:http://p3.music.126.net/rJaAG-26tIIT0UnHx0H4Sg==/128642860467714.jpg 
+playCount:0  score:100 	歌曲: 暗河(29588431)	 歌手:冯佳界(957020)	al: 冯佳界制作习作集(3053207)  图片:http://p4.music.126.net/VtUQQ1HWTEc4jBcKWLqEiA==/6659741930485323.jpg 
+playCount:0  score:100 	歌曲: 云(30251345)	 歌手:卡奇社(12054)	al: 云(3095034)  图片:http://p4.music.126.net/XGFzJN2nC9tXWDik850tbg==/7787840859637724.jpg 
+周数据：
